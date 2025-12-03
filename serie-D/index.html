@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Série D</title>
+    <link rel="stylesheet" href="../style.css" />
+    <script src="../script.js" defer></script>
+  </head>
+  <body>
+    <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
+
+    <nav class="menu">
+      <a href="../index.html">MELHORES DA RODADA</a>
+      <a href="../serie-a/index.html">SÉRIE A</a>
+      <a href="../serie-b/index.html">SÉRIE B</a>
+      <a href="../serie-c/index.html">SÉRIE C</a>
+      <a href="index.html" class="ativo">SÉRIE D</a>
+      <a href="../serie-e/index.html">SÉRIE E</a>
+      <a href="#">LIBERTADORES</a>
+      <a href="#">COPA DO BRASIL</a>
+    </nav>
+
+    <nav class="menu">
+      <button onclick="window.location.href='../index.html'">VOLTAR</button>
+    </nav>
+
+    <section class="conteudo-serie">
+      <h2>CLASSIFICAÇÃO</h2>
+      <img src="classificacao.png" class="imagem" alt="Classificação Série D" />
+
+      <div class="rodadas-header">
+        <button class="seta" onclick="trocarRodada(-1)">◀</button>
+        <span id="titulo-rodada">1ª RODADA</span>
+        <button class="seta" onclick="trocarRodada(1)">▶</button>
+      </div>
+
+      <img
+        id="imagem-rodada"
+        src="rodadas/rodada1.png"
+        class="imagem"
+        alt="Rodada Série D"
+      />
+    </section>
+  </body>
+</html>

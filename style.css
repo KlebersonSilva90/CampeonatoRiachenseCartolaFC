@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(180deg, #ffb300, #e77f24);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* TOPO */
+#topo {
+  text-align: center;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.2);
+  font-size: 49px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+/* MENU */
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  padding: 15px;
+  background: #ffb300;
+}
+
+.menu a {
+  padding: 10px 18px;
+  background: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+  border: 2px solid black;
+  transition: 0.2s;
+}
+
+.menu a:hover {
+  background: #ffe0b2;
+}
+
+.menu .ativo {
+  background: #ff8c00;
+  color: white;
+}
+
+/* CONTEÚDO */
+.conteudo-serie,
+.conteudo-principal {
+  padding: 20px;
+  max-width: 700px;
+  margin: auto;
+}
+
+/* RODADAS */
+.rodadas-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+.seta {
+  background: none;
+  border: none;
+  font-size: 32px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.imagem {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+  .rodadas-header {
+    font-size: 16px;
+  }
+  .seta {
+    font-size: 26px;
+  }
+}
