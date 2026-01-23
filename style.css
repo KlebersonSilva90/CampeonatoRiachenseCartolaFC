@@ -85,3 +85,7 @@ body {
     font-size: 26px;
   }
 }
+
+.conteudo-serie {
+  touch-action: pan-y;
+}
