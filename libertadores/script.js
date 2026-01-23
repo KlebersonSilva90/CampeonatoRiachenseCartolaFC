@@ -1,12 +1,12 @@
 const grupos = [
-  "Grupo A",
-  "Grupo B",
-  "Grupo C",
-  "Grupo D",
-  "Grupo E",
-  "Grupo F",
-  "Grupo G",
-  "Grupo H",
+  "grupo-a",
+  "grupo-b",
+  "grupo-c",
+  "grupo-d",
+  "grupo-e",
+  "grupo-f",
+  "grupo-g",
+  "grupo-h",
 ];
 
 let grupoAtual = 0;
@@ -16,11 +16,12 @@ const imgClassificacao = document.getElementById("imagem-classificacao");
 const imgRodadas = document.getElementById("imagem-rodadas");
 
 function atualizarGrupo() {
-  const grupo = grupos[grupoAtual];
+  const pasta = grupos[grupoAtual];
 
-  tituloGrupo.innerText = grupo.toUpperCase();
-  imgClassificacao.src = `${grupo}/classificacao.png`;
-  imgRodadas.src = `${grupo}/rodadas.png`;
+  tituloGrupo.innerText = pasta.replace("grupo-", "GRUPO ").toUpperCase();
+
+  imgClassificacao.src = `${pasta}/classificacao.png`;
+  imgRodadas.src = `${pasta}/rodadas.png`;
 }
 
 function trocarGrupo(direcao) {
@@ -31,6 +32,8 @@ function trocarGrupo(direcao) {
 
   atualizarGrupo();
 }
+
+atualizarGrupo();
 
 // inicializa na primeira carga
 atualizarGrupo();
