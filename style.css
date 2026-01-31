@@ -99,3 +99,35 @@ body {
 .conteudo-serie {
   touch-action: pan-y;
 }
+
+
+/* SPLASH SCREEN */
+#splash {
+  position: fixed;
+  inset: 0;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  opacity: 1;
+  transition: opacity 1s ease;
+  z-index: 9999;
+}
+
+#splash img {
+  width: 80%;
+  height: 80%;
+  object-fit: cover;
+}
+
+/* Site começa escondido */
+#site {
+  display: none;
+}
+
+/* Quando splash sair */
+#splash.hide {
+  opacity: 0;
+  pointer-events: none;
+}

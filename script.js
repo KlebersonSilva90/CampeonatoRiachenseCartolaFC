@@ -12,3 +12,18 @@ function trocarRodada(direcao) {
   document.getElementById("imagem-rodada").src =
     "rodadas/rodada" + rodadaAtual + ".png";
 }
+
+
+window.addEventListener("load", () => {
+  const splash = document.getElementById("splash");
+  const site = document.getElementById("site");
+
+  setTimeout(() => {
+    splash.classList.add("hide");
+
+    setTimeout(() => {
+      splash.style.display = "none";
+      site.style.display = "block";
+    }, 1000);
+  }, 2000);
+});
