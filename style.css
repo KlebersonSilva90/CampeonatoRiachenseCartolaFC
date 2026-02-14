@@ -1,3 +1,7 @@
+/* ============================= */
+/* ===== RESET / BASE ===== */
+/* ============================= */
+
 body {
   margin: 0;
   padding: 0;
@@ -5,7 +9,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* TOPO */
+/* ============================= */
+/* ===== TOPO ===== */
+/* ============================= */
+
 #topo {
   text-align: center;
   padding: 20px;
@@ -15,7 +22,10 @@ body {
   color: whitesmoke;
 }
 
-/* MENU */
+/* ============================= */
+/* ===== MENU ===== */
+/* ============================= */
+
 .menu {
   display: flex;
   flex-wrap: wrap;
@@ -45,19 +55,26 @@ body {
   color: white;
 }
 
-/* CONTEÚDO */
+/* ============================= */
+/* ===== CONTEÚDO ===== */
+/* ============================= */
+
 .conteudo-serie,
 .conteudo-principal {
   padding: 20px;
-  max-width: 1200px; /*700px;*/
+  max-width: 1200px;
   margin: auto;
 }
+
 .conteudo-principal h2,
 .conteudo-principal p {
   text-align: center;
 }
 
-/* RODADAS */
+/* ============================= */
+/* ===== RODADAS ===== */
+/* ============================= */
+
 .rodadas-header {
   display: flex;
   justify-content: space-between;
@@ -86,53 +103,80 @@ body {
   max-width: 100%;
 }
 
-/* MOBILE */
+.conteudo-serie {
+  touch-action: pan-y;
+}
+
+/* ============================= */
+/* ===== MOBILE ===== */
+/* ============================= */
+
 @media (max-width: 600px) {
+  #topo {
+    font-size: 28px; /* 🔥 melhora leitura no celular */
+    padding: 15px;
+  }
+
   .rodadas-header {
     font-size: 16px;
   }
+
   .seta {
     font-size: 26px;
   }
 }
 
-.conteudo-serie {
-  touch-action: pan-y;
-}
+/* ============================= */
+/* ===== SPLASH CINEMÁTICA ===== */
+/* ============================= */
 
-
-/* SPLASH SCREEN */
 #splash {
   background: black;
   position: fixed;
-  inset: 0;  
-  display: flex;
+  inset: 0;
+  display: none;
   justify-content: center;
   align-items: center;
-
   opacity: 1;
-  transition: opacity 1s ease;
+  transition: opacity 0.7s ease;
   z-index: 9999;
+  overflow: hidden;
 }
 
+/* 🎬 imagem da splash */
 #splash img {
   width: 100%;
   height: 100%;
   object-fit: contain;
+  background: black;
+  transform: scale(1.04); /* zoom inicial */
+  transition: transform 1.2s ease;
 }
 
-@media (max-width: 768px) {
-  #splash img {
-    object-fit: contain;
-  }
+/* 🎬 zoom suave ao aparecer */
+#splash.show img {
+  transform: scale(1);
 }
 
-/* Site começa escondido */
+/* ============================= */
+/* ===== SITE FADE ===== */
+/* ============================= */
+
 #site {
-  display: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.7s ease;
 }
 
-/* Quando splash sair */
+#site.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* ============================= */
+/* ===== SPLASH SAINDO ===== */
+/* ============================= */
+
 #splash.hide {
   opacity: 0;
   pointer-events: none;
