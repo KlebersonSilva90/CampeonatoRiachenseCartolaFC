@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
@@ -8,40 +8,57 @@
     <script src="../script.js" defer></script>
   </head>
   <body>
-    <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
+    <div id="splash">
+      <img id="splashImg" src="/img/Capa.png" alt="Splash" />
+    </div>
 
-    <nav class="menu">
-      <a href="../index.html">MELHORES DA RODADA</a>
-      <a href="../serie-A/index.html">SÉRIE A</a>
-      <a href="index.html" class="ativo">SÉRIE B</a>
-      <a href="../serie-C/index.html">SÉRIE C</a>
-      <a href="../serie-D/index.html">SÉRIE D</a>
-      <a href="../serie-E/index.html">SÉRIE E</a>
-      <a href="../libertadores/index.html">LIBERTADORES</a>
-      <a href="../copadobrasil/index.html">COPA DO BRASIL</a>
-    </nav>
+    <div id="site">
+      <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
 
-    <nav class="menu">
-      <button onclick="window.location.href='../index.html'">VOLTAR</button>
-    </nav>
+      <nav class="menu">
+        <a href="/index.html" data-splash="/img/Capa.png">MELHORES DA RODADA</a>
+        <a href="/serie-a/index.html" data-splash="/img/SerieA.png">SÉRIE A</a>
+        <a
+          href="/serie-b/index.html"
+          class="ativo"
+          data-splash="/img/SerieB.png"
+          >SÉRIE B</a
+        >
+        <a href="/serie-c/index.html" data-splash="/img/SerieC.png">SÉRIE C</a>
+        <a href="/serie-d/index.html" data-splash="/img/SerieD.png">SÉRIE D</a>
+        <a href="/libertadores/index.html" data-splash="/img/Libertadores.png"
+          >LIBERTADORES</a
+        >
+        <a href="/copadobrasil/index.html" data-splash="/img/CopadoBrasil.png"
+          >COPA DO BRASIL</a
+        >
+      </nav>
 
-    <section class="conteudo-serie">
-      <h2>CLASSIFICAÇÃO</h2>
-      <img src="classificacao.png" class="imagem" alt="Classificação Série B" />
+      <nav class="menu">
+        <button onclick="window.location.href = '../index.html'">VOLTAR</button>
+      </nav>
 
-      <div class="rodadas-header">
-        <button class="seta" onclick="trocarRodada(-1)">◀</button>
-        <span id="titulo-rodada">1ª RODADA</span>
-        <button class="seta" onclick="trocarRodada(1)">▶</button>
-      </div>
+      <section class="conteudo-serie">
+        <h2>CLASSIFICAÇÃO</h2>
+        <img
+          src="classificacao.png"
+          class="imagem"
+          alt="Classificação Série B"
+        />
 
-      <img
-        id="imagem-rodada"
-        src="rodadas/rodada1.png"
-        class="imagem"
-        alt="Rodada Série B"
-      />
-    </section>
+        <div class="rodadas-header">
+          <button class="seta" onclick="trocarRodada(-1)">◀</button>
+          <span id="titulo-rodada">1ª RODADA</span>
+          <button class="seta" onclick="trocarRodada(1)">▶</button>
+        </div>
+
+        <img
+          id="imagem-rodada"
+          src="rodadas/rodada1.png"
+          class="imagem"
+          alt="Rodada Série B"
+        />
+      </section>
+    </div>
   </body>
 </html>
-
