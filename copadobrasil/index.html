@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/img/ball_873582.png" type="image/x-icon" />
+    <title>Copa do Brasil</title>
+    <link rel="stylesheet" href="../style.css" />
+    <script src="/copadobrasil/script.js" defer></script>
+  </head>
+  <body>
+    <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
+
+    <nav class="menu">
+      <a href="../index.html">MELHORES DA RODADA</a>
+      <a href="../serie-A/index.html">SÉRIE A</a>
+      <a href="../serie-B/index.html">SÉRIE B</a>
+      <a href="../serie-C/index.html">SÉRIE C</a>
+      <a href="../serie-D/index.html">SÉRIE D</a>
+      <a href="../libertadores/index.html">LIBERTADORES</a>
+      <a href="/copadobrasil/index.html" class="ativo">COPA DO BRASIL</a>
+    </nav>
+
+    <nav class="menu">
+      <button onclick="window.location.href = '../index.html'">VOLTAR</button>
+    </nav>
+
+    <section class="conteudo-serie">
+      <div class="rodadas-header">
+        <button class="seta" onclick="trocarFase(-1)">◀</button>
+        <span id="titulo-fase">PRIMEIRA FASE</span>
+        <button class="seta" onclick="trocarFase(1)">▶</button>
+      </div>
+
+      <h2>CONFRONTOS</h2>
+      <img
+        id="imagem-fase"
+        src="/copadobrasil/primeira-fase.png"
+        class="imagem"
+        alt="Fase"
+      />
+    </section>
+  </body>
+</html>
