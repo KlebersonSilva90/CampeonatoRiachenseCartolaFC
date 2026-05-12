@@ -1,122 +1,109 @@
-const telas = [
-  // 1ª fase
-  { tipo: "grupo", nome: "grupo-a" },
-  { tipo: "grupo", nome: "grupo-b" },
-  { tipo: "grupo", nome: "grupo-c" },
-  { tipo: "grupo", nome: "grupo-d" },
+let rodadaAtual = 1;
+let totalRodadas = 19;
+let navegando = false; // ✅ bloqueio de multi-clique
 
-  // 2ª fase (grupos)
-  { tipo: "segunda-fase", nome: "grupo-a" },
-  { tipo: "segunda-fase", nome: "grupo-b" },
-  { tipo: "segunda-fase", nome: "grupo-c" },
-  { tipo: "segunda-fase", nome: "grupo-d" },
+function trocarRodada(direcao) {
+  rodadaAtual += direcao;
 
-  // mata-mata
-  { tipo: "mata-mata" },
-];
+  if (rodadaAtual < 1) rodadaAtual = totalRodadas;
+  if (rodadaAtual > totalRodadas) rodadaAtual = 1;
 
-const fasesMataMata = ["quartas", "semi", "final"];
+  document.getElementById("titulo-rodada").innerText = rodadaAtual + "ª RODADA";
 
-let telaAtual = 0;
-let faseAtual = 0;
-
-const tituloGrupo = document.getElementById("titulo-grupo");
-const imgClassificacao = document.getElementById("imagem-classificacao");
-const imgRodadas = document.getElementById("imagem-rodadas");
-
-function atualizarGrupo() {
-  const tela = telas[telaAtual];
-
-  // 🟢 1ª FASE
-  if (tela.tipo === "grupo") {
-    tituloGrupo.innerText =
-      "1ª FASE - " + tela.nome.replace("grupo-", "GRUPO ").toUpperCase();
-
-    imgClassificacao.src = `${tela.nome}/classificacao.png`;
-    imgRodadas.src = `${tela.nome}/rodadas.png`;
-    imgRodadas.style.display = "block";
-
-    faseAtual = 0;
-  }
-
-  // 🔵 2ª FASE (grupos)
-  else if (tela.tipo === "segunda-fase") {
-    tituloGrupo.innerText =
-      "2ª FASE - " + tela.nome.replace("grupo-", "GRUPO ").toUpperCase();
-
-    imgClassificacao.src = `segunda-fase/${tela.nome}/classificacao.png`;
-    imgRodadas.src = `segunda-fase/${tela.nome}/rodadas.png`;
-    imgRodadas.style.display = "block";
-
-    faseAtual = 0;
-  }
-
-  // 🔴 MATA-MATA
-  else if (tela.tipo === "mata-mata") {
-    const fase = fasesMataMata[faseAtual];
-
-    tituloGrupo.innerText = `MATA-MATA - ${fase.toUpperCase()}`;
-
-    imgClassificacao.src = `mata-mata/${fase}.png`;
-    imgRodadas.style.display = "none";
-  }
+  document.getElementById("imagem-rodada").src =
+    "rodadas/rodada" + rodadaAtual + ".png";
 }
 
-function trocarGrupo(direcao) {
-  const tela = telas[telaAtual];
+window.addEventListener("DOMContentLoaded", () => {
+  const splash = document.getElementById("splash");
+  const splashImg = document.getElementById("splashImg");
+  const site = document.getElementById("site");
+  const links = document.querySelectorAll(".menu a[data-splash]");
 
-  // 🔴 controle interno do mata-mata
-  if (tela.tipo === "mata-mata") {
-    faseAtual += direcao;
+  const nextSplash = sessionStorage.getItem("nextSplash");
 
-    if (faseAtual >= 0 && faseAtual < fasesMataMata.length) {
-      atualizarGrupo();
-      return;
+  /* ============================= */
+  /* ===== PRELOAD INTELIGENTE ===== */
+  /* ============================= */
+
+  function preloadImagem(src) {
+    if (!src) return;
+    const img = new Image();
+    img.src = src;
+  }
+
+  /* ============================= */
+  /* ===== SPLASH AO ENTRAR ===== */
+  /* ============================= */
+
+  if (splash && site) {
+    // 🔥 veio de outra página
+    if (nextSplash && splashImg) {
+      splashImg.src = nextSplash;
+      sessionStorage.removeItem("nextSplash");
+
+      splash.style.display = "flex";
+      splash.classList.remove("hide");
+
+      // 🎬 ativa zoom cinematográfico
+      requestAnimationFrame(() => {
+        splash.classList.add("show");
+      });
+
+      setTimeout(() => {
+        splash.classList.add("hide");
+
+        setTimeout(() => {
+          splash.style.display = "none";
+          site.classList.add("show");
+        }, 700);
+      }, 1000);
     }
+    // 🔹 splash inicial (home)
+    else {
+      setTimeout(() => {
+        splash.classList.add("hide");
 
-    if (faseAtual < 0) {
-      telaAtual--;
-    } else {
-      telaAtual++;
+        setTimeout(() => {
+          splash.style.display = "none";
+          site.classList.add("show");
+        }, 700);
+      }, 1800);
     }
-
-    faseAtual = 0;
-  } else {
-    telaAtual += direcao;
   }
 
-  // loop
-  if (telaAtual < 0) telaAtual = telas.length - 1;
-  if (telaAtual >= telas.length) telaAtual = 0;
+  /* ============================= */
+  /* ===== CLIQUE NO MENU ===== */
+  /* ============================= */
 
-  atualizarGrupo();
-}
+  links.forEach((link) => {
+    const img = link.dataset.splash;
+    preloadImagem(img); // ✅ preload ao iniciar
 
-// init
-atualizarGrupo();
+    link.addEventListener("click", (e) => {
+      if (navegando) return; // 🚫 bloqueia multi-clique
+      navegando = true;
 
-// SWIPE
-let startX = 0;
-let endX = 0;
+      e.preventDefault();
 
-const areaSwipe = document.querySelector(".conteudo-serie");
+      const url = link.href;
+      const splashToUse = img || "/img/Capa.png";
 
-areaSwipe.addEventListener("touchstart", (e) => {
-  startX = e.touches[0].clientX;
+      sessionStorage.setItem("nextSplash", splashToUse);
+
+      if (splash && splashImg) {
+        splashImg.src = splashToUse;
+        splash.style.display = "flex";
+        splash.classList.remove("hide");
+
+        requestAnimationFrame(() => {
+          splash.classList.add("show");
+        });
+      }
+
+      setTimeout(() => {
+        window.location.href = url;
+      }, 750);
+    });
+  });
 });
-
-areaSwipe.addEventListener("touchend", (e) => {
-  endX = e.changedTouches[0].clientX;
-  handleSwipe();
-});
-
-function handleSwipe() {
-  const distancia = endX - startX;
-  const limite = 50;
-
-  if (distancia > limite) {
-    trocarGrupo(-1);
-  } else if (distancia < -limite) {
-    trocarGrupo(1);
-  }
-}
