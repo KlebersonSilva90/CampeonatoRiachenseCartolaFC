@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/img/ball_873582.png" type="image/x-icon" />
+    <title>Série D</title>
+    <link rel="stylesheet" href="../style.css" />
+    <script src="../script.js" defer></script>
+  </head>
+  <body>
+    <div id="splash">
+      <img id="splashImg" src="/img/Capa.png" alt="Splash" />
+    </div>
+
+    <div id="site">
+      <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
+
+      <nav class="menu">
+        <a href="../index.html" data-splash="img/Capa.png"
+          >MELHORES DA RODADA</a
+        >
+        <a href="../serie-A/index.html" data-splash="img/SerieA.png">SÉRIE A</a>
+        <a href="../serie-B/index.html" data-splash="img/SerieB.png">SÉRIE B</a>
+        <a href="../serie-C/index.html" data-splash="img/SerieC.png">SÉRIE C</a>
+        <a href="index.html" class="ativo" data-splash="img/SerieD.png"
+          >SÉRIE D</a
+        >
+        <a href="../libertadores/index.html" data-splash="img/Libertadores.png"
+          >LIBERTADORES</a
+        >
+        <a href="../copadobrasil/index.html" data-splash="img/CopadoBrasil.png"
+          >COPA DO BRASIL</a
+        >
+      </nav>
+
+      <nav class="menu">
+        <button onclick="window.location.href = '../index.html'">VOLTAR</button>
+      </nav>
+
+      <section class="conteudo-serie">
+        <h2>CLASSIFICAÇÃO</h2>
+        <img
+          src="classificacao.png"
+          class="imagem"
+          alt="Classificação Série D"
+        />
+
+        <div class="rodadas-header">
+          <button class="seta" onclick="trocarRodada(-1)">◀</button>
+          <span id="titulo-rodada">1ª RODADA</span>
+          <button class="seta" onclick="trocarRodada(1)">▶</button>
+        </div>
+
+        <img
+          id="imagem-rodada"
+          src="rodadas/rodada1.png"
+          class="imagem"
+          alt="Rodada Série D"
+        />
+      </section>
+    </div>
+  </body>
+</html>
