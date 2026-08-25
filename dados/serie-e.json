@@ -10,19 +10,6 @@
   "classificacao": [
     {
       "posicao": 1,
-      "time": "disfuca",
-      "pontos": 12,
-      "jogos": 5,
-      "vitorias": 4,
-      "empates": 0,
-      "derrotas": 1,
-      "pontosMarcados": 440.56,
-      "pontosSofridos": 402.97,
-      "saldo": 37.59,
-      "media": 88.11
-    },
-    {
-      "posicao": 2,
       "time": "SA Werewolves",
       "pontos": 13,
       "jogos": 5,
@@ -35,7 +22,7 @@
       "media": 91.64
     },
     {
-      "posicao": 3,
+      "posicao": 2,
       "time": "OH PROMOVIDO FC",
       "pontos": 13,
       "jogos": 5,
@@ -48,7 +35,7 @@
       "media": 92.02
     },
     {
-      "posicao": 4,
+      "posicao": 3,
       "time": "Ak. Lanches",
       "pontos": 12,
       "jogos": 5,
@@ -59,6 +46,19 @@
       "pontosSofridos": 250.92,
       "saldo": 211.65,
       "media": 92.51
+    },
+    {
+      "posicao": 4,
+      "time": "disfuca",
+      "pontos": 12,
+      "jogos": 5,
+      "vitorias": 4,
+      "empates": 0,
+      "derrotas": 1,
+      "pontosMarcados": 440.56,
+      "pontosSofridos": 402.97,
+      "saldo": 37.59,
+      "media": 88.11
     },
     {
       "posicao": 5,
@@ -75,32 +75,6 @@
     },
     {
       "posicao": 6,
-      "time": "Sport Barra 4",
-      "pontos": 7,
-      "jogos": 5,
-      "vitorias": 2,
-      "empates": 1,
-      "derrotas": 2,
-      "pontosMarcados": 396.55,
-      "pontosSofridos": 340.98,
-      "saldo": 55.57,
-      "media": 79.31
-    },
-    {
-      "posicao": 7,
-      "time": "juticeiro futebol",
-      "pontos": 8,
-      "jogos": 5,
-      "vitorias": 2,
-      "empates": 2,
-      "derrotas": 1,
-      "pontosMarcados": 419.73,
-      "pontosSofridos": 404.69,
-      "saldo": 15.04,
-      "media": 83.95
-    },
-    {
-      "posicao": 8,
       "time": "Fiel FC Riacho",
       "pontos": 9,
       "jogos": 5,
@@ -113,20 +87,7 @@
       "media": 71.12
     },
     {
-      "posicao": 9,
-      "time": "SeguimeuPAAL",
-      "pontos": 7,
-      "jogos": 5,
-      "vitorias": 2,
-      "empates": 1,
-      "derrotas": 2,
-      "pontosMarcados": 438.4,
-      "pontosSofridos": 448.14,
-      "saldo": -9.74,
-      "media": 87.68
-    },
-    {
-      "posicao": 10,
+      "posicao": 7,
       "time": "Kaiocezar1992",
       "pontos": 8,
       "jogos": 5,
@@ -139,20 +100,7 @@
       "media": 90.71
     },
     {
-      "posicao": 11,
-      "time": "Golfinho FC 1999",
-      "pontos": 5,
-      "jogos": 5,
-      "vitorias": 1,
-      "empates": 2,
-      "derrotas": 2,
-      "pontosMarcados": 356.17,
-      "pontosSofridos": 380.06,
-      "saldo": -23.89,
-      "media": 71.23
-    },
-    {
-      "posicao": 12,
+      "posicao": 8,
       "time": "Rk_fitness FC",
       "pontos": 8,
       "jogos": 5,
@@ -165,7 +113,20 @@
       "media": 87.89
     },
     {
-      "posicao": 13,
+      "posicao": 9,
+      "time": "juticeiro futebol",
+      "pontos": 8,
+      "jogos": 5,
+      "vitorias": 2,
+      "empates": 2,
+      "derrotas": 1,
+      "pontosMarcados": 419.73,
+      "pontosSofridos": 404.69,
+      "saldo": 15.04,
+      "media": 83.95
+    },
+    {
+      "posicao": 10,
       "time": "Loucosbet",
       "pontos": 7,
       "jogos": 5,
@@ -178,7 +139,59 @@
       "media": 77.89
     },
     {
+      "posicao": 11,
+      "time": "Sport Barra 4",
+      "pontos": 7,
+      "jogos": 5,
+      "vitorias": 2,
+      "empates": 1,
+      "derrotas": 2,
+      "pontosMarcados": 396.55,
+      "pontosSofridos": 340.98,
+      "saldo": 55.57,
+      "media": 79.31
+    },
+    {
+      "posicao": 12,
+      "time": "SeguimeuPAAL",
+      "pontos": 7,
+      "jogos": 5,
+      "vitorias": 2,
+      "empates": 1,
+      "derrotas": 2,
+      "pontosMarcados": 438.4,
+      "pontosSofridos": 448.14,
+      "saldo": -9.74,
+      "media": 87.68
+    },
+    {
+      "posicao": 13,
+      "time": "LS Alves F.C",
+      "pontos": 6,
+      "jogos": 5,
+      "vitorias": 2,
+      "empates": 0,
+      "derrotas": 3,
+      "pontosMarcados": 239.53,
+      "pontosSofridos": 416.78,
+      "saldo": -177.25,
+      "media": 47.91
+    },
+    {
       "posicao": 14,
+      "time": "Golfinho FC 1999",
+      "pontos": 5,
+      "jogos": 5,
+      "vitorias": 1,
+      "empates": 2,
+      "derrotas": 2,
+      "pontosMarcados": 356.17,
+      "pontosSofridos": 380.06,
+      "saldo": -23.89,
+      "media": 71.23
+    },
+    {
+      "posicao": 15,
       "time": "riacho futebol clube riachesse",
       "pontos": 4,
       "jogos": 5,
@@ -191,7 +204,7 @@
       "media": 68.36
     },
     {
-      "posicao": 15,
+      "posicao": 16,
       "time": "Calabresa c/ catupiry",
       "pontos": 3,
       "jogos": 5,
@@ -202,19 +215,6 @@
       "pontosSofridos": 421.83,
       "saldo": -203.91,
       "media": 43.58
-    },
-    {
-      "posicao": 16,
-      "time": "LS Alves F.C",
-      "pontos": 6,
-      "jogos": 5,
-      "vitorias": 2,
-      "empates": 0,
-      "derrotas": 3,
-      "pontosMarcados": 239.53,
-      "pontosSofridos": 416.78,
-      "saldo": -177.25,
-      "media": 47.91
     },
     {
       "posicao": 17,

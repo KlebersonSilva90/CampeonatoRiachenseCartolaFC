@@ -93,6 +93,17 @@ def match_result(left_score, right_score) -> tuple[str | None, str | None]:
     return "E", "E"
 
 
+def standings_sort_key(team: dict) -> tuple:
+    """Ordena pelos critérios do campeonato: P, V, saldo, PM e nome."""
+    return (
+        -team["pontos"],
+        -team["vitorias"],
+        -team["saldo"],
+        -team["pontosMarcados"],
+        team["time"].casefold(),
+    )
+
+
 def build_data(serie: str = "A") -> tuple[dict, Path]:
     serie = serie.upper()
     if serie not in {"A", "B", "C", "D", "E"}:
@@ -104,13 +115,13 @@ def build_data(serie: str = "A") -> tuple[dict, Path]:
 
     cells = load_cells(source, "Planilha3")
     standings = []
-    for position, row in enumerate(range(3, 23), start=1):
+    for row in range(3, 23):
         team = cell(cells, row, 24)
         if not team:
             continue
         standings.append(
             {
-                "posicao": position,
+                "posicao": 0,
                 "time": team,
                 "pontos": cell(cells, row, 25),
                 "jogos": cell(cells, row, 26),
@@ -123,6 +134,10 @@ def build_data(serie: str = "A") -> tuple[dict, Path]:
                 "media": cell(cells, row, 33),
             }
         )
+
+    standings.sort(key=standings_sort_key)
+    for position, team in enumerate(standings, start=1):
+        team["posicao"] = position
 
     rounds = []
     for number in range(1, 20):
@@ -181,6 +196,8 @@ def validate_data(data: dict) -> tuple[list[str], list[str]]:
         errors.append(f"times duplicados: {', '.join(duplicate_names)}")
     if [team["posicao"] for team in standings] != list(range(1, len(standings) + 1)):
         errors.append("posições da classificação não são sequenciais")
+    if standings != sorted(standings, key=standings_sort_key):
+        errors.append("classificação não respeita os critérios de desempate")
 
     if len(rounds) != 19:
         errors.append(f"foram encontradas {len(rounds)} rodadas; esperado: 19")
