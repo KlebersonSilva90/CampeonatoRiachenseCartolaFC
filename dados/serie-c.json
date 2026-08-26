@@ -1,7 +1,7 @@
 {
   "serie": "C",
   "fonte": "Serie C2.xlsm",
-  "atualizadoEm": "2026-08-25T13:26:46",
+  "atualizadoEm": "2026-08-26T13:25:57",
   "regraResultado": {
     "vitoriaDiferencaMinima": 5,
     "pontosVitoria": 3,
@@ -179,7 +179,7 @@
     },
     {
       "posicao": 14,
-      "time": "McDonald's DCR",
+      "time": "Wake Wake Fc98",
       "pontos": 5,
       "jogos": 5,
       "vitorias": 1,
@@ -299,7 +299,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": 109.62,
             "resultado": "V",
             "naoEscalou": false
@@ -537,7 +537,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": 55.55,
             "resultado": "E",
             "naoEscalou": false
@@ -702,7 +702,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": 73.81,
             "resultado": "E",
             "naoEscalou": false
@@ -810,7 +810,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": 70.07,
             "resultado": "D",
             "naoEscalou": false
@@ -1071,7 +1071,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": 116.92,
             "resultado": "D",
             "naoEscalou": false
@@ -1197,7 +1197,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -1362,7 +1362,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -1518,7 +1518,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -1692,7 +1692,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -1857,7 +1857,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -1997,7 +1997,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -2210,7 +2210,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -2352,7 +2352,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -2517,7 +2517,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -2593,7 +2593,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -2902,7 +2902,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -3012,7 +3012,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -3177,7 +3177,7 @@
         {
           "mandante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false
@@ -3301,7 +3301,7 @@
           },
           "visitante": {
             "cartoleiro": "Matheus Silva",
-            "time": "McDonald's DCR",
+            "time": "Wake Wake Fc98",
             "pontuacao": null,
             "resultado": null,
             "naoEscalou": false

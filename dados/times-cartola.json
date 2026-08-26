@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-22T18:46:28.622734+00:00",
+  "atualizadoEm": "2026-08-26T16:33:43.314043+00:00",
   "times": {
     "A|Atletico Juventus T.C": {
       "timeId": 6781170,
@@ -500,6 +500,11 @@
       "timeId": 4660673,
       "slug": "disfuca",
       "nomeCartola": "Gabigol"
+    },
+    "C|Wake Wake Fc98": {
+      "timeId": 1047194,
+      "slug": "wake-wake-fc98",
+      "nomeCartola": "Matheus Silva"
     }
   }
 }
