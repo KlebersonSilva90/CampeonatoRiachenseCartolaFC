@@ -3,67 +3,139 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="shortcut icon" href="../img/ball_873582.png" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="../img/ball_873582.png"
+      type="image/x-icon"
+    />
     <title>Libertadores</title>
     <link rel="stylesheet" href="../style.css" />
     <script src="../js/navegacao.js" defer></script>
     <script src="script.js" defer></script>
   </head>
-  <body>
+  <body data-dados-url="../dados/libertadores.json">
     <div id="splash">
-      <img id="splashImg" src="../img/Libertadores.png" alt="Apresentação da Libertadores" />
+      <img
+        id="splashImg"
+        src="../img/Libertadores.png"
+        alt="Apresentação da Libertadores"
+      />
     </div>
 
     <div id="site">
-    <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
+      <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
 
-    <nav class="menu" aria-label="Competições">
-      <a href="../index.html" data-splash="../img/Capa.png">MELHORES DA RODADA</a>
-      <a href="../times/index.html" data-splash="../img/Capa.png">TIMES</a>
-      <a href="../serie-A/index.html" data-splash="../img/SerieA.png">SÉRIE A</a>
-      <a href="../serie-B/index.html" data-splash="../img/SerieB.png">SÉRIE B</a>
-      <a href="../serie-C/index.html" data-splash="../img/SerieC.png">SÉRIE C</a>
-      <a href="../serie-D/index.html" data-splash="../img/SerieD.png">SÉRIE D</a>
-      <a href="../serie-E/index.html" data-splash="../img/SerieE.png">SÉRIE E</a>
-      <a
-        href="../libertadores/index.html"
-        class="ativo"
-        aria-current="page"
-        data-splash="../img/Libertadores.png"
-        >LIBERTADORES</a
-      >
-      <a href="../copadobrasil/index.html" data-splash="../img/CopadoBrasil.png"
-        >COPA DO BRASIL</a
-      >
-    </nav>
+      <nav class="menu" aria-label="Competições">
+        <a href="../index.html" data-splash="../img/Capa.png"
+          >MELHORES DA RODADA</a
+        >
+        <a href="../times/index.html" data-splash="../img/Capa.png">TIMES</a>
+        <a href="../serie-A/index.html" data-splash="../img/SerieA.png"
+          >SÉRIE A</a
+        >
+        <a href="../serie-B/index.html" data-splash="../img/SerieB.png"
+          >SÉRIE B</a
+        >
+        <a href="../serie-C/index.html" data-splash="../img/SerieC.png"
+          >SÉRIE C</a
+        >
+        <a href="../serie-D/index.html" data-splash="../img/SerieD.png"
+          >SÉRIE D</a
+        >
+        <a href="../serie-E/index.html" data-splash="../img/SerieE.png"
+          >SÉRIE E</a
+        >
+        <a
+          href="../libertadores/index.html"
+          class="ativo"
+          aria-current="page"
+          data-splash="../img/Libertadores.png"
+          >LIBERTADORES</a
+        >
+        <a
+          href="../copadobrasil/index.html"
+          data-splash="../img/CopadoBrasil.png"
+          >COPA DO BRASIL</a
+        >
+      </nav>
 
-    <nav class="menu" aria-label="Navegação auxiliar">
-      <button onclick="window.location.href = '../index.html'">VOLTAR</button>
-    </nav>
+      <nav class="menu" aria-label="Navegação auxiliar">
+        <button onclick="window.location.href = '../index.html'">VOLTAR</button>
+      </nav>
 
-    <section class="conteudo-serie">
-      <div class="rodadas-header">
-        <button class="seta" type="button" aria-label="Grupo ou fase anterior" onclick="trocarGrupo(-1)">◀</button>
-        <span id="titulo-grupo">GRUPO A</span>
-        <button class="seta" type="button" aria-label="Próximo grupo ou fase" onclick="trocarGrupo(1)">▶</button>
-      </div>
+      <main class="conteudo-serie libertadores-pagina">
+        <header class="libertadores-cabecalho">
+          <div>
+            <p class="libertadores-etapa">FASE DE GRUPOS</p>
+            <h1>LIBERTADORES</h1>
+            <p id="status-dados" class="status-dados" role="status">
+              Carregando dados da planilha…
+            </p>
+          </div>
+        </header>
 
-      <h2>CLASSIFICAÇÃO</h2>
-      <img
-        id="imagem-classificacao"
-        src="grupo-a/classificacao.png"
-        class="imagem"
-        alt="Classificação"
-      />
+        <div class="libertadores-legenda" aria-label="Legenda da classificação">
+          <span
+            ><i class="libertadores-cor cor-oitavas" aria-hidden="true"></i>1º e
+            2º: oitavas</span
+          >
+          <span
+            ><i class="libertadores-cor cor-copa" aria-hidden="true"></i>3º:
+            Copa do Brasil</span
+          >
+          <span
+            ><i class="libertadores-cor cor-eliminado" aria-hidden="true"></i
+            >4º: eliminado</span
+          >
+        </div>
 
-      <h2>RODADAS</h2>
-      <img
-        id="imagem-rodadas"
-        src="grupo-a/rodadas.png"
-        class="imagem"
-        alt="Rodadas"
-      />
-    </section>
+        <section aria-labelledby="titulo-grupos">
+          <div class="libertadores-grupos-cabecalho">
+            <h2 id="titulo-grupos" class="libertadores-titulo-secao">
+              GRUPOS A–H
+            </h2>
+            <button
+              id="alternar-grupos"
+              class="libertadores-alternar-grupos"
+              type="button"
+              aria-controls="grade-grupos"
+              aria-expanded="false"
+            >
+              EXPANDIR GRUPOS <span aria-hidden="true">+</span>
+            </button>
+          </div>
+          <div
+            id="grade-grupos"
+            class="libertadores-grade"
+            aria-live="polite"
+            hidden
+          ></div>
+        </section>
+
+        <section
+          class="libertadores-mata-mata"
+          aria-labelledby="titulo-mata-mata"
+        >
+          <div class="libertadores-secao-cabecalho">
+            <div>
+              <p class="libertadores-etapa">IDA E VOLTA</p>
+              <h2 id="titulo-mata-mata">MATA-MATA</h2>
+            </div>
+            <button
+              id="alternar-mata-mata"
+              class="libertadores-alternar-mata-mata"
+              type="button"
+              aria-controls="fases-mata-mata"
+              aria-expanded="false"
+            >
+              EXPANDIR MATA-MATA <span aria-hidden="true">+</span>
+            </button>
+          </div>
+          <div id="fases-mata-mata" class="libertadores-fases" hidden></div>
+        </section>
+
+        <p id="erro-libertadores" class="estado-dados" role="alert" hidden></p>
+      </main>
     </div>
   </body>
 </html>

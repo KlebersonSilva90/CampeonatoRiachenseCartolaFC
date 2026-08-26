@@ -411,6 +411,303 @@ button:focus-visible {
 }
 
 /* ============================= */
+/* === LIBERTADORES ============= */
+/* ============================= */
+
+.libertadores-pagina { max-width: 1440px; }
+
+.libertadores-cabecalho,
+.libertadores-secao-cabecalho {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 18px;
+}
+
+.libertadores-cabecalho h1,
+.libertadores-secao-cabecalho h2 {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  line-height: 1;
+}
+
+.libertadores-cabecalho .status-dados { margin: 8px 0 0; }
+
+.libertadores-etapa {
+  margin: 0 0 5px;
+  font-size: 0.8rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+}
+
+.libertadores-legenda {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  margin-bottom: 24px;
+  padding: 11px 14px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.75);
+}
+
+.libertadores-legenda span {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.libertadores-cor {
+  width: 16px;
+  height: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.35);
+  border-radius: 4px;
+}
+
+.cor-oitavas { background: #cfe8ff; }
+.cor-copa { background: #ffe0a3; }
+.cor-eliminado { background: #f0f0f0; }
+
+.libertadores-titulo-secao {
+  margin: 0;
+  font-size: 1.7rem;
+}
+
+.libertadores-grupos-cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+}
+
+.libertadores-alternar-grupos,
+.libertadores-alternar-mata-mata {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 14px;
+  border: 2px solid #2b1b0b;
+  border-radius: 9px;
+  background: #fff4dc;
+  color: #2b1b0b;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.libertadores-alternar-grupos:hover,
+.libertadores-alternar-grupos:focus-visible,
+.libertadores-alternar-mata-mata:hover,
+.libertadores-alternar-mata-mata:focus-visible { background: #ffd278; }
+.libertadores-alternar-grupos span,
+.libertadores-alternar-mata-mata span { font-size: 1.25rem; line-height: 1; }
+.libertadores-grade[hidden] { display: none; }
+.libertadores-fases[hidden] { display: none; }
+
+.libertadores-grade {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.libertadores-grupo {
+  min-width: 0;
+  overflow: hidden;
+  border: 2px solid #24180a;
+  border-radius: 15px;
+  background: #fff9eb;
+  box-shadow: 0 8px 22px rgba(75, 38, 0, 0.16);
+}
+
+.libertadores-grupo-cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 13px 16px;
+  background: #2b1b0b;
+  color: #fff;
+}
+
+.libertadores-grupo-cabecalho h3 { margin: 0; font-size: 1.2rem; }
+
+.libertadores-tabela-container { overflow-x: auto; }
+
+.libertadores-tabela {
+  width: 100%;
+  min-width: 540px;
+  border-collapse: collapse;
+  font-size: 0.72rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.libertadores-tabela th,
+.libertadores-tabela td {
+  padding: 9px 5px;
+  border-bottom: 1px solid #e2d5bd;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.libertadores-tabela th {
+  background: #fff2d2;
+  color: #65461e;
+  font-size: 0.68rem;
+}
+
+.libertadores-tabela .libertadores-time {
+  min-width: 130px;
+  text-align: left;
+  font-weight: 800;
+  white-space: normal;
+}
+
+.libertadores-tabela tr.libertadores-oitavas { background: #cfe8ff; }
+.libertadores-tabela tr.libertadores-copa { background: #ffe0a3; }
+.libertadores-tabela tr.libertadores-eliminado { background: #f3f3f3; color: #555; }
+.libertadores-tabela tbody tr:hover { filter: brightness(0.96); }
+
+.libertadores-botao-jogos {
+  width: 100%;
+  padding: 11px;
+  border: 0;
+  border-top: 1px solid #d6c4a2;
+  background: #fff4dc;
+  color: #281a09;
+  font: inherit;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.libertadores-botao-jogos:hover,
+.libertadores-botao-jogos:focus-visible { background: #ffd278; }
+.libertadores-jogos[hidden] { display: none; }
+
+.libertadores-jogos {
+  padding: 12px;
+  border-top: 1px solid #d6c4a2;
+  background: #fff;
+}
+
+.libertadores-seletor { display: block; margin: 0 auto 10px; }
+.libertadores-jogos-lista { display: grid; gap: 8px; }
+
+.libertadores-jogo {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border: 1px solid #d8c8aa;
+  border-radius: 10px;
+}
+
+.libertadores-equipe {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-width: 0;
+  padding: 7px;
+  border-radius: 7px;
+}
+
+.libertadores-equipe:last-child { flex-direction: row-reverse; text-align: right; }
+.libertadores-equipe.vencedor { background: var(--cor-vencedor); }
+.libertadores-equipe.empate { background: var(--cor-empate); }
+
+.libertadores-equipe-textos {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.libertadores-equipe-textos strong { overflow-wrap: anywhere; }
+.libertadores-equipe-textos span { color: #6a6258; font-size: 0.7rem; }
+.libertadores-placar { min-width: 55px; font-variant-numeric: tabular-nums; }
+.libertadores-versus { font-weight: 900; }
+.libertadores-mata-mata { margin-top: 38px; }
+
+.libertadores-secao-cabecalho > p {
+  max-width: 520px;
+  margin: 0;
+  text-align: right;
+}
+
+.libertadores-fases {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  align-items: start;
+}
+
+.libertadores-fase {
+  overflow: hidden;
+  border: 2px solid #25180a;
+  border-radius: 13px;
+  background: #fff9eb;
+}
+
+.libertadores-fase > header { padding: 12px; background: #2b1b0b; color: #fff; }
+.libertadores-fase h3 { margin: 0; font-size: 0.9rem; }
+.libertadores-fase header span { font-size: 0.7rem; opacity: 0.75; }
+.libertadores-aguardando { margin: 0; padding: 22px 12px; color: #6a5b49; text-align: center; }
+
+.libertadores-confronto-rotulos,
+.libertadores-confronto > div {
+  display: grid;
+  grid-template-columns: minmax(100px, 1fr) 44px 48px 68px;
+  gap: 5px;
+  align-items: center;
+}
+
+.libertadores-confronto-rotulos {
+  padding: 7px 9px;
+  background: #fff2d2;
+  font-size: 0.55rem;
+  font-weight: 900;
+  text-align: center;
+}
+
+.libertadores-confronto-rotulos span:first-child { text-align: left; }
+.libertadores-confronto { border-top: 1px solid #e0d2b6; }
+.libertadores-confronto > div { padding: 8px 9px; font-size: 0.68rem; text-align: center; }
+.libertadores-confronto strong { overflow-wrap: anywhere; text-align: left; }
+.libertadores-confronto .classificado { background: var(--cor-vencedor); color: #7c171b; }
+
+@media (max-width: 900px) {
+  .libertadores-grade { grid-template-columns: 1fr; }
+  .libertadores-fases { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 560px) {
+  .libertadores-pagina { padding: 12px; }
+  .libertadores-cabecalho,
+  .libertadores-secao-cabecalho { align-items: stretch; flex-direction: column; }
+  .libertadores-cabecalho h1 { font-size: 2.25rem; }
+  .libertadores-legenda { gap: 8px 12px; }
+  .libertadores-grupos-cabecalho { align-items: stretch; flex-direction: column; }
+  .libertadores-alternar-grupos,
+  .libertadores-alternar-mata-mata { justify-content: center; width: 100%; }
+  .libertadores-grupo-cabecalho { padding: 11px 12px; }
+  .libertadores-tabela { min-width: 500px; font-size: 0.68rem; }
+  .libertadores-tabela th,
+  .libertadores-tabela td { padding: 8px 5px; }
+  .libertadores-tabela .libertadores-time { min-width: 125px; }
+  .libertadores-secao-cabecalho > p { text-align: left; }
+  .libertadores-fases { grid-template-columns: 1fr; }
+  .libertadores-jogo { gap: 4px; padding: 6px; }
+  .libertadores-equipe { align-items: stretch; flex-direction: column; }
+  .libertadores-equipe:last-child { align-items: flex-end; flex-direction: column; }
+  .libertadores-equipe-textos span { display: none; }
+  .libertadores-placar { min-width: 0; }
+}
+
+/* ============================= */
 /* === MELHORES DA RODADA ====== */
 /* ============================= */
 

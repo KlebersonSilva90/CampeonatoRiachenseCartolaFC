@@ -1,0 +1,2337 @@
+{
+  "competicao": "Libertadores",
+  "fonte": "LIBERTADORES.xlsm",
+  "atualizadoEm": "2026-08-26T12:47:10",
+  "regulamento": {
+    "grupos": 8,
+    "timesPorGrupo": 4,
+    "classificadosOitavasPorGrupo": 2,
+    "classificadosCopaDoBrasilPorGrupo": 1,
+    "posicaoCopaDoBrasil": 3,
+    "mataMata": "ida-e-volta",
+    "vitoriaDiferencaMinima": 5,
+    "pontosVitoria": 3,
+    "pontosEmpate": 1,
+    "criteriosClassificacao": [
+      "pontos",
+      "vitorias",
+      "saldo",
+      "pontosPro"
+    ]
+  },
+  "grupos": [
+    {
+      "grupo": "A",
+      "classificacao": [
+        {
+          "posicao": 1,
+          "time": "Racionais FC_81",
+          "pontos": 6,
+          "jogos": 2,
+          "vitorias": 2,
+          "empates": 0,
+          "derrotas": 0,
+          "pontosPro": 215.7,
+          "pontosContra": 179.91,
+          "saldo": 35.79,
+          "media": 107.85,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 2,
+          "time": "MitaMiita - IC",
+          "pontos": 6,
+          "jogos": 2,
+          "vitorias": 2,
+          "empates": 0,
+          "derrotas": 0,
+          "pontosPro": 206.5,
+          "pontosContra": 184.25,
+          "saldo": 22.25,
+          "media": 103.25,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 3,
+          "time": "Cabugi SC",
+          "pontos": 0,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 0,
+          "derrotas": 2,
+          "pontosPro": 188.55,
+          "pontosContra": 210.1,
+          "saldo": -21.55,
+          "media": 94.28,
+          "destinoAtual": "copa-do-brasil"
+        },
+        {
+          "posicao": 4,
+          "time": "fazenda camarões fc",
+          "pontos": 0,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 0,
+          "derrotas": 2,
+          "pontosPro": 175.61,
+          "pontosContra": 212.1,
+          "saldo": -36.49,
+          "media": 87.81,
+          "destinoAtual": "eliminado"
+        }
+      ],
+      "rodadas": [
+        {
+          "numero": 1,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Rafael Justo",
+                "time": "Cabugi SC",
+                "pontuacao": 62.45,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Felipe Lopes",
+                "time": "MitaMiita - IC",
+                "pontuacao": 72.5,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "bruno fc",
+                "time": "fazenda camarões fc",
+                "pontuacao": 53.81,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Ton Do Corte",
+                "time": "Racionais FC_81",
+                "pontuacao": 78.1,
+                "resultado": "V"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Ton Do Corte",
+                "time": "Racionais FC_81",
+                "pontuacao": 137.6,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Rafael Justo",
+                "time": "Cabugi SC",
+                "pontuacao": 126.1,
+                "resultado": "D"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Felipe Lopes",
+                "time": "MitaMiita - IC",
+                "pontuacao": 134,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "bruno fc",
+                "time": "fazenda camarões fc",
+                "pontuacao": 121.8,
+                "resultado": "D"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "bruno fc",
+                "time": "fazenda camarões fc",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Rafael Justo",
+                "time": "Cabugi SC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Ton Do Corte",
+                "time": "Racionais FC_81",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Felipe Lopes",
+                "time": "MitaMiita - IC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Rafael Justo",
+                "time": "Cabugi SC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "bruno fc",
+                "time": "fazenda camarões fc",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Felipe Lopes",
+                "time": "MitaMiita - IC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Ton Do Corte",
+                "time": "Racionais FC_81",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Rafael Justo",
+                "time": "Cabugi SC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Ton Do Corte",
+                "time": "Racionais FC_81",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "bruno fc",
+                "time": "fazenda camarões fc",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Felipe Lopes",
+                "time": "MitaMiita - IC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Felipe Lopes",
+                "time": "MitaMiita - IC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Rafael Justo",
+                "time": "Cabugi SC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Ton Do Corte",
+                "time": "Racionais FC_81",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "bruno fc",
+                "time": "fazenda camarões fc",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grupo": "B",
+      "classificacao": [
+        {
+          "posicao": 1,
+          "time": "KENNEDY TEAM",
+          "pontos": 4,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 1,
+          "derrotas": 0,
+          "pontosPro": 176.79,
+          "pontosContra": 168.42,
+          "saldo": 8.37,
+          "media": 88.39,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 2,
+          "time": "Cajá FCC",
+          "pontos": 4,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 1,
+          "derrotas": 0,
+          "pontosPro": 182.52,
+          "pontosContra": 175.42,
+          "saldo": 7.1,
+          "media": 91.26,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 3,
+          "time": "EMERSON:)",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 185.12,
+          "pontosContra": 170.4,
+          "saldo": 14.72,
+          "media": 92.56,
+          "destinoAtual": "copa-do-brasil"
+        },
+        {
+          "posicao": 4,
+          "time": "Serra Verde Futebol Club",
+          "pontos": 0,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 0,
+          "derrotas": 2,
+          "pontosPro": 156.3,
+          "pontosContra": 186.49,
+          "saldo": -30.19,
+          "media": 78.15,
+          "destinoAtual": "eliminado"
+        }
+      ],
+      "rodadas": [
+        {
+          "numero": 1,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Kennedy Gilbert",
+                "time": "KENNEDY TEAM",
+                "pontuacao": 61.75,
+                "resultado": "E"
+              },
+              "visitante": {
+                "cartoleiro": "Anderson Gomes",
+                "time": "Cajá FCC",
+                "pontuacao": 61.45,
+                "resultado": "E"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Emerson",
+                "time": "EMERSON:)",
+                "pontuacao": 71.45,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Janailson Eugênio",
+                "time": "Serra Verde Futebol Club",
+                "pontuacao": 49.33,
+                "resultado": "D"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Janailson Eugênio",
+                "time": "Serra Verde Futebol Club",
+                "pontuacao": 106.97,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Kennedy Gilbert",
+                "time": "KENNEDY TEAM",
+                "pontuacao": 115.04,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Anderson Gomes",
+                "time": "Cajá FCC",
+                "pontuacao": 121.07,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Emerson",
+                "time": "EMERSON:)",
+                "pontuacao": 113.67,
+                "resultado": "D"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Emerson",
+                "time": "EMERSON:)",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Kennedy Gilbert",
+                "time": "KENNEDY TEAM",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Janailson Eugênio",
+                "time": "Serra Verde Futebol Club",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Anderson Gomes",
+                "time": "Cajá FCC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Kennedy Gilbert",
+                "time": "KENNEDY TEAM",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Emerson",
+                "time": "EMERSON:)",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Anderson Gomes",
+                "time": "Cajá FCC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Janailson Eugênio",
+                "time": "Serra Verde Futebol Club",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Kennedy Gilbert",
+                "time": "KENNEDY TEAM",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Janailson Eugênio",
+                "time": "Serra Verde Futebol Club",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Emerson",
+                "time": "EMERSON:)",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Anderson Gomes",
+                "time": "Cajá FCC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Anderson Gomes",
+                "time": "Cajá FCC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Kennedy Gilbert",
+                "time": "KENNEDY TEAM",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Janailson Eugênio",
+                "time": "Serra Verde Futebol Club",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Emerson",
+                "time": "EMERSON:)",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grupo": "C",
+      "classificacao": [
+        {
+          "posicao": 1,
+          "time": "Atletico Juventus T.C",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 175.37,
+          "pontosContra": 158.63,
+          "saldo": 16.74,
+          "media": 87.69,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 2,
+          "time": "Alex Antenas",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 169.82,
+          "pontosContra": 168.59,
+          "saldo": 1.23,
+          "media": 84.91,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 3,
+          "time": "Atlanta J.L 812",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 171.79,
+          "pontosContra": 179.92,
+          "saldo": -8.13,
+          "media": 85.89,
+          "destinoAtual": "copa-do-brasil"
+        },
+        {
+          "posicao": 4,
+          "time": "Óia o rato!",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 168.73,
+          "pontosContra": 178.57,
+          "saldo": -9.84,
+          "media": 84.36,
+          "destinoAtual": "eliminado"
+        }
+      ],
+      "rodadas": [
+        {
+          "numero": 1,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Jose Carlos",
+                "time": "Atlanta J.L 812",
+                "pontuacao": 59.57,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Severino Anderson",
+                "time": "Óia o rato!",
+                "pontuacao": 76.15,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Mario Jorge",
+                "time": "Atletico Juventus T.C",
+                "pontuacao": 56.37,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Alex Aldir",
+                "time": "Alex Antenas",
+                "pontuacao": 66.05,
+                "resultado": "V"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Alex Aldir",
+                "time": "Alex Antenas",
+                "pontuacao": 103.77,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Jose Carlos",
+                "time": "Atlanta J.L 812",
+                "pontuacao": 112.22,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Severino Anderson",
+                "time": "Óia o rato!",
+                "pontuacao": 92.58,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Mario Jorge",
+                "time": "Atletico Juventus T.C",
+                "pontuacao": 119,
+                "resultado": "V"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Mario Jorge",
+                "time": "Atletico Juventus T.C",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Jose Carlos",
+                "time": "Atlanta J.L 812",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Alex Aldir",
+                "time": "Alex Antenas",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Severino Anderson",
+                "time": "Óia o rato!",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Jose Carlos",
+                "time": "Atlanta J.L 812",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Mario Jorge",
+                "time": "Atletico Juventus T.C",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Severino Anderson",
+                "time": "Óia o rato!",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Alex Aldir",
+                "time": "Alex Antenas",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Jose Carlos",
+                "time": "Atlanta J.L 812",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Alex Aldir",
+                "time": "Alex Antenas",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Mario Jorge",
+                "time": "Atletico Juventus T.C",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Severino Anderson",
+                "time": "Óia o rato!",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Severino Anderson",
+                "time": "Óia o rato!",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Jose Carlos",
+                "time": "Atlanta J.L 812",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Alex Aldir",
+                "time": "Alex Antenas",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Mario Jorge",
+                "time": "Atletico Juventus T.C",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grupo": "D",
+      "classificacao": [
+        {
+          "posicao": 1,
+          "time": "Alison FCC",
+          "pontos": 6,
+          "jogos": 2,
+          "vitorias": 2,
+          "empates": 0,
+          "derrotas": 0,
+          "pontosPro": 179.92,
+          "pontosContra": 163.36,
+          "saldo": 16.56,
+          "media": 89.96,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 2,
+          "time": "Demolidor01",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 201.24,
+          "pontosContra": 177.64,
+          "saldo": 23.6,
+          "media": 100.62,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 3,
+          "time": "Brasmanha SC",
+          "pontos": 1,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 1,
+          "derrotas": 1,
+          "pontosPro": 153.89,
+          "pontosContra": 165.62,
+          "saldo": -11.73,
+          "media": 76.94,
+          "destinoAtual": "copa-do-brasil"
+        },
+        {
+          "posicao": 4,
+          "time": "mito350",
+          "pontos": 1,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 1,
+          "derrotas": 1,
+          "pontosPro": 163.34,
+          "pontosContra": 191.77,
+          "saldo": -28.43,
+          "media": 81.67,
+          "destinoAtual": "eliminado"
+        }
+      ],
+      "rodadas": [
+        {
+          "numero": 1,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Alison",
+                "time": "Alison FCC",
+                "pontuacao": 56.45,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Kayque",
+                "time": "Brasmanha SC",
+                "pontuacao": 44.97,
+                "resultado": "D"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Isac",
+                "time": "mito350",
+                "pontuacao": 54.17,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "edson manoel",
+                "time": "Demolidor01",
+                "pontuacao": 82.85,
+                "resultado": "V"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "edson manoel",
+                "time": "Demolidor01",
+                "pontuacao": 118.39,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Alison",
+                "time": "Alison FCC",
+                "pontuacao": 123.47,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Kayque",
+                "time": "Brasmanha SC",
+                "pontuacao": 108.92,
+                "resultado": "E"
+              },
+              "visitante": {
+                "cartoleiro": "Isac",
+                "time": "mito350",
+                "pontuacao": 109.17,
+                "resultado": "E"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Isac",
+                "time": "mito350",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Alison",
+                "time": "Alison FCC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "edson manoel",
+                "time": "Demolidor01",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Kayque",
+                "time": "Brasmanha SC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Alison",
+                "time": "Alison FCC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Isac",
+                "time": "mito350",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Kayque",
+                "time": "Brasmanha SC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "edson manoel",
+                "time": "Demolidor01",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Alison",
+                "time": "Alison FCC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "edson manoel",
+                "time": "Demolidor01",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Isac",
+                "time": "mito350",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Kayque",
+                "time": "Brasmanha SC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Kayque",
+                "time": "Brasmanha SC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Alison",
+                "time": "Alison FCC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "edson manoel",
+                "time": "Demolidor01",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Isac",
+                "time": "mito350",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grupo": "E",
+      "classificacao": [
+        {
+          "posicao": 1,
+          "time": "JP90",
+          "pontos": 6,
+          "jogos": 2,
+          "vitorias": 2,
+          "empates": 0,
+          "derrotas": 0,
+          "pontosPro": 178.42,
+          "pontosContra": 156.35,
+          "saldo": 22.07,
+          "media": 89.21,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 2,
+          "time": "expresso riachense",
+          "pontos": 4,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 1,
+          "derrotas": 0,
+          "pontosPro": 196.83,
+          "pontosContra": 191.69,
+          "saldo": 5.14,
+          "media": 98.42,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 3,
+          "time": "skinkrapels",
+          "pontos": 1,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 1,
+          "derrotas": 1,
+          "pontosPro": 183.49,
+          "pontosContra": 192.68,
+          "saldo": -9.19,
+          "media": 91.75,
+          "destinoAtual": "copa-do-brasil"
+        },
+        {
+          "posicao": 4,
+          "time": "Catalão City PE",
+          "pontos": 0,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 0,
+          "derrotas": 2,
+          "pontosPro": 164.55,
+          "pontosContra": 182.57,
+          "saldo": -18.02,
+          "media": 82.28,
+          "destinoAtual": "eliminado"
+        }
+      ],
+      "rodadas": [
+        {
+          "numero": 1,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Leandro Silva",
+                "time": "Catalão City PE",
+                "pontuacao": 49.13,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Peixoto",
+                "time": "JP90",
+                "pontuacao": 61.85,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Adailton",
+                "time": "skinkrapels",
+                "pontuacao": 76.27,
+                "resultado": "E"
+              },
+              "visitante": {
+                "cartoleiro": "Jailson",
+                "time": "expresso riachense",
+                "pontuacao": 76.11,
+                "resultado": "E"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Jailson",
+                "time": "expresso riachense",
+                "pontuacao": 120.72,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Leandro Silva",
+                "time": "Catalão City PE",
+                "pontuacao": 115.42,
+                "resultado": "D"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Peixoto",
+                "time": "JP90",
+                "pontuacao": 116.57,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Adailton",
+                "time": "skinkrapels",
+                "pontuacao": 107.22,
+                "resultado": "D"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Adailton",
+                "time": "skinkrapels",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Leandro Silva",
+                "time": "Catalão City PE",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Jailson",
+                "time": "expresso riachense",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Peixoto",
+                "time": "JP90",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Leandro Silva",
+                "time": "Catalão City PE",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Adailton",
+                "time": "skinkrapels",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Peixoto",
+                "time": "JP90",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Jailson",
+                "time": "expresso riachense",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Leandro Silva",
+                "time": "Catalão City PE",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Jailson",
+                "time": "expresso riachense",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Adailton",
+                "time": "skinkrapels",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Peixoto",
+                "time": "JP90",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Peixoto",
+                "time": "JP90",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Leandro Silva",
+                "time": "Catalão City PE",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Jailson",
+                "time": "expresso riachense",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Adailton",
+                "time": "skinkrapels",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grupo": "F",
+      "classificacao": [
+        {
+          "posicao": 1,
+          "time": "TEAM CBUM",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 182.61,
+          "pontosContra": 162.17,
+          "saldo": 20.44,
+          "media": 91.31,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 2,
+          "time": "Clemente A.F.C",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 169.84,
+          "pontosContra": 175.39,
+          "saldo": -5.55,
+          "media": 84.92,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 3,
+          "time": "kaio paredão FC 01",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 168.97,
+          "pontosContra": 175.04,
+          "saldo": -6.07,
+          "media": 84.48,
+          "destinoAtual": "copa-do-brasil"
+        },
+        {
+          "posicao": 4,
+          "time": "WL Corttes FC",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 167.37,
+          "pontosContra": 176.19,
+          "saldo": -8.82,
+          "media": 83.69,
+          "destinoAtual": "eliminado"
+        }
+      ],
+      "rodadas": [
+        {
+          "numero": 1,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Ruan Jose",
+                "time": "TEAM CBUM",
+                "pontuacao": 57.77,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Mauri",
+                "time": "Clemente A.F.C",
+                "pontuacao": 65.97,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Kaio Henrique",
+                "time": "kaio paredão FC 01",
+                "pontuacao": 51.35,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Wallyson Lemos",
+                "time": "WL Corttes FC",
+                "pontuacao": 71.17,
+                "resultado": "V"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Wallyson Lemos",
+                "time": "WL Corttes FC",
+                "pontuacao": 96.2,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Ruan Jose",
+                "time": "TEAM CBUM",
+                "pontuacao": 124.84,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Mauri",
+                "time": "Clemente A.F.C",
+                "pontuacao": 103.87,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Kaio Henrique",
+                "time": "kaio paredão FC 01",
+                "pontuacao": 117.62,
+                "resultado": "V"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Kaio Henrique",
+                "time": "kaio paredão FC 01",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Ruan Jose",
+                "time": "TEAM CBUM",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Wallyson Lemos",
+                "time": "WL Corttes FC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Mauri",
+                "time": "Clemente A.F.C",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Ruan Jose",
+                "time": "TEAM CBUM",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Kaio Henrique",
+                "time": "kaio paredão FC 01",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Mauri",
+                "time": "Clemente A.F.C",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Wallyson Lemos",
+                "time": "WL Corttes FC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Ruan Jose",
+                "time": "TEAM CBUM",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Wallyson Lemos",
+                "time": "WL Corttes FC",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Kaio Henrique",
+                "time": "kaio paredão FC 01",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Mauri",
+                "time": "Clemente A.F.C",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Mauri",
+                "time": "Clemente A.F.C",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Ruan Jose",
+                "time": "TEAM CBUM",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Wallyson Lemos",
+                "time": "WL Corttes FC",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Kaio Henrique",
+                "time": "kaio paredão FC 01",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grupo": "G",
+      "classificacao": [
+        {
+          "posicao": 1,
+          "time": "D!NO F.C 10",
+          "pontos": 4,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 1,
+          "derrotas": 0,
+          "pontosPro": 214.87,
+          "pontosContra": 192.57,
+          "saldo": 22.3,
+          "media": 107.44,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 2,
+          "time": "Black Up City",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 179.99,
+          "pontosContra": 177.25,
+          "saldo": 2.74,
+          "media": 90.0,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 3,
+          "time": "Águia Dourada 13",
+          "pontos": 3,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "pontosPro": 185.07,
+          "pontosContra": 193.04,
+          "saldo": -7.97,
+          "media": 92.53,
+          "destinoAtual": "copa-do-brasil"
+        },
+        {
+          "posicao": 4,
+          "time": "ozzinca f.c.",
+          "pontos": 1,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 1,
+          "derrotas": 1,
+          "pontosPro": 184.75,
+          "pontosContra": 201.82,
+          "saldo": -17.07,
+          "media": 92.38,
+          "destinoAtual": "eliminado"
+        }
+      ],
+      "rodadas": [
+        {
+          "numero": 1,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Igor",
+                "time": "Águia Dourada 13",
+                "pontuacao": 75.27,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "jR. Miranda",
+                "time": "Black Up City",
+                "pontuacao": 65.07,
+                "resultado": "D"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Jose manoel",
+                "time": "ozzinca f.c.",
+                "pontuacao": 82.77,
+                "resultado": "E"
+              },
+              "visitante": {
+                "cartoleiro": "jadiel",
+                "time": "D!NO F.C 10",
+                "pontuacao": 86.9,
+                "resultado": "E"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "jadiel",
+                "time": "D!NO F.C 10",
+                "pontuacao": 127.97,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Igor",
+                "time": "Águia Dourada 13",
+                "pontuacao": 109.8,
+                "resultado": "D"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "jR. Miranda",
+                "time": "Black Up City",
+                "pontuacao": 114.92,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Jose manoel",
+                "time": "ozzinca f.c.",
+                "pontuacao": 101.98,
+                "resultado": "D"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Jose manoel",
+                "time": "ozzinca f.c.",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Igor",
+                "time": "Águia Dourada 13",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "jadiel",
+                "time": "D!NO F.C 10",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "jR. Miranda",
+                "time": "Black Up City",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Igor",
+                "time": "Águia Dourada 13",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Jose manoel",
+                "time": "ozzinca f.c.",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "jR. Miranda",
+                "time": "Black Up City",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "jadiel",
+                "time": "D!NO F.C 10",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Igor",
+                "time": "Águia Dourada 13",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "jadiel",
+                "time": "D!NO F.C 10",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Jose manoel",
+                "time": "ozzinca f.c.",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "jR. Miranda",
+                "time": "Black Up City",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "jR. Miranda",
+                "time": "Black Up City",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Igor",
+                "time": "Águia Dourada 13",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "jadiel",
+                "time": "D!NO F.C 10",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Jose manoel",
+                "time": "ozzinca f.c.",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grupo": "H",
+      "classificacao": [
+        {
+          "posicao": 1,
+          "time": "Arsenal PE 87",
+          "pontos": 6,
+          "jogos": 2,
+          "vitorias": 2,
+          "empates": 0,
+          "derrotas": 0,
+          "pontosPro": 204.77,
+          "pontosContra": 146.37,
+          "saldo": 58.4,
+          "media": 102.39,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 2,
+          "time": "onça pintanda HD 13",
+          "pontos": 4,
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 1,
+          "derrotas": 0,
+          "pontosPro": 196.17,
+          "pontosContra": 187.49,
+          "saldo": 8.68,
+          "media": 98.08,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "posicao": 3,
+          "time": "Coquinho bebidas",
+          "pontos": 1,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 1,
+          "derrotas": 1,
+          "pontosPro": 181.54,
+          "pontosContra": 197.22,
+          "saldo": -15.68,
+          "media": 90.77,
+          "destinoAtual": "copa-do-brasil"
+        },
+        {
+          "posicao": 4,
+          "time": "Belo Tricolor",
+          "pontos": 0,
+          "jogos": 2,
+          "vitorias": 0,
+          "empates": 0,
+          "derrotas": 2,
+          "pontosPro": 152.32,
+          "pontosContra": 203.72,
+          "saldo": -51.4,
+          "media": 76.16,
+          "destinoAtual": "eliminado"
+        }
+      ],
+      "rodadas": [
+        {
+          "numero": 1,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Coquinho",
+                "time": "Coquinho bebidas",
+                "pontuacao": 65.27,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Taylon",
+                "time": "Arsenal PE 87",
+                "pontuacao": 78.45,
+                "resultado": "V"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Alexandre",
+                "time": "Belo Tricolor",
+                "pontuacao": 71.22,
+                "resultado": "D"
+              },
+              "visitante": {
+                "cartoleiro": "Heider",
+                "time": "onça pintanda HD 13",
+                "pontuacao": 77.4,
+                "resultado": "V"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "concluida": true,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Heider",
+                "time": "onça pintanda HD 13",
+                "pontuacao": 118.77,
+                "resultado": "E"
+              },
+              "visitante": {
+                "cartoleiro": "Coquinho",
+                "time": "Coquinho bebidas",
+                "pontuacao": 116.27,
+                "resultado": "E"
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Taylon",
+                "time": "Arsenal PE 87",
+                "pontuacao": 126.32,
+                "resultado": "V"
+              },
+              "visitante": {
+                "cartoleiro": "Alexandre",
+                "time": "Belo Tricolor",
+                "pontuacao": 81.1,
+                "resultado": "D"
+              }
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Alexandre",
+                "time": "Belo Tricolor",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Coquinho",
+                "time": "Coquinho bebidas",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Heider",
+                "time": "onça pintanda HD 13",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Taylon",
+                "time": "Arsenal PE 87",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Coquinho",
+                "time": "Coquinho bebidas",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Alexandre",
+                "time": "Belo Tricolor",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Taylon",
+                "time": "Arsenal PE 87",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Heider",
+                "time": "onça pintanda HD 13",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Coquinho",
+                "time": "Coquinho bebidas",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Heider",
+                "time": "onça pintanda HD 13",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Alexandre",
+                "time": "Belo Tricolor",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Taylon",
+                "time": "Arsenal PE 87",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "concluida": false,
+          "partidas": [
+            {
+              "mandante": {
+                "cartoleiro": "Taylon",
+                "time": "Arsenal PE 87",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Coquinho",
+                "time": "Coquinho bebidas",
+                "pontuacao": null,
+                "resultado": null
+              }
+            },
+            {
+              "mandante": {
+                "cartoleiro": "Heider",
+                "time": "onça pintanda HD 13",
+                "pontuacao": null,
+                "resultado": null
+              },
+              "visitante": {
+                "cartoleiro": "Alexandre",
+                "time": "Belo Tricolor",
+                "pontuacao": null,
+                "resultado": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "classificacaoAtual": {
+    "oitavas": [
+      {
+        "grupo": "A",
+        "time": "Racionais FC_81",
+        "posicao": 1
+      },
+      {
+        "grupo": "A",
+        "time": "MitaMiita - IC",
+        "posicao": 2
+      },
+      {
+        "grupo": "B",
+        "time": "KENNEDY TEAM",
+        "posicao": 1
+      },
+      {
+        "grupo": "B",
+        "time": "Cajá FCC",
+        "posicao": 2
+      },
+      {
+        "grupo": "C",
+        "time": "Atletico Juventus T.C",
+        "posicao": 1
+      },
+      {
+        "grupo": "C",
+        "time": "Alex Antenas",
+        "posicao": 2
+      },
+      {
+        "grupo": "D",
+        "time": "Alison FCC",
+        "posicao": 1
+      },
+      {
+        "grupo": "D",
+        "time": "Demolidor01",
+        "posicao": 2
+      },
+      {
+        "grupo": "E",
+        "time": "JP90",
+        "posicao": 1
+      },
+      {
+        "grupo": "E",
+        "time": "expresso riachense",
+        "posicao": 2
+      },
+      {
+        "grupo": "F",
+        "time": "TEAM CBUM",
+        "posicao": 1
+      },
+      {
+        "grupo": "F",
+        "time": "Clemente A.F.C",
+        "posicao": 2
+      },
+      {
+        "grupo": "G",
+        "time": "D!NO F.C 10",
+        "posicao": 1
+      },
+      {
+        "grupo": "G",
+        "time": "Black Up City",
+        "posicao": 2
+      },
+      {
+        "grupo": "H",
+        "time": "Arsenal PE 87",
+        "posicao": 1
+      },
+      {
+        "grupo": "H",
+        "time": "onça pintanda HD 13",
+        "posicao": 2
+      }
+    ],
+    "copaDoBrasil": [
+      {
+        "grupo": "A",
+        "time": "Cabugi SC",
+        "posicao": 3
+      },
+      {
+        "grupo": "B",
+        "time": "EMERSON:)",
+        "posicao": 3
+      },
+      {
+        "grupo": "C",
+        "time": "Atlanta J.L 812",
+        "posicao": 3
+      },
+      {
+        "grupo": "D",
+        "time": "Brasmanha SC",
+        "posicao": 3
+      },
+      {
+        "grupo": "E",
+        "time": "skinkrapels",
+        "posicao": 3
+      },
+      {
+        "grupo": "F",
+        "time": "kaio paredão FC 01",
+        "posicao": 3
+      },
+      {
+        "grupo": "G",
+        "time": "Águia Dourada 13",
+        "posicao": 3
+      },
+      {
+        "grupo": "H",
+        "time": "Coquinho bebidas",
+        "posicao": 3
+      }
+    ]
+  },
+  "mataMata": [
+    {
+      "id": "oitavas",
+      "nome": "Oitavas de final",
+      "rodadasCartola": [
+        29,
+        30
+      ],
+      "quantidadeEsperada": 8,
+      "status": "aguardando",
+      "conteudoAntigoIgnorado": false,
+      "partidas": []
+    },
+    {
+      "id": "quartas",
+      "nome": "Quartas de final",
+      "rodadasCartola": [
+        31,
+        32
+      ],
+      "quantidadeEsperada": 4,
+      "status": "aguardando",
+      "conteudoAntigoIgnorado": false,
+      "partidas": []
+    },
+    {
+      "id": "semifinais",
+      "nome": "Semifinais",
+      "rodadasCartola": [
+        33,
+        34
+      ],
+      "quantidadeEsperada": 2,
+      "status": "aguardando",
+      "conteudoAntigoIgnorado": false,
+      "partidas": []
+    },
+    {
+      "id": "final",
+      "nome": "Final",
+      "rodadasCartola": [
+        35,
+        36
+      ],
+      "quantidadeEsperada": 1,
+      "status": "aguardando",
+      "conteudoAntigoIgnorado": false,
+      "partidas": []
+    }
+  ],
+  "avisos": []
+}

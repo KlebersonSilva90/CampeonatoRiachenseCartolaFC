@@ -48,3 +48,37 @@ As validações incluem:
 - classificação compatível com os confrontos preenchidos.
 
 Se qualquer série apresentar erro, nenhum JSON é substituído. Corrija a planilha indicada e execute o comando novamente.
+
+## Imagens para divulgação (teste)
+
+Para gerar um PNG da classificação e outro da última rodada concluída:
+
+```powershell
+python tools/gerar_imagens.py E
+```
+
+Troque `E` por `A`, `B`, `C` ou `D`. Os arquivos são criados na pasta
+`imagens-geradas/`. Para escolher outro destino:
+
+```powershell
+python tools/gerar_imagens.py --serie E --saida C:\caminho\das\imagens
+```
+
+O gerador requer Pillow (`python -m pip install Pillow`).
+
+## Atualização da Libertadores
+
+Mantenha a planilha em `planilhas/LIBERTADORES.xlsm` e execute:
+
+```powershell
+python tools/atualizar_libertadores.py
+```
+
+O comando lê os grupos A–H, suas seis rodadas e a classificação de quatro
+times. Os dois primeiros recebem o destino atual `oitavas`, o terceiro recebe
+`copa-do-brasil` e o quarto fica como `eliminado`. A classificação usa, nesta
+ordem, pontos, vitórias, saldo e pontos pró como critérios.
+
+A aba `mata mata` é lida como confrontos de ida e volta. Se ela ainda possuir
+nomes de outra edição, essas fases são mantidas como `aguardando` e os dados
+antigos não são publicados. O arquivo gerado é `dados/libertadores.json`.
