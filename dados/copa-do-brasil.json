@@ -1,0 +1,1086 @@
+{
+  "competicao": "Copa do Brasil",
+  "fonte": "Copa do Brasil.xlsx",
+  "atualizadoEm": "2026-08-26T21:40:18.445865+00:00",
+  "regulamento": {
+    "participantes": 64,
+    "mataMata": "ida-e-volta",
+    "final": "ida-e-volta",
+    "rodadaInicial": 24,
+    "rodadaFinal": 37,
+    "desempateAgregado": "pendente"
+  },
+  "times": [
+    {
+      "cartoleiro": "Advanilson",
+      "time": "DrogonTargaryen"
+    },
+    {
+      "cartoleiro": "José Lucas",
+      "time": "Ak. Lanches"
+    },
+    {
+      "cartoleiro": "alecksandro",
+      "time": "alecksandrofc"
+    },
+    {
+      "cartoleiro": "Álef Silva",
+      "time": "Álef Pitbull"
+    },
+    {
+      "cartoleiro": "Alex Aldir",
+      "time": "Alex Antenas FC"
+    },
+    {
+      "cartoleiro": "Alexsandro",
+      "time": "Amigos do Marx"
+    },
+    {
+      "cartoleiro": "Natan Silva",
+      "time": "Bayern11"
+    },
+    {
+      "cartoleiro": "Bruno Leonardo",
+      "time": "Bruno_007MTB"
+    },
+    {
+      "cartoleiro": "Robson",
+      "time": "Camuri futebol club"
+    },
+    {
+      "cartoleiro": "Felipe Cardoso",
+      "time": "Cangaceiros Unnited FC"
+    },
+    {
+      "cartoleiro": "Gerson Firmino",
+      "time": "Chambá EC"
+    },
+    {
+      "cartoleiro": "Rauanderson",
+      "time": "Contenda 1995 Fc"
+    },
+    {
+      "cartoleiro": "Coquinho",
+      "time": "Coquinho bebidas 1 Ligas"
+    },
+    {
+      "cartoleiro": "Lindomar Miranda",
+      "time": "Corinthians up city"
+    },
+    {
+      "cartoleiro": "Jandson Ricardo",
+      "time": "Dióclecinho FC"
+    },
+    {
+      "cartoleiro": "Gabigol",
+      "time": "disfuca"
+    },
+    {
+      "cartoleiro": "William Ferreira",
+      "time": "Elite Coral Futebol Clube"
+    },
+    {
+      "cartoleiro": "Diego",
+      "time": "família fc palmeiras"
+    },
+    {
+      "cartoleiro": "Thiago",
+      "time": "Fc-Villa-do-Rato-Fc"
+    },
+    {
+      "cartoleiro": "Fernando Antonio",
+      "time": "Fernando.f7"
+    },
+    {
+      "cartoleiro": "Deivyson",
+      "time": "Fiel FC Riacho"
+    },
+    {
+      "cartoleiro": "Felipe Miranda",
+      "time": "FJM Miranda FC"
+    },
+    {
+      "cartoleiro": "Tiago",
+      "time": "Go_Flash"
+    },
+    {
+      "cartoleiro": "Mateus Lima",
+      "time": "inferCoral fc"
+    },
+    {
+      "cartoleiro": "Matheus Oliveira",
+      "time": "Inter Movistar 14"
+    },
+    {
+      "cartoleiro": "Robson Moura",
+      "time": "JIQUIRIFC"
+    },
+    {
+      "cartoleiro": "Wilson De Lima",
+      "time": "juticeiro futebol"
+    },
+    {
+      "cartoleiro": "Kaio Henrique",
+      "time": "kaio paredão FC 06 Regularidade"
+    },
+    {
+      "cartoleiro": "Caio Cezar",
+      "time": "Kaiocezar1992"
+    },
+    {
+      "cartoleiro": "Alex",
+      "time": "KORINCHASU"
+    },
+    {
+      "cartoleiro": "José lucas",
+      "time": "Louco Fc 01"
+    },
+    {
+      "cartoleiro": "Ryan",
+      "time": "Loucosbet"
+    },
+    {
+      "cartoleiro": "Lucas Alves",
+      "time": "LS Alves F.C"
+    },
+    {
+      "cartoleiro": "Cleysson Marques",
+      "time": "maior do nordeste S C R"
+    },
+    {
+      "cartoleiro": "Maurício",
+      "time": "maurícioriachesse"
+    },
+    {
+      "cartoleiro": "Matheus Silva",
+      "time": "McDonald's DCR"
+    },
+    {
+      "cartoleiro": "Mikhail Azevedo",
+      "time": "Nautico1998"
+    },
+    {
+      "cartoleiro": "Leandro Luiz",
+      "time": "Nelore myo"
+    },
+    {
+      "cartoleiro": "José Luiz",
+      "time": "O MENSALISTA FC 1999"
+    },
+    {
+      "cartoleiro": "ALEX",
+      "time": "OH PROMOVIDO FC"
+    },
+    {
+      "cartoleiro": "Severino Anderson",
+      "time": "Óia o gato"
+    },
+    {
+      "cartoleiro": "Erick Braz",
+      "time": "Oxente Pizzaria FC"
+    },
+    {
+      "cartoleiro": "Ribeiro JR",
+      "time": "Paris Saint GermainCF"
+    },
+    {
+      "cartoleiro": "Irakitan Villa",
+      "time": "Patativa Celeste FC"
+    },
+    {
+      "cartoleiro": "joubert da silva fig",
+      "time": "pau e chok"
+    },
+    {
+      "cartoleiro": "Welliton",
+      "time": "pikachu 34"
+    },
+    {
+      "cartoleiro": "Wilson Arruda",
+      "time": "POLLY. FC. 12"
+    },
+    {
+      "cartoleiro": "Heider",
+      "time": "Raio negro hd"
+    },
+    {
+      "cartoleiro": "Renato",
+      "time": "REVISILVA"
+    },
+    {
+      "cartoleiro": "José Samuel",
+      "time": "Riacho FTV"
+    },
+    {
+      "cartoleiro": "Renan Mendes",
+      "time": "Rk_fitness FC"
+    },
+    {
+      "cartoleiro": "Kleberson",
+      "time": "SC Tello"
+    },
+    {
+      "cartoleiro": "Gabriel Silvestre",
+      "time": "SE Palmeiras Riachense"
+    },
+    {
+      "cartoleiro": "Nathan",
+      "time": "SeguimeuPAAL"
+    },
+    {
+      "cartoleiro": "José Pierre",
+      "time": "SEPalmeiras Imponente"
+    },
+    {
+      "cartoleiro": "Kayque Gomes",
+      "time": "Sociedad Football"
+    },
+    {
+      "cartoleiro": "Nal",
+      "time": "Sport Barra 4"
+    },
+    {
+      "cartoleiro": "du sfc 1912",
+      "time": "Tabajara 1912 SFC 1912"
+    },
+    {
+      "cartoleiro": "PAULO DA SILVA",
+      "time": "THUNDER BRANCO"
+    },
+    {
+      "cartoleiro": "Andre Santos",
+      "time": "timão.riacho.FC.13"
+    },
+    {
+      "cartoleiro": "Thiago Melo",
+      "time": "TM89"
+    },
+    {
+      "cartoleiro": "Lucas Vinicius",
+      "time": "TricolorSp3 F.C"
+    },
+    {
+      "cartoleiro": "PH",
+      "time": "Vaqueiro Sport club"
+    },
+    {
+      "cartoleiro": "Wesley",
+      "time": "Vermeiras FC"
+    }
+  ],
+  "fases": [
+    {
+      "id": "primeira-fase",
+      "nome": "Primeira fase",
+      "rodadasCartola": [
+        24,
+        25
+      ],
+      "quantidadeEsperada": 32,
+      "partidas": [
+        {
+          "time1": "SC Tello",
+          "time2": "disfuca",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 91.0,
+            "time2": 96.18,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "FJM Miranda FC",
+          "time2": "SeguimeuPAAL",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 61.59,
+            "time2": 117.57,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Ak. Lanches",
+          "time2": "Rk_fitness FC",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 112.52,
+            "time2": 116.82,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Álef Pitbull",
+          "time2": "Paris Saint GermainCF",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 110.4,
+            "time2": 73.27,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Amigos do Marx",
+          "time2": "pikachu 34",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 118.77,
+            "time2": 97.29,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "maurícioriachesse",
+          "time2": "Camuri futebol club",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 116.52,
+            "time2": 95.05,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Raio negro hd",
+          "time2": "McDonald's DCR",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 137.07,
+            "time2": 116.92,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "juticeiro futebol",
+          "time2": "TM89",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 107.37,
+            "time2": 34.46,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "SE Palmeiras Riachense",
+          "time2": "Coquinho bebidas 1 Ligas",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 83.4,
+            "time2": 103.9,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Fernando.f7",
+          "time2": "Riacho FTV",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 118.84,
+            "time2": 102.77,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Nautico1998",
+          "time2": "Bruno_007MTB",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 48.36,
+            "time2": 97.4,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Oxente Pizzaria FC",
+          "time2": "Dióclecinho FC",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 84.23,
+            "time2": 87.58,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "maior do nordeste S C R",
+          "time2": "Vaqueiro Sport club",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 123.17,
+            "time2": 112.92,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Go_Flash",
+          "time2": "DrogonTargaryen",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 50.8,
+            "time2": 86.17,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Sociedad Football",
+          "time2": "Óia o gato",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 110.0,
+            "time2": 78.08,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Bayern11",
+          "time2": "REVISILVA",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 130.5,
+            "time2": 85.11,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Patativa Celeste FC",
+          "time2": "família fc palmeiras",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 73.72,
+            "time2": 103.77,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Alex Antenas FC",
+          "time2": "THUNDER BRANCO",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 92.72,
+            "time2": 88.72,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Fiel FC Riacho",
+          "time2": "SEPalmeiras Imponente",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 101.41,
+            "time2": 98.58,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Elite Coral Futebol Clube",
+          "time2": "KORINCHASU",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 85.0,
+            "time2": 122.47,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "TricolorSp3 F.C",
+          "time2": "Cangaceiros Unnited FC",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 108.04,
+            "time2": 124.87,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "O MENSALISTA FC 1999",
+          "time2": "Fc-Villa-do-Rato-Fc",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 120.87,
+            "time2": 40.53,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Inter Movistar 14",
+          "time2": "Vermeiras FC",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 110.92,
+            "time2": 63.9,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Chambá EC",
+          "time2": "Nelore myo",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 87.34,
+            "time2": 102.69,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "LS Alves F.C",
+          "time2": "Contenda 1995 Fc",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 93.9,
+            "time2": 54.63,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "kaio paredão FC 06 Regularidade",
+          "time2": "timão.riacho.FC.13",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 112.52,
+            "time2": 93.87,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "OH PROMOVIDO FC",
+          "time2": "JIQUIRIFC",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 118.77,
+            "time2": 67.78,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Corinthians up city",
+          "time2": "Sport Barra 4",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 95.97,
+            "time2": 90.6,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "inferCoral fc",
+          "time2": "POLLY. FC. 12",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 97.37,
+            "time2": 112.09,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Louco Fc 01",
+          "time2": "pau e chok",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 102.32,
+            "time2": 94.8,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Kaiocezar1992",
+          "time2": "alecksandrofc",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 117.62,
+            "time2": 124.42,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Loucosbet",
+          "time2": "Tabajara 1912 SFC 1912",
+          "ida": {
+            "rodadaCartola": 24,
+            "time1": 84.57,
+            "time2": 100.22,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 25,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        }
+      ]
+    },
+    {
+      "id": "segunda-fase",
+      "nome": "Segunda fase",
+      "rodadasCartola": [
+        26,
+        27
+      ],
+      "quantidadeEsperada": 16,
+      "partidas": []
+    },
+    {
+      "id": "terceira-fase",
+      "nome": "Terceira fase",
+      "rodadasCartola": [
+        28,
+        29
+      ],
+      "quantidadeEsperada": 8,
+      "partidas": []
+    },
+    {
+      "id": "oitavas",
+      "nome": "Oitavas de final",
+      "rodadasCartola": [
+        30,
+        31
+      ],
+      "quantidadeEsperada": 8,
+      "partidas": []
+    },
+    {
+      "id": "quartas",
+      "nome": "Quartas de final",
+      "rodadasCartola": [
+        32,
+        33
+      ],
+      "quantidadeEsperada": 4,
+      "partidas": []
+    },
+    {
+      "id": "semifinais",
+      "nome": "Semifinais",
+      "rodadasCartola": [
+        34,
+        35
+      ],
+      "quantidadeEsperada": 2,
+      "partidas": []
+    },
+    {
+      "id": "final",
+      "nome": "Final",
+      "rodadasCartola": [
+        36,
+        37
+      ],
+      "quantidadeEsperada": 1,
+      "partidas": []
+    }
+  ],
+  "avisos": [],
+  "cartola": {
+    "rodadaAtual": 25,
+    "mercadoFechado": false,
+    "bolaRolando": false
+  }
+}

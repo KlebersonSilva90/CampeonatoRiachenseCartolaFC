@@ -679,9 +679,62 @@ button:focus-visible {
 .libertadores-confronto strong { overflow-wrap: anywhere; text-align: left; }
 .libertadores-confronto .classificado { background: var(--cor-vencedor); color: #7c171b; }
 
+.copa-fases { grid-template-columns: 1fr; }
+.copa-fase { scroll-margin-top: 12px; }
+.copa-fase.copa-fase-atual {
+  border-color: #db8100;
+  box-shadow: 0 0 0 3px rgb(255 174 0 / 18%);
+}
+.copa-fase.copa-fase-atual > header { background: #8c3d00; }
+.copa-fase > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.copa-fase-titulos { min-width: 0; }
+.copa-alternar-fase {
+  padding: 7px 10px;
+  border: 1px solid #fff;
+  border-radius: 7px;
+  background: #fff2d2;
+  color: #2b1b0b;
+  font: inherit;
+  font-size: 0.68rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+.copa-alternar-fase:hover,
+.copa-alternar-fase:focus-visible { background: #ffd278; }
+.copa-fase-conteudo[hidden] { display: none; }
+.copa-confrontos-grade {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  padding: 8px;
+}
+.copa-confronto {
+  overflow: hidden;
+  border: 1px solid #e0d2b6;
+  border-radius: 8px;
+  background: #fffdf7;
+}
+.copa-confronto > div + div { border-top: 1px solid #eee2cb; }
+.copa-confronto > div:not(.libertadores-confronto-rotulos) {
+  font-size: 0.8rem;
+}
+.copa-confronto strong,
+.copa-confronto b,
+.copa-confronto > div > span { font-size: inherit; }
+.copa-confronto .copa-lider-parcial {
+  background: var(--cor-vencedor);
+  color: #7c171b;
+}
+
 @media (max-width: 900px) {
   .libertadores-grade { grid-template-columns: 1fr; }
   .libertadores-fases { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .copa-fases { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 560px) {
@@ -700,6 +753,10 @@ button:focus-visible {
   .libertadores-tabela .libertadores-time { min-width: 125px; }
   .libertadores-secao-cabecalho > p { text-align: left; }
   .libertadores-fases { grid-template-columns: 1fr; }
+  .copa-confrontos-grade { grid-template-columns: 1fr; gap: 6px; padding: 6px; }
+  .copa-fase > header { align-items: stretch; }
+  .copa-alternar-fase { flex: 0 0 auto; }
+  .copa-confronto > div:not(.libertadores-confronto-rotulos) { font-size: 0.75rem; }
   .libertadores-jogo { gap: 4px; padding: 6px; }
   .libertadores-equipe { align-items: stretch; flex-direction: column; }
   .libertadores-equipe:last-child { align-items: flex-end; flex-direction: column; }

@@ -82,3 +82,26 @@ ordem, pontos, vitórias, saldo e pontos pró como critérios.
 A aba `mata mata` é lida como confrontos de ida e volta. Se ela ainda possuir
 nomes de outra edição, essas fases são mantidas como `aguardando` e os dados
 antigos não são publicados. O arquivo gerado é `dados/libertadores.json`.
+
+## Atualização da Copa do Brasil
+
+Mantenha a planilha em `planilhas/Copa do Brasil.xlsx` e execute:
+
+```powershell
+python tools/atualizar_copa_do_brasil.py
+```
+
+O comando valida os 64 participantes, lê a chave da aba `Jogos`, localiza os
+times no Cartola e grava `dados/copa-do-brasil.json`. O calendário usado é:
+
+- primeira fase: rodadas 24 e 25;
+- segunda fase: rodadas 26 e 27;
+- terceira fase: rodadas 28 e 29;
+- oitavas: rodadas 30 e 31;
+- quartas: rodadas 32 e 33;
+- semifinais: rodadas 34 e 35;
+- final: rodadas 36 e 37.
+
+Quando o mercado estiver fechado, a rodada atual é publicada como parcial. As
+rodadas anteriores são consultadas pelo histórico do Cartola. Se houver empate
+no agregado, o confronto permanece marcado como `desempate pendente`.

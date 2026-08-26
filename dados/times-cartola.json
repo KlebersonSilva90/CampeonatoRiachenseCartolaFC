@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T16:33:43.314043+00:00",
+  "atualizadoEm": "2026-08-26T21:10:18.102854+00:00",
   "times": {
     "A|Atletico Juventus T.C": {
       "timeId": 6781170,
@@ -505,6 +505,326 @@
       "timeId": 1047194,
       "slug": "wake-wake-fc98",
       "nomeCartola": "Matheus Silva"
+    },
+    "CB|DrogonTargaryen": {
+      "timeId": 730042,
+      "slug": "drogontargaryen",
+      "nomeCartola": "Adivanilson Ribeiro"
+    },
+    "CB|Ak. Lanches": {
+      "timeId": 51077231,
+      "slug": "ak-lanches",
+      "nomeCartola": "Jose Lucas "
+    },
+    "CB|alecksandrofc": {
+      "timeId": 23567152,
+      "slug": "alecksandrofc",
+      "nomeCartola": "alecksandro"
+    },
+    "CB|Álef Pitbull": {
+      "timeId": 3353610,
+      "slug": "alef-pitbull",
+      "nomeCartola": "Alef Pitbull"
+    },
+    "CB|Alex Antenas FC": {
+      "timeId": 51012818,
+      "slug": "alex-antenas-fc",
+      "nomeCartola": "Alex Antenas"
+    },
+    "CB|Amigos do Marx": {
+      "timeId": 7370617,
+      "slug": "amigos-do-marx",
+      "nomeCartola": "Alexsandro"
+    },
+    "CB|Bayern11": {
+      "timeId": 49115317,
+      "slug": "bayern11",
+      "nomeCartola": "Natan "
+    },
+    "CB|Bruno_007MTB": {
+      "timeId": 25946391,
+      "slug": "bruno-007mtb",
+      "nomeCartola": "Bruno Leonardo "
+    },
+    "CB|Camuri futebol club": {
+      "timeId": 44545205,
+      "slug": "camuri-futebol-clube",
+      "nomeCartola": "Robson"
+    },
+    "CB|Cangaceiros Unnited FC": {
+      "timeId": 3447632,
+      "slug": "cangaceiros-unnited-fc",
+      "nomeCartola": "Felipe Cardoso"
+    },
+    "CB|Chambá EC": {
+      "timeId": 1767723,
+      "slug": "chamba-ec",
+      "nomeCartola": "Gerson Firmino"
+    },
+    "CB|Contenda 1995 Fc": {
+      "timeId": 25797057,
+      "slug": "contenda-1995-fc",
+      "nomeCartola": "Rauanderson"
+    },
+    "CB|Coquinho bebidas 1 Ligas": {
+      "timeId": 50892707,
+      "slug": "coquinho-bebidas-1-ligas",
+      "nomeCartola": "Coquinho"
+    },
+    "CB|Corinthians up city": {
+      "timeId": 45830248,
+      "slug": "corinthians-up-city",
+      "nomeCartola": "Lindomar Miranda "
+    },
+    "CB|Dióclecinho FC": {
+      "timeId": 49342140,
+      "slug": "dioclecinho-fc",
+      "nomeCartola": "Jandson Ricardo"
+    },
+    "CB|disfuca": {
+      "timeId": 4660673,
+      "slug": "disfuca",
+      "nomeCartola": "Gabigol"
+    },
+    "CB|Elite Coral Futebol Clube": {
+      "timeId": 51457149,
+      "slug": "elite-coral-futebol-clube",
+      "nomeCartola": "William"
+    },
+    "CB|família fc palmeiras": {
+      "timeId": 25882357,
+      "slug": "familia-fc-palmeiras",
+      "nomeCartola": "Diego"
+    },
+    "CB|Fc-Villa-do-Rato-Fc": {
+      "timeId": 2523062,
+      "slug": "fc-villa-do-rato-fc",
+      "nomeCartola": "@08thiago_"
+    },
+    "CB|Fernando.f7": {
+      "timeId": 29703590,
+      "slug": "fernando-f7",
+      "nomeCartola": "Fernando Antonio "
+    },
+    "CB|Fiel FC Riacho": {
+      "timeId": 4963751,
+      "slug": "fiel-fc-riacho",
+      "nomeCartola": "Deivyson"
+    },
+    "CB|FJM Miranda FC": {
+      "timeId": 14058347,
+      "slug": "fjm-miranda-fc",
+      "nomeCartola": "Felipe"
+    },
+    "CB|Go_Flash": {
+      "timeId": 44574834,
+      "slug": "go-flash",
+      "nomeCartola": "Tiago"
+    },
+    "CB|inferCoral fc": {
+      "timeId": 4819795,
+      "slug": "infercoral-fc",
+      "nomeCartola": "Mateus Lima"
+    },
+    "CB|Inter Movistar 14": {
+      "timeId": 913297,
+      "slug": "inter-movistar-14",
+      "nomeCartola": "Matheus Oliveira"
+    },
+    "CB|JIQUIRIFC": {
+      "timeId": 50242134,
+      "slug": "jiquirifc",
+      "nomeCartola": "Robson Moura "
+    },
+    "CB|juticeiro futebol": {
+      "timeId": 28768714,
+      "slug": "juticeiro-futebol",
+      "nomeCartola": "wilson de lima ribei"
+    },
+    "CB|kaio paredão FC 06 Regularidade": {
+      "timeId": 50992840,
+      "slug": "kaio-paredao-fc-06-regularidade",
+      "nomeCartola": "Kaio paredão "
+    },
+    "CB|Kaiocezar1992": {
+      "timeId": 51061275,
+      "slug": "kaiocezar1992",
+      "nomeCartola": "Caio cezar "
+    },
+    "CB|KORINCHASU": {
+      "timeId": 14921379,
+      "slug": "korinchasu",
+      "nomeCartola": "Alex"
+    },
+    "CB|Louco Fc 01": {
+      "timeId": 47663514,
+      "slug": "louco-fc-01",
+      "nomeCartola": "Lucas "
+    },
+    "CB|Loucosbet": {
+      "timeId": 24573140,
+      "slug": "loucosbet",
+      "nomeCartola": "Ryan "
+    },
+    "CB|LS Alves F.C": {
+      "timeId": 50416810,
+      "slug": "ls-alves-f-c",
+      "nomeCartola": "Lucas Alves De Souza"
+    },
+    "CB|maior do nordeste S C R": {
+      "timeId": 5047794,
+      "slug": "maior-do-nordeste-s-c-r",
+      "nomeCartola": "Cleysson Marques "
+    },
+    "CB|maurícioriachesse": {
+      "timeId": 30270524,
+      "slug": "mauricioriachesse",
+      "nomeCartola": "Jose Mauricio"
+    },
+    "CB|McDonald's DCR": {
+      "timeId": 1047194,
+      "slug": "mcdonald-s-dcr",
+      "nomeCartola": "Matheus Silva"
+    },
+    "CB|Nautico1998": {
+      "timeId": 29402810,
+      "slug": "nautico1998",
+      "nomeCartola": "Mikhail Azevedo"
+    },
+    "CB|Nelore myo": {
+      "timeId": 29217738,
+      "slug": "nelore-myo",
+      "nomeCartola": "Leandro Luiz"
+    },
+    "CB|O MENSALISTA FC 1999": {
+      "timeId": 50235572,
+      "slug": "o-mensalista-fc-1999",
+      "nomeCartola": "José Luiz "
+    },
+    "CB|OH PROMOVIDO FC": {
+      "timeId": 50885540,
+      "slug": "oh-promovido-fc",
+      "nomeCartola": "ALEX"
+    },
+    "CB|Óia o gato": {
+      "timeId": 29001475,
+      "slug": "oia-o-gato",
+      "nomeCartola": "Óia o gato"
+    },
+    "CB|Oxente Pizzaria FC": {
+      "timeId": 26329135,
+      "slug": "oxente-pizzaria-fc",
+      "nomeCartola": "Erick Braz"
+    },
+    "CB|Paris Saint GermainCF": {
+      "timeId": 14111614,
+      "slug": "paris-saint-germaincf",
+      "nomeCartola": "Ribeiro Jr"
+    },
+    "CB|Patativa Celeste FC": {
+      "timeId": 18143633,
+      "slug": "patativa-celeste-fc",
+      "nomeCartola": "Irakitan Villa"
+    },
+    "CB|pau e chok": {
+      "timeId": 2254948,
+      "slug": "pau-e-chok",
+      "nomeCartola": "joubert da silva fig"
+    },
+    "CB|pikachu 34": {
+      "timeId": 7364437,
+      "slug": "pikachu-34",
+      "nomeCartola": "Wellington"
+    },
+    "CB|POLLY. FC. 12": {
+      "timeId": 9595785,
+      "slug": "polly-fc-12",
+      "nomeCartola": "Wilson"
+    },
+    "CB|Raio negro hd": {
+      "timeId": 50892658,
+      "slug": "raio-negro-hd",
+      "nomeCartola": "Heider"
+    },
+    "CB|REVISILVA": {
+      "timeId": 29217233,
+      "slug": "revisilva",
+      "nomeCartola": "Renato"
+    },
+    "CB|Riacho FTV": {
+      "timeId": 760916,
+      "slug": "riacho-ftv",
+      "nomeCartola": "José Samuel"
+    },
+    "CB|Rk_fitness FC": {
+      "timeId": 25644312,
+      "slug": "rk-fitness-fc",
+      "nomeCartola": "Renan Mendes"
+    },
+    "CB|SC Tello": {
+      "timeId": 13941847,
+      "slug": "sc-tello",
+      "nomeCartola": "Kleberson Silva"
+    },
+    "CB|SE Palmeiras Riachense": {
+      "timeId": 3398001,
+      "slug": "se-palmeiras-riachense",
+      "nomeCartola": "Gabriel Silvestre"
+    },
+    "CB|SeguimeuPAAL": {
+      "timeId": 51128740,
+      "slug": "seguimeupaal",
+      "nomeCartola": "Nathan "
+    },
+    "CB|SEPalmeiras Imponente": {
+      "timeId": 1272522,
+      "slug": "sepalmeiras-imponente",
+      "nomeCartola": "José Pierre"
+    },
+    "CB|Sociedad Football": {
+      "timeId": 50999353,
+      "slug": "sociedad-football",
+      "nomeCartola": "Kayque Gomes "
+    },
+    "CB|Sport Barra 4": {
+      "timeId": 51031921,
+      "slug": "sport-barra-4",
+      "nomeCartola": "Nal"
+    },
+    "CB|Tabajara 1912 SFC 1912": {
+      "timeId": 51276619,
+      "slug": "tabajara-1912-sfc-1912",
+      "nomeCartola": "Eduardo "
+    },
+    "CB|THUNDER BRANCO": {
+      "timeId": 51026800,
+      "slug": "thunder-branco",
+      "nomeCartola": "Paulo Silva "
+    },
+    "CB|timão.riacho.FC.13": {
+      "timeId": 18170767,
+      "slug": "timao-riacho-fc-13",
+      "nomeCartola": "ANDRÉ"
+    },
+    "CB|TM89": {
+      "timeId": 1252587,
+      "slug": "tm89",
+      "nomeCartola": "Thiago Melo"
+    },
+    "CB|TricolorSp3 F.C": {
+      "timeId": 3985434,
+      "slug": "tricolorsp3-f-c",
+      "nomeCartola": "Lucas Vinicius "
+    },
+    "CB|Vaqueiro Sport club": {
+      "timeId": 737589,
+      "slug": "vaqueiro-sport-club",
+      "nomeCartola": "Mineiro"
+    },
+    "CB|Vermeiras FC": {
+      "timeId": 8378368,
+      "slug": "vermeiras-fc",
+      "nomeCartola": "Wesley"
     }
   }
 }

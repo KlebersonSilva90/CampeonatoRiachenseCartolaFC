@@ -1,4 +1,4 @@
-name: Atualizar parciais do Cartola FC
+name: Atualizar pontuações do Cartola FC
 
 on:
   schedule:
@@ -23,15 +23,17 @@ jobs:
       - name: Validar cálculo das parciais
         run: python -m unittest discover -s tools -p "test_*.py"
       - name: Consultar Cartola FC
-        run: python tools/atualizar_parciais.py
+        run: |
+          python tools/atualizar_parciais.py
+          python tools/atualizar_copa_do_brasil.py
       - name: Publicar dados alterados
         run: |
-          if git diff --quiet -- dados/parciais.json dados/times-cartola.json; then
-            echo "Nenhuma alteração nas parciais."
+          if git diff --quiet -- dados/parciais.json dados/copa-do-brasil.json dados/times-cartola.json; then
+            echo "Nenhuma alteração nas pontuações."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- dados/parciais.json dados/times-cartola.json
-          git commit -m "Atualiza parciais do Cartola FC"
+          git add -- dados/parciais.json dados/copa-do-brasil.json dados/times-cartola.json
+          git commit -m "Atualiza pontuações do Cartola FC"
           git push

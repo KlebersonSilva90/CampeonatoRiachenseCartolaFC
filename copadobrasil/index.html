@@ -9,45 +9,50 @@
     <script src="../js/navegacao.js" defer></script>
     <script src="script.js" defer></script>
   </head>
-  <body>
+  <body data-dados-url="../dados/copa-do-brasil.json">
     <div id="splash">
       <img id="splashImg" src="../img/CopadoBrasil.png" alt="Apresentação da Copa do Brasil" />
     </div>
 
     <div id="site">
-    <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
+      <div id="topo">CAMPEONATO RIACHENSE CARTOLA FC</div>
+      <nav class="menu" aria-label="Competições">
+        <a href="../index.html" data-splash="../img/Capa.png">MELHORES DA RODADA</a>
+        <a href="../times/index.html" data-splash="../img/Capa.png">TIMES</a>
+        <a href="../serie-A/index.html" data-splash="../img/SerieA.png">SÉRIE A</a>
+        <a href="../serie-B/index.html" data-splash="../img/SerieB.png">SÉRIE B</a>
+        <a href="../serie-C/index.html" data-splash="../img/SerieC.png">SÉRIE C</a>
+        <a href="../serie-D/index.html" data-splash="../img/SerieD.png">SÉRIE D</a>
+        <a href="../serie-E/index.html" data-splash="../img/SerieE.png">SÉRIE E</a>
+        <a href="../libertadores/index.html" data-splash="../img/Libertadores.png">LIBERTADORES</a>
+        <a href="index.html" class="ativo" aria-current="page" data-splash="../img/CopadoBrasil.png">COPA DO BRASIL</a>
+      </nav>
 
-    <nav class="menu" aria-label="Competições">
-      <a href="../index.html" data-splash="../img/Capa.png">MELHORES DA RODADA</a>
-      <a href="../times/index.html" data-splash="../img/Capa.png">TIMES</a>
-      <a href="../serie-A/index.html" data-splash="../img/SerieA.png">SÉRIE A</a>
-      <a href="../serie-B/index.html" data-splash="../img/SerieB.png">SÉRIE B</a>
-      <a href="../serie-C/index.html" data-splash="../img/SerieC.png">SÉRIE C</a>
-      <a href="../serie-D/index.html" data-splash="../img/SerieD.png">SÉRIE D</a>
-      <a href="../serie-E/index.html" data-splash="../img/SerieE.png">SÉRIE E</a>
-      <a href="../libertadores/index.html" data-splash="../img/Libertadores.png">LIBERTADORES</a>
-      <a href="index.html" class="ativo" aria-current="page" data-splash="../img/CopadoBrasil.png">COPA DO BRASIL</a>
-    </nav>
+      <nav class="menu" aria-label="Navegação auxiliar">
+        <button onclick="window.location.href = '../index.html'">VOLTAR</button>
+      </nav>
 
-    <nav class="menu" aria-label="Navegação auxiliar">
-      <button onclick="window.location.href = '../index.html'">VOLTAR</button>
-    </nav>
+      <main class="conteudo-serie libertadores-pagina copa-pagina">
+        <header class="libertadores-cabecalho">
+          <div>
+            <p class="libertadores-etapa">FASES · IDA E VOLTA</p>
+            <h1>COPA DO BRASIL</h1>
+            <p id="status-dados" class="status-dados" role="status">Carregando dados da planilha…</p>
+          </div>
+        </header>
 
-    <section class="conteudo-serie">
-      <div class="rodadas-header">
-        <button class="seta" type="button" aria-label="Fase anterior" onclick="trocarFase(-1)">◀</button>
-        <span id="titulo-fase">PRIMEIRA FASE</span>
-        <button class="seta" type="button" aria-label="Próxima fase" onclick="trocarFase(1)">▶</button>
-      </div>
+        <section class="libertadores-mata-mata" aria-labelledby="titulo-mata-mata">
+          <div class="libertadores-secao-cabecalho">
+            <div>
+              <h2 id="titulo-mata-mata">FASES DA COMPETIÇÃO</h2>
+            </div>
+          </div>
+          <div id="fases-copa" class="libertadores-fases copa-fases"></div>
+        </section>
 
-      <h2>CONFRONTOS</h2>
-      <img
-        id="imagem-fase"
-        src="primeira-fase.png"
-        class="imagem"
-        alt="Fase"
-      />
-    </section>
+        <p id="avisos-copa" class="estado-dados" role="status" hidden></p>
+        <p id="erro-copa" class="estado-dados" role="alert" hidden></p>
+      </main>
     </div>
   </body>
 </html>
