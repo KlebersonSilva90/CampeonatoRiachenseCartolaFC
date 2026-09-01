@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T21:10:18.102854+00:00",
+  "atualizadoEm": "2026-09-01T18:28:25.956442+00:00",
   "times": {
     "A|Atletico Juventus T.C": {
       "timeId": 6781170,
@@ -820,6 +820,11 @@
       "timeId": 8378368,
       "slug": "vermeiras-fc",
       "nomeCartola": "Wesley"
+    },
+    "D|Alex Antenas FC": {
+      "timeId": 51012818,
+      "slug": "alex-antenas-fc",
+      "nomeCartola": "Alex Antenas"
     }
   }
 }
