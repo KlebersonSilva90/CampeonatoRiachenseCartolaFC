@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-05T21:23:35.263798+00:00",
+  "atualizadoEm": "2026-09-05T23:10:17.285765+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1030,7 +1030,7 @@
           "time2": "SeguimeuPAAL",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
+            "time1": 20.76,
             "time2": 0.0,
             "status": "parcial"
           },
@@ -1077,7 +1077,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 0.0,
-            "time2": 4.7,
+            "time2": 5.7,
             "status": "parcial"
           },
           "volta": {
@@ -1099,7 +1099,7 @@
           "time2": "juticeiro futebol",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 4.7,
+            "time1": 5.7,
             "time2": 0.0,
             "status": "parcial"
           },
@@ -1145,8 +1145,8 @@
           "time2": "Oxente Pizzaria FC",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 7.18,
-            "time2": -3.0,
+            "time1": 22.92,
+            "time2": 8.5,
             "status": "parcial"
           },
           "volta": {
@@ -1168,7 +1168,7 @@
           "time2": "DrogonTargaryen",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 6.6,
+            "time1": 7.6,
             "time2": 5.4,
             "status": "parcial"
           },
@@ -1215,7 +1215,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 0.0,
-            "time2": 4.7,
+            "time2": 5.7,
             "status": "parcial"
           },
           "volta": {
@@ -1237,7 +1237,7 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 9.7,
+            "time1": 21.2,
             "time2": 0.1,
             "status": "parcial"
           },
@@ -1260,8 +1260,8 @@
           "time2": "O MENSALISTA FC 1999",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
-            "time2": 4.7,
+            "time1": 11.5,
+            "time2": 5.7,
             "status": "parcial"
           },
           "volta": {
@@ -1283,7 +1283,7 @@
           "time2": "Nelore myo",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 4.7,
+            "time1": 5.7,
             "time2": 0.0,
             "status": "parcial"
           },
@@ -1306,7 +1306,7 @@
           "time2": "kaio paredão FC 06 Regularidade",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
+            "time1": 1.7,
             "time2": 0.1,
             "status": "parcial"
           },
@@ -1329,7 +1329,7 @@
           "time2": "Sport Barra 4",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 4.7,
+            "time1": 5.7,
             "time2": 0.0,
             "status": "parcial"
           },
@@ -1375,7 +1375,7 @@
           "time2": "Tabajara 1912 SFC 1912",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 4.7,
+            "time1": 5.7,
             "time2": 0.0,
             "status": "parcial"
           },
@@ -1450,6 +1450,6 @@
   "cartola": {
     "rodadaAtual": 26,
     "mercadoFechado": true,
-    "bolaRolando": false
+    "bolaRolando": true
   }
 }
