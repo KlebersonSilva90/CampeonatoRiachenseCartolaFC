@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-02T15:21:18.856697+00:00",
+  "atualizadoEm": "2026-09-05T19:19:09.514188+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1030,9 +1030,9 @@
           "time2": "SeguimeuPAAL",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1046,16 +1046,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Ak. Lanches",
           "time2": "Álef Pitbull",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1069,16 +1069,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Amigos do Marx",
           "time2": "maurícioriachesse",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 6.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1092,16 +1092,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Raio negro hd",
           "time2": "juticeiro futebol",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 6.0,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1115,16 +1115,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Coquinho bebidas 1 Ligas",
           "time2": "Fernando.f7",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1138,16 +1138,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Bruno_007MTB",
           "time2": "Oxente Pizzaria FC",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 5.04,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1161,16 +1161,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Vaqueiro Sport club",
           "time2": "DrogonTargaryen",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 17.0,
+            "time2": 4.7,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1184,16 +1184,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Sociedad Football",
           "time2": "Bayern11",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1207,16 +1207,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "família fc palmeiras",
           "time2": "Alex Antenas FC",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 6.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1230,16 +1230,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "SEPalmeiras Imponente",
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": -1.0,
+            "time2": 5.5,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1253,16 +1253,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Cangaceiros Unnited FC",
           "time2": "O MENSALISTA FC 1999",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 6.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1276,16 +1276,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Inter Movistar 14",
           "time2": "Nelore myo",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 6.0,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1299,16 +1299,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "LS Alves F.C",
           "time2": "kaio paredão FC 06 Regularidade",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 5.5,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1322,16 +1322,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "OH PROMOVIDO FC",
           "time2": "Sport Barra 4",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 6.0,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1345,16 +1345,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "POLLY. FC. 12",
           "time2": "Louco Fc 01",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 0.0,
+            "time2": 4.7,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1368,16 +1368,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "alecksandrofc",
           "time2": "Tabajara 1912 SFC 1912",
           "ida": {
             "rodadaCartola": 26,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 6.0,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1391,7 +1391,7 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         }
       ]
     },
@@ -1449,7 +1449,7 @@
   "avisos": [],
   "cartola": {
     "rodadaAtual": 26,
-    "mercadoFechado": false,
-    "bolaRolando": false
+    "mercadoFechado": true,
+    "bolaRolando": true
   }
 }
