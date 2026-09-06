@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-06T05:42:39.632757+00:00",
+  "atualizadoEm": "2026-09-06T16:21:16.800930+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1031,7 +1031,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 19.84,
-            "time2": 0.0,
+            "time2": 2.0,
             "status": "parcial"
           },
           "volta": {
@@ -1191,7 +1191,7 @@
           "time2": "Bayern11",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
+            "time1": 7.63,
             "time2": 13.9,
             "status": "parcial"
           },
@@ -1237,7 +1237,7 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 26.8,
+            "time1": 27.3,
             "time2": 0.1,
             "status": "parcial"
           },
@@ -1284,7 +1284,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 5.7,
-            "time2": 0.0,
+            "time2": 3.5,
             "status": "parcial"
           },
           "volta": {
