@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-06T00:57:28.876671+00:00",
+  "atualizadoEm": "2026-09-06T05:42:39.632757+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1099,7 +1099,7 @@
           "time2": "juticeiro futebol",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 9.4,
+            "time1": 13.1,
             "time2": 0.0,
             "status": "parcial"
           },
@@ -1122,7 +1122,7 @@
           "time2": "Fernando.f7",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 36.19,
+            "time1": 53.6,
             "time2": 11.2,
             "status": "parcial"
           },
@@ -1146,7 +1146,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 24.46,
-            "time2": 17.35,
+            "time2": 20.9,
             "status": "parcial"
           },
           "volta": {
@@ -1169,7 +1169,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 7.6,
-            "time2": 7.7,
+            "time2": 9.5,
             "status": "parcial"
           },
           "volta": {
@@ -1192,7 +1192,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 0.0,
-            "time2": 9.5,
+            "time2": 13.9,
             "status": "parcial"
           },
           "volta": {
@@ -1237,7 +1237,7 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 23.1,
+            "time1": 26.8,
             "time2": 0.1,
             "status": "parcial"
           },
@@ -1261,7 +1261,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 9.7,
-            "time2": 9.4,
+            "time2": 13.1,
             "status": "parcial"
           },
           "volta": {
@@ -1306,7 +1306,7 @@
           "time2": "kaio paredão FC 06 Regularidade",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 6.2,
+            "time1": 9.9,
             "time2": 0.1,
             "status": "parcial"
           },
@@ -1330,7 +1330,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 5.7,
-            "time2": 3.7,
+            "time2": 7.4,
             "status": "parcial"
           },
           "volta": {
@@ -1376,7 +1376,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 5.7,
-            "time2": 14.09,
+            "time2": 26.0,
             "status": "parcial"
           },
           "volta": {
@@ -1450,6 +1450,6 @@
   "cartola": {
     "rodadaAtual": 26,
     "mercadoFechado": true,
-    "bolaRolando": true
+    "bolaRolando": false
   }
 }
