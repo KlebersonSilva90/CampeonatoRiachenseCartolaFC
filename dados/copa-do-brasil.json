@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-06T16:21:16.800930+00:00",
+  "atualizadoEm": "2026-09-06T18:27:10.119583+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1191,7 +1191,7 @@
           "time2": "Bayern11",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 7.63,
+            "time1": 7.54,
             "time2": 13.9,
             "status": "parcial"
           },
