@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-06T18:27:10.119583+00:00",
+  "atualizadoEm": "2026-09-06T20:42:46.008925+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1030,8 +1030,8 @@
           "time2": "SeguimeuPAAL",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 19.84,
-            "time2": 2.0,
+            "time1": 59.44,
+            "time2": 24.1,
             "status": "parcial"
           },
           "volta": {
@@ -1053,8 +1053,8 @@
           "time2": "Álef Pitbull",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
-            "time2": 0.0,
+            "time1": 64.87,
+            "time2": 32.5,
             "status": "parcial"
           },
           "volta": {
@@ -1076,8 +1076,8 @@
           "time2": "maurícioriachesse",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
-            "time2": 5.7,
+            "time1": 45.25,
+            "time2": 61.27,
             "status": "parcial"
           },
           "volta": {
@@ -1099,8 +1099,8 @@
           "time2": "juticeiro futebol",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 13.1,
-            "time2": 0.0,
+            "time1": 64.47,
+            "time2": 37.25,
             "status": "parcial"
           },
           "volta": {
@@ -1122,8 +1122,8 @@
           "time2": "Fernando.f7",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 53.6,
-            "time2": 11.2,
+            "time1": 86.15,
+            "time2": 51.4,
             "status": "parcial"
           },
           "volta": {
@@ -1145,8 +1145,8 @@
           "time2": "Oxente Pizzaria FC",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 24.46,
-            "time2": 20.9,
+            "time1": 29.16,
+            "time2": 50.52,
             "status": "parcial"
           },
           "volta": {
@@ -1168,8 +1168,8 @@
           "time2": "DrogonTargaryen",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 7.6,
-            "time2": 9.5,
+            "time1": 36.25,
+            "time2": 26.32,
             "status": "parcial"
           },
           "volta": {
@@ -1191,8 +1191,8 @@
           "time2": "Bayern11",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 7.54,
-            "time2": 13.9,
+            "time1": 46.49,
+            "time2": 38.7,
             "status": "parcial"
           },
           "volta": {
@@ -1214,8 +1214,8 @@
           "time2": "Alex Antenas FC",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
-            "time2": 5.7,
+            "time1": 15.9,
+            "time2": 58.57,
             "status": "parcial"
           },
           "volta": {
@@ -1237,8 +1237,8 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 27.3,
-            "time2": 0.1,
+            "time1": 43.95,
+            "time2": 39.05,
             "status": "parcial"
           },
           "volta": {
@@ -1260,8 +1260,8 @@
           "time2": "O MENSALISTA FC 1999",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 9.7,
-            "time2": 13.1,
+            "time1": 63.27,
+            "time2": 77.97,
             "status": "parcial"
           },
           "volta": {
@@ -1283,8 +1283,8 @@
           "time2": "Nelore myo",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 5.7,
-            "time2": 3.5,
+            "time1": 74.37,
+            "time2": 57.57,
             "status": "parcial"
           },
           "volta": {
@@ -1306,8 +1306,8 @@
           "time2": "kaio paredão FC 06 Regularidade",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 9.9,
-            "time2": 0.1,
+            "time1": 56.6,
+            "time2": 51.05,
             "status": "parcial"
           },
           "volta": {
@@ -1329,8 +1329,8 @@
           "time2": "Sport Barra 4",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 5.7,
-            "time2": 7.4,
+            "time1": 44.65,
+            "time2": 39.8,
             "status": "parcial"
           },
           "volta": {
@@ -1352,8 +1352,8 @@
           "time2": "Louco Fc 01",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
-            "time2": 5.4,
+            "time1": 47.8,
+            "time2": 62.65,
             "status": "parcial"
           },
           "volta": {
@@ -1375,8 +1375,8 @@
           "time2": "Tabajara 1912 SFC 1912",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 5.7,
-            "time2": 26.0,
+            "time1": 38.95,
+            "time2": 65.35,
             "status": "parcial"
           },
           "volta": {
@@ -1450,6 +1450,6 @@
   "cartola": {
     "rodadaAtual": 26,
     "mercadoFechado": true,
-    "bolaRolando": false
+    "bolaRolando": true
   }
 }
