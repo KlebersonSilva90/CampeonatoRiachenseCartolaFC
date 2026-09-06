@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-05T23:10:17.285765+00:00",
+  "atualizadoEm": "2026-09-06T00:57:28.876671+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1030,7 +1030,7 @@
           "time2": "SeguimeuPAAL",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 20.76,
+            "time1": 19.84,
             "time2": 0.0,
             "status": "parcial"
           },
@@ -1099,7 +1099,7 @@
           "time2": "juticeiro futebol",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 5.7,
+            "time1": 9.4,
             "time2": 0.0,
             "status": "parcial"
           },
@@ -1122,7 +1122,7 @@
           "time2": "Fernando.f7",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 0.0,
+            "time1": 36.19,
             "time2": 11.2,
             "status": "parcial"
           },
@@ -1145,8 +1145,8 @@
           "time2": "Oxente Pizzaria FC",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 22.92,
-            "time2": 8.5,
+            "time1": 24.46,
+            "time2": 17.35,
             "status": "parcial"
           },
           "volta": {
@@ -1169,7 +1169,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 7.6,
-            "time2": 5.4,
+            "time2": 7.7,
             "status": "parcial"
           },
           "volta": {
@@ -1192,7 +1192,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 0.0,
-            "time2": 0.0,
+            "time2": 9.5,
             "status": "parcial"
           },
           "volta": {
@@ -1237,7 +1237,7 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 21.2,
+            "time1": 23.1,
             "time2": 0.1,
             "status": "parcial"
           },
@@ -1260,8 +1260,8 @@
           "time2": "O MENSALISTA FC 1999",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 11.5,
-            "time2": 5.7,
+            "time1": 9.7,
+            "time2": 9.4,
             "status": "parcial"
           },
           "volta": {
@@ -1306,7 +1306,7 @@
           "time2": "kaio paredão FC 06 Regularidade",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 1.7,
+            "time1": 6.2,
             "time2": 0.1,
             "status": "parcial"
           },
@@ -1330,7 +1330,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 5.7,
-            "time2": 0.0,
+            "time2": 3.7,
             "status": "parcial"
           },
           "volta": {
@@ -1376,7 +1376,7 @@
           "ida": {
             "rodadaCartola": 26,
             "time1": 5.7,
-            "time2": 0.0,
+            "time2": 14.09,
             "status": "parcial"
           },
           "volta": {
