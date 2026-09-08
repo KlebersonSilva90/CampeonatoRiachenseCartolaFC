@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-08T05:08:12.411747+00:00",
+  "atualizadoEm": "2026-09-08T13:53:31.903749+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1032,7 +1032,7 @@
             "rodadaCartola": 26,
             "time1": 99.44,
             "time2": 69.96,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1055,7 +1055,7 @@
             "rodadaCartola": 26,
             "time1": 95.8,
             "time2": 78.25,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1078,7 +1078,7 @@
             "rodadaCartola": 26,
             "time1": 81.21,
             "time2": 80.4,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1101,7 +1101,7 @@
             "rodadaCartola": 26,
             "time1": 101.8,
             "time2": 79.91,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1124,7 +1124,7 @@
             "rodadaCartola": 26,
             "time1": 100.95,
             "time2": 83.65,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1147,7 +1147,7 @@
             "rodadaCartola": 26,
             "time1": 56.41,
             "time2": 56.55,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1170,7 +1170,7 @@
             "rodadaCartola": 26,
             "time1": 66.11,
             "time2": 45.65,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1193,7 +1193,7 @@
             "rodadaCartola": 26,
             "time1": 81.09,
             "time2": 47.78,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1216,7 +1216,7 @@
             "rodadaCartola": 26,
             "time1": 68.3,
             "time2": 87.6,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1239,7 +1239,7 @@
             "rodadaCartola": 26,
             "time1": 79.61,
             "time2": 81.51,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1262,7 +1262,7 @@
             "rodadaCartola": 26,
             "time1": 102.6,
             "time2": 102.9,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1285,7 +1285,7 @@
             "rodadaCartola": 26,
             "time1": 108.0,
             "time2": 83.0,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1308,7 +1308,7 @@
             "rodadaCartola": 26,
             "time1": 76.18,
             "time2": 86.01,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1331,7 +1331,7 @@
             "rodadaCartola": 26,
             "time1": 81.21,
             "time2": 75.66,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1352,9 +1352,9 @@
           "time2": "Louco Fc 01",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 94.16,
+            "time1": 97.86,
             "time2": 96.51,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1377,7 +1377,7 @@
             "rodadaCartola": 26,
             "time1": 80.11,
             "time2": 93.75,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 27,
@@ -1448,8 +1448,8 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 26,
-    "mercadoFechado": true,
+    "rodadaAtual": 27,
+    "mercadoFechado": false,
     "bolaRolando": false
   }
 }
