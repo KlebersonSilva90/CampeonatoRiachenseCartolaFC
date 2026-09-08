@@ -66,6 +66,14 @@ python tools/gerar_imagens.py --serie E --saida C:\caminho\das\imagens
 
 O gerador requer Pillow (`python -m pip install Pillow`).
 
+Para gerar as imagens da primeira e da segunda fase da Copa do Brasil:
+
+```powershell
+python tools/gerar_imagens_copa.py 1 2
+```
+
+Os arquivos também são criados em `imagens-geradas/`.
+
 ## Atualização da Libertadores
 
 Mantenha a planilha em `planilhas/LIBERTADORES.xlsm` e execute:
