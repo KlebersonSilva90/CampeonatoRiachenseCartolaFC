@@ -96,7 +96,7 @@ def atualizar_perna(
         anterior_partida.get(lado) == partida.get(lado) for lado in ("time1", "time2")
     )
     if (
-        rodada < rodada_atual
+        rodada < rodada_atual - 1
         and mesmos_times
         and anterior_perna.get("status") == "concluida"
         and all(isinstance(anterior_perna.get(lado), (int, float)) for lado in ("time1", "time2"))
@@ -107,9 +107,12 @@ def atualizar_perna(
             "status": "concluida",
         })
         return
+    historico_confirmado = rodada < rodada_atual
     for lado in ("time1", "time2"):
         nome = partida.get(lado)
         if not nome:
+            if rodada < rodada_atual:
+                historico_confirmado = False
             continue
         cadastro = mapa["times"].get(f"CB|{nome}", {})
         time_id = cadastro.get("timeId")
@@ -124,10 +127,16 @@ def atualizar_perna(
             except (HTTPError, URLError, TimeoutError, ValueError):
                 pontos = None
             time.sleep(0.12)
+        if rodada < rodada_atual and pontos is None:
+            historico_confirmado = False
         if pontos is None:
             pontos = pontuacao_preservada(anterior_partida, perna, lado)
         dados_perna[lado] = pontos
-    dados_perna["status"] = "parcial" if rodada == rodada_atual else "concluida"
+    dados_perna["status"] = (
+        "parcial"
+        if rodada == rodada_atual or not historico_confirmado
+        else "concluida"
+    )
 
 
 def atualizar_status_partida(partida: dict) -> None:

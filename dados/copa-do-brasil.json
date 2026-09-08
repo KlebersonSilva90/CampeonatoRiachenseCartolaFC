@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-08T13:53:31.903749+00:00",
+  "atualizadoEm": "2026-09-08T15:46:13.122396+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1030,8 +1030,8 @@
           "time2": "SeguimeuPAAL",
           "ida": {
             "rodadaCartola": 26,
-            "time1": 99.44,
-            "time2": 69.96,
+            "time1": 105.84,
+            "time2": 71.86,
             "status": "concluida"
           },
           "volta": {

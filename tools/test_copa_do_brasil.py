@@ -1,5 +1,7 @@
 import unittest
+from unittest.mock import patch
 
+from atualizar_copa_do_brasil import atualizar_perna
 from extrair_copa_do_brasil import build_data, finalizar_partida, validar
 
 
@@ -30,6 +32,50 @@ class CopaDoBrasilTests(unittest.TestCase):
         partida["volta"]["status"] = "concluida"
         finalizar_partida(partida, [24, 25])
         self.assertEqual("B", partida["vencedor"])
+
+    @patch("atualizar_copa_do_brasil.time.sleep")
+    @patch("atualizar_copa_do_brasil.obter_pontos_historicos")
+    def test_rodada_anterior_reconsulta_historico(self, obter_pontos, _sleep):
+        obter_pontos.side_effect = [105.84, 71.86]
+        partida = {
+            "time1": "SC Tello",
+            "time2": "SeguimeuPAAL",
+            "ida": {"time1": None, "time2": None, "status": "planilha"},
+        }
+        anterior = {
+            "time1": "SC Tello",
+            "time2": "SeguimeuPAAL",
+            "ida": {"time1": 99.44, "time2": 69.96, "status": "concluida"},
+        }
+        mapa = {"times": {
+            "CB|SC Tello": {"timeId": 1},
+            "CB|SeguimeuPAAL": {"timeId": 2},
+        }}
+
+        atualizar_perna(partida, "ida", 26, 27, False, mapa, {}, set(), anterior)
+
+        self.assertEqual(105.84, partida["ida"]["time1"])
+        self.assertEqual(71.86, partida["ida"]["time2"])
+        self.assertEqual("concluida", partida["ida"]["status"])
+
+    @patch("atualizar_copa_do_brasil.time.sleep")
+    @patch("atualizar_copa_do_brasil.obter_pontos_historicos", return_value=None)
+    def test_falha_no_historico_nao_congela_parcial(self, _obter_pontos, _sleep):
+        partida = {
+            "time1": "A", "time2": "B",
+            "ida": {"time1": None, "time2": None, "status": "planilha"},
+        }
+        anterior = {
+            "time1": "A", "time2": "B",
+            "ida": {"time1": 90.0, "time2": 80.0, "status": "parcial"},
+        }
+        mapa = {"times": {"CB|A": {"timeId": 1}, "CB|B": {"timeId": 2}}}
+
+        atualizar_perna(partida, "ida", 26, 27, False, mapa, {}, set(), anterior)
+
+        self.assertEqual(90.0, partida["ida"]["time1"])
+        self.assertEqual(80.0, partida["ida"]["time2"])
+        self.assertEqual("parcial", partida["ida"]["status"])
 
 
 if __name__ == "__main__":
