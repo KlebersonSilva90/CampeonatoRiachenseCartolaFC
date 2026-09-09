@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T18:28:25.956442+00:00",
+  "atualizadoEm": "2026-09-09T18:32:32.253204+00:00",
   "times": {
     "A|Atletico Juventus T.C": {
       "timeId": 6781170,
@@ -825,6 +825,11 @@
       "timeId": 51012818,
       "slug": "alex-antenas-fc",
       "nomeCartola": "Alex Antenas"
+    },
+    "A|DINOO F.C 10": {
+      "timeId": 6972050,
+      "slug": "dinoo-f-c-10",
+      "nomeCartola": "jadiel "
     }
   }
 }
