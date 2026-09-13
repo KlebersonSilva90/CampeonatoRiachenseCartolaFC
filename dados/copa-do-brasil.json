@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-13T20:46:13.516133+00:00",
+  "atualizadoEm": "2026-09-13T22:41:42.338688+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1036,13 +1036,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 51.41,
-            "time2": 64.16,
+            "time1": 68.71,
+            "time2": 75.43,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 157.25,
-            "time2": 136.02
+            "time1": 174.55,
+            "time2": 147.29
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1059,13 +1059,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 61.06,
-            "time2": 63.36,
+            "time1": 74.23,
+            "time2": 80.13,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 156.86,
-            "time2": 141.61
+            "time1": 170.03,
+            "time2": 158.38
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1082,13 +1082,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 23.1,
-            "time2": 41.0,
+            "time1": 26.7,
+            "time2": 51.6,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 104.31,
-            "time2": 121.4
+            "time1": 107.91,
+            "time2": 132.0
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1105,13 +1105,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 41.91,
-            "time2": 57.5,
+            "time1": 52.01,
+            "time2": 60.6,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 143.71,
-            "time2": 137.41
+            "time1": 153.81,
+            "time2": 140.51
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1128,13 +1128,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 68.51,
-            "time2": 54.71,
+            "time1": 72.11,
+            "time2": 75.74,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 169.46,
-            "time2": 138.36
+            "time1": 173.06,
+            "time2": 159.39
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1151,13 +1151,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 43.96,
-            "time2": 55.2,
+            "time1": 58.63,
+            "time2": 69.8,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 100.37,
-            "time2": 111.75
+            "time1": 115.04,
+            "time2": 126.35
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1174,13 +1174,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 83.41,
-            "time2": 55.93,
+            "time1": 97.41,
+            "time2": 50.93,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 149.52,
-            "time2": 101.58
+            "time1": 163.52,
+            "time2": 96.58
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1197,13 +1197,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 35.66,
-            "time2": 66.04,
+            "time1": 47.79,
+            "time2": 61.54,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 116.75,
-            "time2": 113.82
+            "time1": 128.88,
+            "time2": 109.32
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1221,12 +1221,12 @@
           "volta": {
             "rodadaCartola": 27,
             "time1": 85.51,
-            "time2": 40.0,
+            "time2": 51.3,
             "status": "parcial"
           },
           "agregado": {
             "time1": 153.81,
-            "time2": 127.6
+            "time2": 138.9
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1243,13 +1243,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 29.6,
-            "time2": 63.06,
+            "time1": 24.0,
+            "time2": 68.73,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 109.21,
-            "time2": 144.57
+            "time1": 103.61,
+            "time2": 150.24
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1266,13 +1266,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 55.51,
-            "time2": 50.16,
+            "time1": 60.48,
+            "time2": 51.33,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 158.11,
-            "time2": 153.06
+            "time1": 163.08,
+            "time2": 154.23
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1289,13 +1289,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 27.2,
-            "time2": 26.26,
+            "time1": 41.8,
+            "time2": 32.43,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 135.2,
-            "time2": 109.26
+            "time1": 149.8,
+            "time2": 115.43
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1313,12 +1313,12 @@
           "volta": {
             "rodadaCartola": 27,
             "time1": 37.4,
-            "time2": 53.96,
+            "time2": 71.03,
             "status": "parcial"
           },
           "agregado": {
             "time1": 113.58,
-            "time2": 139.97
+            "time2": 157.04
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1335,13 +1335,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 61.26,
-            "time2": 45.06,
+            "time1": 76.43,
+            "time2": 41.43,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 142.47,
-            "time2": 120.72
+            "time1": 157.64,
+            "time2": 117.09
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1358,13 +1358,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 91.86,
-            "time2": 47.2,
+            "time1": 94.26,
+            "time2": 55.8,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 189.72,
-            "time2": 143.71
+            "time1": 192.12,
+            "time2": 152.31
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1381,13 +1381,13 @@
           },
           "volta": {
             "rodadaCartola": 27,
-            "time1": 42.11,
-            "time2": 34.46,
+            "time1": 46.18,
+            "time2": 51.73,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 122.22,
-            "time2": 128.21
+            "time1": 126.29,
+            "time2": 145.48
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
