@@ -91,6 +91,12 @@ A aba `mata mata` é lida como confrontos de ida e volta. Se ela ainda possuir
 nomes de outra edição, essas fases são mantidas como `aguardando` e os dados
 antigos não são publicados. O arquivo gerado é `dados/libertadores.json`.
 
+As pontuações também são consultadas automaticamente no Cartola FC. As seis
+rodadas dos grupos correspondem às rodadas 23 a 28 do Cartola; o mata-mata usa
+as rodadas 29 a 36. Durante os jogos são publicadas parciais e, após a rodada,
+o histórico oficial é reconsultado antes de o placar ser marcado como concluído.
+O workflow do GitHub executa essa atualização a cada 10 minutos.
+
 ## Atualização da Copa do Brasil
 
 Mantenha a planilha em `planilhas/Copa do Brasil.xlsx` e execute:

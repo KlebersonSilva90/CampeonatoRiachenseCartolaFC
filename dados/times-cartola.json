@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T18:32:32.253204+00:00",
+  "atualizadoEm": "2026-09-15T14:19:15.746010+00:00",
   "times": {
     "A|Atletico Juventus T.C": {
       "timeId": 6781170,
@@ -830,6 +830,166 @@
       "timeId": 6972050,
       "slug": "dinoo-f-c-10",
       "nomeCartola": "jadiel "
+    },
+    "LIB|Racionais FC_81": {
+      "timeId": 50212296,
+      "slug": "racionais-fc-81",
+      "nomeCartola": "Ton Do Corte"
+    },
+    "LIB|MitaMiita - IC": {
+      "timeId": 2351845,
+      "slug": "mitamiita-ic",
+      "nomeCartola": "Felipe Lopes"
+    },
+    "LIB|fazenda camarões fc": {
+      "timeId": 12930558,
+      "slug": "fazenda-camaroes-fc",
+      "nomeCartola": "bruno fc"
+    },
+    "LIB|Cabugi SC": {
+      "timeId": 7642832,
+      "slug": "cabugi-sc",
+      "nomeCartola": "Rafael Justo"
+    },
+    "LIB|KENNEDY TEAM": {
+      "timeId": 14028002,
+      "slug": "kennedy-team",
+      "nomeCartola": "Kennedy Gilbert"
+    },
+    "LIB|Cajá FCC": {
+      "timeId": 1703531,
+      "slug": "caja-fcc",
+      "nomeCartola": "Anderson Gomes"
+    },
+    "LIB|EMERSON:)": {
+      "timeId": 8694541,
+      "slug": "emerson",
+      "nomeCartola": "Emerson "
+    },
+    "LIB|Serra Verde Futebol Club": {
+      "timeId": 2240542,
+      "slug": "serra-verde-futebol-club",
+      "nomeCartola": "Janailson Eugênio"
+    },
+    "LIB|Atletico Juventus T.C": {
+      "timeId": 6781170,
+      "slug": "atletico-juventus-t-c",
+      "nomeCartola": "Mario Jorge"
+    },
+    "LIB|Alex Antenas": {
+      "timeId": 14598692,
+      "slug": "alex-antenas",
+      "nomeCartola": "Alex Aldir"
+    },
+    "LIB|Óia o rato!": {
+      "timeId": 653752,
+      "slug": "oia-o-rato",
+      "nomeCartola": "severino anderson"
+    },
+    "LIB|Atlanta J.L 812": {
+      "timeId": 796704,
+      "slug": "atlanta-j-l-812",
+      "nomeCartola": "José Carlos"
+    },
+    "LIB|Alison FCC": {
+      "timeId": 14257152,
+      "slug": "alison-fcc",
+      "nomeCartola": "Alison"
+    },
+    "LIB|Demolidor01": {
+      "timeId": 50267119,
+      "slug": "demolidor01",
+      "nomeCartola": "Edson Manoel "
+    },
+    "LIB|mito350": {
+      "timeId": 1005303,
+      "slug": "mito350",
+      "nomeCartola": "Isac"
+    },
+    "LIB|Brasmanha SC": {
+      "timeId": 1035299,
+      "slug": "brasmanha-sc",
+      "nomeCartola": "Kayque José"
+    },
+    "LIB|expresso riachense": {
+      "timeId": 15806146,
+      "slug": "expresso-riachense",
+      "nomeCartola": "jailson"
+    },
+    "LIB|JP90": {
+      "timeId": 814876,
+      "slug": "jp90",
+      "nomeCartola": "Joao Peixoto"
+    },
+    "LIB|skinkrapels": {
+      "timeId": 30333598,
+      "slug": "skinkrapels",
+      "nomeCartola": "pedro"
+    },
+    "LIB|Catalão City PE": {
+      "timeId": 760462,
+      "slug": "catalao-city-pe",
+      "nomeCartola": "Leandro Silva"
+    },
+    "LIB|Clemente A.F.C": {
+      "timeId": 18215583,
+      "slug": "clemente-a-f-c",
+      "nomeCartola": "Mauri clemente"
+    },
+    "LIB|TEAM CBUM": {
+      "timeId": 47539907,
+      "slug": "team-cbum",
+      "nomeCartola": "Ruan José "
+    },
+    "LIB|kaio paredão FC 01": {
+      "timeId": 28626500,
+      "slug": "kaio-paredao-fc-01",
+      "nomeCartola": "Kaio Henrique "
+    },
+    "LIB|WL Corttes FC": {
+      "timeId": 1766037,
+      "slug": "wl-corttes-fc",
+      "nomeCartola": "Wallyson lemos "
+    },
+    "LIB|ozzinca f.c.": {
+      "timeId": 1334390,
+      "slug": "ozzinca-f-c",
+      "nomeCartola": "Jose manoel"
+    },
+    "LIB|Black Up City": {
+      "timeId": 23624428,
+      "slug": "black-up-city",
+      "nomeCartola": "Leon Junior"
+    },
+    "LIB|DINOO F.C 10": {
+      "timeId": 6972050,
+      "slug": "dinoo-f-c-10",
+      "nomeCartola": "jadiel "
+    },
+    "LIB|Águia Dourada 13": {
+      "timeId": 28625221,
+      "slug": "aguia-dourada-13",
+      "nomeCartola": "Igor Guiga"
+    },
+    "LIB|Arsenal PE 87": {
+      "timeId": 198300,
+      "slug": "arsenal-pe-87",
+      "nomeCartola": "Taylon Ayres"
+    },
+    "LIB|Coquinho bebidas": {
+      "timeId": 28662671,
+      "slug": "coquinho-bebidas",
+      "nomeCartola": "Coquinho"
+    },
+    "LIB|onça pintanda HD 13": {
+      "timeId": 18650925,
+      "slug": "onca-pintanda-hd-13",
+      "nomeCartola": "Heider hd"
+    },
+    "LIB|Belo Tricolor": {
+      "timeId": 51317400,
+      "slug": "belo-tricolor",
+      "nomeCartola": "Alexandre Mendonça "
     }
   }
 }

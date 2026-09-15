@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-09-09T13:04:18",
+  "atualizadoEm": "2026-09-15T14:19:52.559042+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -24,59 +24,59 @@
       "grupo": "A",
       "classificacao": [
         {
-          "posicao": 1,
           "time": "Racionais FC_81",
-          "pontos": 10,
-          "jogos": 4,
-          "vitorias": 3,
+          "pontos": 13,
+          "jogos": 5,
+          "vitorias": 4,
           "empates": 1,
           "derrotas": 0,
-          "pontosPro": 398.01,
-          "pontosContra": 355.82,
-          "saldo": 42.19,
-          "media": 99.5,
+          "pontosPro": 468.92,
+          "pontosContra": 407.01,
+          "saldo": 61.91,
+          "media": 93.78,
+          "posicao": 1,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 2,
           "time": "MitaMiita - IC",
+          "pontos": 8,
+          "jogos": 5,
+          "vitorias": 2,
+          "empates": 2,
+          "derrotas": 1,
+          "pontosPro": 445.66,
+          "pontosContra": 424.86,
+          "saldo": 20.8,
+          "media": 89.13,
+          "posicao": 2,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "time": "fazenda camarões fc",
           "pontos": 7,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 2,
           "empates": 1,
-          "derrotas": 1,
-          "pontosPro": 382.41,
-          "pontosContra": 366.56,
-          "saldo": 15.85,
-          "media": 95.6,
-          "destinoAtual": "oitavas"
-        },
-        {
-          "posicao": 3,
-          "time": "fazenda camarões fc",
-          "pontos": 6,
-          "jogos": 4,
-          "vitorias": 2,
-          "empates": 0,
           "derrotas": 2,
-          "pontosPro": 380.59,
-          "pontosContra": 369.24,
-          "saldo": 11.35,
-          "media": 95.15,
+          "pontosPro": 438.89,
+          "pontosContra": 432.49,
+          "saldo": 6.4,
+          "media": 87.78,
+          "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
-          "posicao": 4,
           "time": "Cabugi SC",
           "pontos": 0,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 0,
           "empates": 0,
-          "derrotas": 4,
-          "pontosPro": 345.69,
-          "pontosContra": 415.08,
-          "saldo": -69.39,
-          "media": 86.42,
+          "derrotas": 5,
+          "pontosPro": 396.88,
+          "pontosContra": 485.99,
+          "saldo": -89.11,
+          "media": 79.38,
+          "posicao": 4,
           "destinoAtual": "eliminado"
         }
       ],
@@ -97,7 +97,8 @@
                 "time": "MitaMiita - IC",
                 "pontuacao": 72.5,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -111,9 +112,12 @@
                 "time": "Racionais FC_81",
                 "pontuacao": 78.1,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 23,
+          "status": "concluida"
         },
         {
           "numero": 2,
@@ -131,13 +135,14 @@
                 "time": "Cabugi SC",
                 "pontuacao": 126.1,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Felipe Lopes",
                 "time": "MitaMiita - IC",
-                "pontuacao": 134,
+                "pontuacao": 134.0,
                 "resultado": "V"
               },
               "visitante": {
@@ -145,9 +150,12 @@
                 "time": "fazenda camarões fc",
                 "pontuacao": 121.8,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 24,
+          "status": "concluida"
         },
         {
           "numero": 3,
@@ -165,7 +173,8 @@
                 "time": "Cabugi SC",
                 "pontuacao": 77.34,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -179,9 +188,12 @@
                 "time": "MitaMiita - IC",
                 "pontuacao": 101.2,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 25,
+          "status": "concluida"
         },
         {
           "numero": 4,
@@ -199,7 +211,8 @@
                 "time": "fazenda camarões fc",
                 "pontuacao": 97.65,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -213,43 +226,50 @@
                 "time": "Racionais FC_81",
                 "pontuacao": 81.11,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 26,
+          "status": "concluida"
         },
         {
           "numero": 5,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
                 "cartoleiro": "Rafael Justo",
                 "time": "Cabugi SC",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 51.19,
+                "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "Ton Do Corte",
                 "time": "Racionais FC_81",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 70.91,
+                "resultado": "V"
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "bruno fc",
                 "time": "fazenda camarões fc",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 58.3,
+                "resultado": "E"
               },
               "visitante": {
                 "cartoleiro": "Felipe Lopes",
                 "time": "MitaMiita - IC",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 63.25,
+                "resultado": "E"
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 27,
+          "status": "concluida"
         },
         {
           "numero": 6,
@@ -267,7 +287,8 @@
                 "time": "Cabugi SC",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             },
             {
               "mandante": {
@@ -281,9 +302,12 @@
                 "time": "fazenda camarões fc",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             }
-          ]
+          ],
+          "rodadaCartola": 28,
+          "status": "aguardando"
         }
       ]
     },
@@ -291,59 +315,59 @@
       "grupo": "B",
       "classificacao": [
         {
-          "posicao": 1,
           "time": "KENNEDY TEAM",
-          "pontos": 8,
-          "jogos": 4,
-          "vitorias": 2,
+          "pontos": 11,
+          "jogos": 5,
+          "vitorias": 3,
           "empates": 2,
           "derrotas": 0,
-          "pontosPro": 365.75,
-          "pontosContra": 340.25,
-          "saldo": 25.5,
-          "media": 91.44,
+          "pontosPro": 442.54,
+          "pontosContra": 407.2,
+          "saldo": 35.34,
+          "media": 88.51,
+          "posicao": 1,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 2,
-          "time": "Cajá FCC",
+          "time": "EMERSON:)",
           "pontos": 7,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 2,
           "empates": 1,
-          "derrotas": 1,
-          "pontosPro": 361.75,
-          "pontosContra": 364.86,
-          "saldo": -3.11,
-          "media": 90.44,
+          "derrotas": 2,
+          "pontosPro": 449.61,
+          "pontosContra": 439.25,
+          "saldo": 10.36,
+          "media": 89.92,
+          "posicao": 2,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 3,
-          "time": "EMERSON:)",
-          "pontos": 4,
-          "jogos": 4,
-          "vitorias": 1,
+          "time": "Cajá FCC",
+          "pontos": 7,
+          "jogos": 5,
+          "vitorias": 2,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 356.95,
-          "pontosContra": 359.36,
-          "saldo": -2.41,
-          "media": 89.24,
+          "pontosPro": 441.64,
+          "pontosContra": 457.52,
+          "saldo": -15.88,
+          "media": 88.33,
+          "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
-          "posicao": 4,
           "time": "Serra Verde Futebol Club",
           "pontos": 3,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 1,
           "empates": 0,
-          "derrotas": 3,
-          "pontosPro": 345.74,
-          "pontosContra": 365.72,
-          "saldo": -19.98,
-          "media": 86.44,
+          "derrotas": 4,
+          "pontosPro": 412.69,
+          "pontosContra": 442.51,
+          "saldo": -29.82,
+          "media": 82.54,
+          "posicao": 4,
           "destinoAtual": "eliminado"
         }
       ],
@@ -364,7 +388,8 @@
                 "time": "Cajá FCC",
                 "pontuacao": 61.45,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -378,9 +403,12 @@
                 "time": "Serra Verde Futebol Club",
                 "pontuacao": 49.33,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 23,
+          "status": "concluida"
         },
         {
           "numero": 2,
@@ -398,7 +426,8 @@
                 "time": "KENNEDY TEAM",
                 "pontuacao": 115.04,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -412,9 +441,12 @@
                 "time": "EMERSON:)",
                 "pontuacao": 113.67,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 24,
+          "status": "concluida"
         },
         {
           "numero": 3,
@@ -432,7 +464,8 @@
                 "time": "KENNEDY TEAM",
                 "pontuacao": 95.1,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -446,9 +479,12 @@
                 "time": "Cajá FCC",
                 "pontuacao": 73.78,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 25,
+          "status": "concluida"
         },
         {
           "numero": 4,
@@ -466,7 +502,8 @@
                 "time": "EMERSON:)",
                 "pontuacao": 72.5,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -480,43 +517,50 @@
                 "time": "Serra Verde Futebol Club",
                 "pontuacao": 83.61,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 26,
+          "status": "concluida"
         },
         {
           "numero": 5,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
                 "cartoleiro": "Kennedy Gilbert",
                 "time": "KENNEDY TEAM",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 76.79,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Janailson Eugênio",
                 "time": "Serra Verde Futebol Club",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 66.95,
+                "resultado": "D"
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Emerson",
                 "time": "EMERSON:)",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 92.66,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Anderson Gomes",
                 "time": "Cajá FCC",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 79.89,
+                "resultado": "D"
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 27,
+          "status": "concluida"
         },
         {
           "numero": 6,
@@ -534,7 +578,8 @@
                 "time": "KENNEDY TEAM",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             },
             {
               "mandante": {
@@ -548,9 +593,12 @@
                 "time": "EMERSON:)",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             }
-          ]
+          ],
+          "rodadaCartola": 28,
+          "status": "aguardando"
         }
       ]
     },
@@ -558,59 +606,59 @@
       "grupo": "C",
       "classificacao": [
         {
-          "posicao": 1,
           "time": "Atletico Juventus T.C",
           "pontos": 9,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 3,
           "empates": 0,
-          "derrotas": 1,
-          "pontosPro": 382.4,
-          "pontosContra": 301.73,
-          "saldo": 80.67,
-          "media": 95.6,
+          "derrotas": 2,
+          "pontosPro": 439.54,
+          "pontosContra": 370.72,
+          "saldo": 68.82,
+          "media": 87.91,
+          "posicao": 1,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 2,
-          "time": "Alex Antenas",
-          "pontos": 5,
-          "jogos": 4,
-          "vitorias": 1,
-          "empates": 2,
-          "derrotas": 1,
-          "pontosPro": 356.85,
-          "pontosContra": 360.88,
-          "saldo": -4.03,
-          "media": 89.21,
-          "destinoAtual": "oitavas"
-        },
-        {
-          "posicao": 3,
           "time": "Óia o rato!",
-          "pontos": 5,
-          "jogos": 4,
-          "vitorias": 1,
+          "pontos": 8,
+          "jogos": 5,
+          "vitorias": 2,
           "empates": 2,
           "derrotas": 1,
-          "pontosPro": 361.02,
-          "pontosContra": 365.6,
-          "saldo": -4.58,
-          "media": 90.25,
+          "pontosPro": 430.01,
+          "pontosContra": 422.74,
+          "saldo": 7.27,
+          "media": 86.0,
+          "posicao": 2,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "time": "Alex Antenas",
+          "pontos": 6,
+          "jogos": 5,
+          "vitorias": 1,
+          "empates": 3,
+          "derrotas": 1,
+          "pontosPro": 425.57,
+          "pontosContra": 426.12,
+          "saldo": -0.55,
+          "media": 85.11,
+          "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
-          "posicao": 4,
           "time": "Atlanta J.L 812",
-          "pontos": 3,
-          "jogos": 4,
+          "pontos": 4,
+          "jogos": 5,
           "vitorias": 1,
-          "empates": 0,
+          "empates": 1,
           "derrotas": 3,
-          "pontosPro": 314.89,
-          "pontosContra": 386.95,
-          "saldo": -72.06,
-          "media": 78.72,
+          "pontosPro": 380.13,
+          "pontosContra": 455.67,
+          "saldo": -75.54,
+          "media": 76.03,
+          "posicao": 4,
           "destinoAtual": "eliminado"
         }
       ],
@@ -631,7 +679,8 @@
                 "time": "Óia o rato!",
                 "pontuacao": 76.15,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -645,9 +694,12 @@
                 "time": "Alex Antenas",
                 "pontuacao": 66.05,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 23,
+          "status": "concluida"
         },
         {
           "numero": 2,
@@ -665,7 +717,8 @@
                 "time": "Atlanta J.L 812",
                 "pontuacao": 112.22,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -677,11 +730,14 @@
               "visitante": {
                 "cartoleiro": "Mario Jorge",
                 "time": "Atletico Juventus T.C",
-                "pontuacao": 119,
+                "pontuacao": 119.0,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 24,
+          "status": "concluida"
         },
         {
           "numero": 3,
@@ -699,7 +755,8 @@
                 "time": "Atlanta J.L 812",
                 "pontuacao": 71.19,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -713,9 +770,12 @@
                 "time": "Óia o rato!",
                 "pontuacao": 102.33,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 25,
+          "status": "concluida"
         },
         {
           "numero": 4,
@@ -733,7 +793,8 @@
                 "time": "Atletico Juventus T.C",
                 "pontuacao": 104.71,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -747,43 +808,50 @@
                 "time": "Alex Antenas",
                 "pontuacao": 86.01,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 26,
+          "status": "concluida"
         },
         {
           "numero": 5,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
                 "cartoleiro": "Jose Carlos",
                 "time": "Atlanta J.L 812",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 65.24,
+                "resultado": "E"
               },
               "visitante": {
                 "cartoleiro": "Alex Aldir",
                 "time": "Alex Antenas",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 68.72,
+                "resultado": "E"
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Mario Jorge",
                 "time": "Atletico Juventus T.C",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 57.14,
+                "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "Severino Anderson",
                 "time": "Óia o rato!",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 68.99,
+                "resultado": "V"
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 27,
+          "status": "concluida"
         },
         {
           "numero": 6,
@@ -801,7 +869,8 @@
                 "time": "Atlanta J.L 812",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             },
             {
               "mandante": {
@@ -815,9 +884,12 @@
                 "time": "Atletico Juventus T.C",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             }
-          ]
+          ],
+          "rodadaCartola": 28,
+          "status": "aguardando"
         }
       ]
     },
@@ -825,59 +897,59 @@
       "grupo": "D",
       "classificacao": [
         {
-          "posicao": 1,
-          "time": "Alison FCC",
+          "time": "Demolidor01",
           "pontos": 9,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 3,
           "empates": 0,
-          "derrotas": 1,
-          "pontosPro": 343.6,
-          "pontosContra": 355.69,
-          "saldo": -12.09,
-          "media": 85.9,
+          "derrotas": 2,
+          "pontosPro": 486.16,
+          "pontosContra": 427.48,
+          "saldo": 58.68,
+          "media": 97.23,
+          "posicao": 1,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 2,
-          "time": "Demolidor01",
-          "pontos": 6,
-          "jogos": 4,
-          "vitorias": 2,
+          "time": "Alison FCC",
+          "pontos": 9,
+          "jogos": 5,
+          "vitorias": 3,
           "empates": 0,
           "derrotas": 2,
-          "pontosPro": 405.97,
-          "pontosContra": 357.74,
-          "saldo": 48.23,
-          "media": 101.49,
+          "pontosPro": 413.34,
+          "pontosContra": 435.88,
+          "saldo": -22.54,
+          "media": 82.67,
+          "posicao": 2,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 3,
           "time": "mito350",
-          "pontos": 4,
-          "jogos": 4,
-          "vitorias": 1,
+          "pontos": 7,
+          "jogos": 5,
+          "vitorias": 2,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 355.67,
-          "pontosContra": 355.45,
-          "saldo": 0.22,
-          "media": 88.92,
+          "pontosPro": 428.17,
+          "pontosContra": 415.74,
+          "saldo": 12.43,
+          "media": 85.63,
+          "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
-          "posicao": 4,
           "time": "Brasmanha SC",
           "pontos": 4,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 1,
           "empates": 1,
-          "derrotas": 2,
-          "pontosPro": 333.99,
-          "pontosContra": 370.35,
-          "saldo": -36.36,
-          "media": 83.5,
+          "derrotas": 3,
+          "pontosPro": 394.28,
+          "pontosContra": 442.85,
+          "saldo": -48.57,
+          "media": 78.86,
+          "posicao": 4,
           "destinoAtual": "eliminado"
         }
       ],
@@ -898,7 +970,8 @@
                 "time": "Brasmanha SC",
                 "pontuacao": 44.97,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -912,9 +985,12 @@
                 "time": "Demolidor01",
                 "pontuacao": 82.85,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 23,
+          "status": "concluida"
         },
         {
           "numero": 2,
@@ -932,7 +1008,8 @@
                 "time": "Alison FCC",
                 "pontuacao": 123.47,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -946,9 +1023,12 @@
                 "time": "mito350",
                 "pontuacao": 109.17,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 24,
+          "status": "concluida"
         },
         {
           "numero": 3,
@@ -966,7 +1046,8 @@
                 "time": "Alison FCC",
                 "pontuacao": 70.43,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -980,9 +1061,12 @@
                 "time": "Brasmanha SC",
                 "pontuacao": 74.1,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 25,
+          "status": "concluida"
         },
         {
           "numero": 4,
@@ -1000,13 +1084,14 @@
                 "time": "mito350",
                 "pontuacao": 76.25,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Kayque",
                 "time": "Brasmanha SC",
-                "pontuacao": 106,
+                "pontuacao": 106.0,
                 "resultado": "V"
               },
               "visitante": {
@@ -1014,43 +1099,50 @@
                 "time": "Demolidor01",
                 "pontuacao": 88.4,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 26,
+          "status": "concluida"
         },
         {
           "numero": 5,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
                 "cartoleiro": "Alison",
                 "time": "Alison FCC",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 69.74,
+                "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "edson manoel",
                 "time": "Demolidor01",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 80.19,
+                "resultado": "V"
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Isac",
                 "time": "mito350",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 72.5,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Kayque",
                 "time": "Brasmanha SC",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 60.29,
+                "resultado": "D"
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 27,
+          "status": "concluida"
         },
         {
           "numero": 6,
@@ -1068,7 +1160,8 @@
                 "time": "Alison FCC",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             },
             {
               "mandante": {
@@ -1082,9 +1175,12 @@
                 "time": "mito350",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             }
-          ]
+          ],
+          "rodadaCartola": 28,
+          "status": "aguardando"
         }
       ]
     },
@@ -1092,59 +1188,59 @@
       "grupo": "E",
       "classificacao": [
         {
-          "posicao": 1,
           "time": "expresso riachense",
           "pontos": 8,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 2,
           "empates": 2,
-          "derrotas": 0,
-          "pontosPro": 392.76,
-          "pontosContra": 374.42,
-          "saldo": 18.34,
-          "media": 98.19,
+          "derrotas": 1,
+          "pontosPro": 454.55,
+          "pontosContra": 457.06,
+          "saldo": -2.51,
+          "media": 90.91,
+          "posicao": 1,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 2,
-          "time": "JP90",
+          "time": "skinkrapels",
           "pontos": 7,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 2,
           "empates": 1,
-          "derrotas": 1,
-          "pontosPro": 361.15,
-          "pontosContra": 352.28,
-          "saldo": 8.87,
-          "media": 90.29,
+          "derrotas": 2,
+          "pontosPro": 462.86,
+          "pontosContra": 457.35,
+          "saldo": 5.51,
+          "media": 92.57,
+          "posicao": 2,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 3,
-          "time": "skinkrapels",
-          "pontos": 4,
-          "jogos": 4,
-          "vitorias": 1,
+          "time": "JP90",
+          "pontos": 7,
+          "jogos": 5,
+          "vitorias": 2,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 379.82,
-          "pontosContra": 386.81,
-          "saldo": -6.99,
-          "media": 94.95,
+          "pontosPro": 431.69,
+          "pontosContra": 435.32,
+          "saldo": -3.63,
+          "media": 86.34,
+          "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
-          "posicao": 4,
           "time": "Catalão City PE",
-          "pontos": 3,
-          "jogos": 4,
-          "vitorias": 1,
+          "pontos": 6,
+          "jogos": 5,
+          "vitorias": 2,
           "empates": 0,
           "derrotas": 3,
-          "pontosPro": 358.68,
-          "pontosContra": 378.9,
-          "saldo": -20.22,
-          "media": 89.67,
+          "pontosPro": 441.32,
+          "pontosContra": 440.69,
+          "saldo": 0.63,
+          "media": 88.26,
+          "posicao": 4,
           "destinoAtual": "eliminado"
         }
       ],
@@ -1165,7 +1261,8 @@
                 "time": "JP90",
                 "pontuacao": 61.85,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1179,9 +1276,12 @@
                 "time": "expresso riachense",
                 "pontuacao": 76.11,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 23,
+          "status": "concluida"
         },
         {
           "numero": 2,
@@ -1199,7 +1299,8 @@
                 "time": "Catalão City PE",
                 "pontuacao": 115.42,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1213,9 +1314,12 @@
                 "time": "skinkrapels",
                 "pontuacao": 107.22,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 24,
+          "status": "concluida"
         },
         {
           "numero": 3,
@@ -1233,7 +1337,8 @@
                 "time": "Catalão City PE",
                 "pontuacao": 107.93,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1247,9 +1352,12 @@
                 "time": "JP90",
                 "pontuacao": 100.33,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 25,
+          "status": "concluida"
         },
         {
           "numero": 4,
@@ -1267,7 +1375,8 @@
                 "time": "skinkrapels",
                 "pontuacao": 97.4,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1281,43 +1390,50 @@
                 "time": "expresso riachense",
                 "pontuacao": 98.8,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 26,
+          "status": "concluida"
         },
         {
           "numero": 5,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
                 "cartoleiro": "Leandro Silva",
                 "time": "Catalão City PE",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 82.64,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Jailson",
                 "time": "expresso riachense",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 61.79,
+                "resultado": "D"
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Adailton",
                 "time": "skinkrapels",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 83.04,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Peixoto",
                 "time": "JP90",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 70.54,
+                "resultado": "D"
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 27,
+          "status": "concluida"
         },
         {
           "numero": 6,
@@ -1335,7 +1451,8 @@
                 "time": "Catalão City PE",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             },
             {
               "mandante": {
@@ -1349,9 +1466,12 @@
                 "time": "skinkrapels",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             }
-          ]
+          ],
+          "rodadaCartola": 28,
+          "status": "aguardando"
         }
       ]
     },
@@ -1359,59 +1479,59 @@
       "grupo": "F",
       "classificacao": [
         {
-          "posicao": 1,
-          "time": "Clemente A.F.C",
+          "time": "TEAM CBUM",
           "pontos": 9,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 3,
           "empates": 0,
-          "derrotas": 1,
-          "pontosPro": 365.47,
-          "pontosContra": 341.1,
-          "saldo": 24.37,
-          "media": 91.37,
-          "destinoAtual": "oitavas"
-        },
-        {
-          "posicao": 2,
-          "time": "TEAM CBUM",
-          "pontos": 6,
-          "jogos": 4,
-          "vitorias": 2,
-          "empates": 0,
           "derrotas": 2,
-          "pontosPro": 381.98,
-          "pontosContra": 374.7,
-          "saldo": 7.28,
-          "media": 95.5,
+          "pontosPro": 456.38,
+          "pontosContra": 430.39,
+          "saldo": 25.99,
+          "media": 91.28,
+          "posicao": 1,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 3,
           "time": "kaio paredão FC 01",
-          "pontos": 6,
-          "jogos": 4,
-          "vitorias": 2,
+          "pontos": 9,
+          "jogos": 5,
+          "vitorias": 3,
           "empates": 0,
           "derrotas": 2,
-          "pontosPro": 381.5,
-          "pontosContra": 374.41,
-          "saldo": 7.09,
-          "media": 95.38,
+          "pontosPro": 459.04,
+          "pontosContra": 441.42,
+          "saldo": 17.62,
+          "media": 91.81,
+          "posicao": 2,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "time": "Clemente A.F.C",
+          "pontos": 9,
+          "jogos": 5,
+          "vitorias": 3,
+          "empates": 0,
+          "derrotas": 2,
+          "pontosPro": 432.48,
+          "pontosContra": 418.64,
+          "saldo": 13.84,
+          "media": 86.5,
+          "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
-          "posicao": 4,
           "time": "WL Corttes FC",
           "pontos": 3,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 1,
           "empates": 0,
-          "derrotas": 3,
-          "pontosPro": 333.08,
-          "pontosContra": 371.82,
-          "saldo": -38.74,
-          "media": 83.27,
+          "derrotas": 4,
+          "pontosPro": 388.77,
+          "pontosContra": 446.22,
+          "saldo": -57.45,
+          "media": 77.75,
+          "posicao": 4,
           "destinoAtual": "eliminado"
         }
       ],
@@ -1432,7 +1552,8 @@
                 "time": "Clemente A.F.C",
                 "pontuacao": 65.97,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1446,9 +1567,12 @@
                 "time": "WL Corttes FC",
                 "pontuacao": 71.17,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 23,
+          "status": "concluida"
         },
         {
           "numero": 2,
@@ -1466,7 +1590,8 @@
                 "time": "TEAM CBUM",
                 "pontuacao": 124.84,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1480,9 +1605,12 @@
                 "time": "kaio paredão FC 01",
                 "pontuacao": 117.62,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 24,
+          "status": "concluida"
         },
         {
           "numero": 3,
@@ -1500,7 +1628,8 @@
                 "time": "TEAM CBUM",
                 "pontuacao": 88.32,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1514,9 +1643,12 @@
                 "time": "Clemente A.F.C",
                 "pontuacao": 99.93,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 25,
+          "status": "concluida"
         },
         {
           "numero": 4,
@@ -1534,7 +1666,8 @@
                 "time": "kaio paredão FC 01",
                 "pontuacao": 89.9,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1548,43 +1681,50 @@
                 "time": "WL Corttes FC",
                 "pontuacao": 79.01,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 26,
+          "status": "concluida"
         },
         {
           "numero": 5,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
                 "cartoleiro": "Ruan Jose",
                 "time": "TEAM CBUM",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 74.4,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Wallyson Lemos",
                 "time": "WL Corttes FC",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 55.69,
+                "resultado": "D"
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Kaio Henrique",
                 "time": "kaio paredão FC 01",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 77.54,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Mauri",
                 "time": "Clemente A.F.C",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 67.01,
+                "resultado": "D"
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 27,
+          "status": "concluida"
         },
         {
           "numero": 6,
@@ -1602,7 +1742,8 @@
                 "time": "TEAM CBUM",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             },
             {
               "mandante": {
@@ -1616,9 +1757,12 @@
                 "time": "kaio paredão FC 01",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             }
-          ]
+          ],
+          "rodadaCartola": 28,
+          "status": "aguardando"
         }
       ]
     },
@@ -1626,59 +1770,59 @@
       "grupo": "G",
       "classificacao": [
         {
-          "posicao": 1,
           "time": "ozzinca f.c.",
-          "pontos": 7,
-          "jogos": 4,
-          "vitorias": 2,
+          "pontos": 10,
+          "jogos": 5,
+          "vitorias": 3,
           "empates": 1,
           "derrotas": 1,
-          "pontosPro": 361.44,
-          "pontosContra": 294.67,
-          "saldo": 66.77,
-          "media": 90.36,
+          "pontosPro": 429.34,
+          "pontosContra": 353.56,
+          "saldo": 75.78,
+          "media": 85.87,
+          "posicao": 1,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 2,
           "time": "Black Up City",
           "pontos": 7,
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 2,
           "empates": 1,
-          "derrotas": 1,
-          "pontosPro": 389.35,
-          "pontosContra": 379.94,
-          "saldo": 9.41,
-          "media": 97.34,
+          "derrotas": 2,
+          "pontosPro": 448.24,
+          "pontosContra": 447.84,
+          "saldo": 0.4,
+          "media": 89.65,
+          "posicao": 2,
           "destinoAtual": "oitavas"
         },
         {
-          "posicao": 3,
           "time": "DINOO F.C 10",
-          "pontos": 5,
-          "jogos": 4,
+          "pontos": 6,
+          "jogos": 5,
           "vitorias": 1,
-          "empates": 2,
+          "empates": 3,
           "derrotas": 1,
-          "pontosPro": 417.56,
-          "pontosContra": 401.93,
-          "saldo": 15.63,
-          "media": 104.39,
+          "pontosPro": 482.27,
+          "pontosContra": 469.52,
+          "saldo": 12.75,
+          "media": 96.45,
+          "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
-          "posicao": 4,
           "time": "Águia Dourada 13",
-          "pontos": 3,
-          "jogos": 4,
+          "pontos": 4,
+          "jogos": 5,
           "vitorias": 1,
-          "empates": 0,
+          "empates": 1,
           "derrotas": 3,
-          "pontosPro": 277.92,
-          "pontosContra": 369.73,
-          "saldo": -91.81,
-          "media": 69.48,
+          "pontosPro": 345.51,
+          "pontosContra": 434.44,
+          "saldo": -88.93,
+          "media": 69.1,
+          "posicao": 4,
           "destinoAtual": "eliminado"
         }
       ],
@@ -1699,7 +1843,8 @@
                 "time": "Black Up City",
                 "pontuacao": 65.07,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1713,9 +1858,12 @@
                 "time": "DINOO F.C 10",
                 "pontuacao": 86.9,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 23,
+          "status": "concluida"
         },
         {
           "numero": 2,
@@ -1733,7 +1881,8 @@
                 "time": "Águia Dourada 13",
                 "pontuacao": 109.8,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1747,9 +1896,12 @@
                 "time": "ozzinca f.c.",
                 "pontuacao": 101.98,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 24,
+          "status": "concluida"
         },
         {
           "numero": 3,
@@ -1767,7 +1919,8 @@
                 "time": "Águia Dourada 13",
                 "pontuacao": 46.09,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1781,9 +1934,12 @@
                 "time": "Black Up City",
                 "pontuacao": 109.65,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 25,
+          "status": "concluida"
         },
         {
           "numero": 4,
@@ -1801,7 +1957,8 @@
                 "time": "ozzinca f.c.",
                 "pontuacao": 87.51,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1815,43 +1972,50 @@
                 "time": "DINOO F.C 10",
                 "pontuacao": 103.4,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 26,
+          "status": "concluida"
         },
         {
           "numero": 5,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
                 "cartoleiro": "Igor",
                 "time": "Águia Dourada 13",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 67.59,
+                "resultado": "E"
               },
               "visitante": {
                 "cartoleiro": "jadiel",
                 "time": "DINOO F.C 10",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 64.71,
+                "resultado": "E"
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Jose manoel",
                 "time": "ozzinca f.c.",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 67.9,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "jR. Miranda",
                 "time": "Black Up City",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 58.89,
+                "resultado": "D"
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 27,
+          "status": "concluida"
         },
         {
           "numero": 6,
@@ -1869,7 +2033,8 @@
                 "time": "Águia Dourada 13",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             },
             {
               "mandante": {
@@ -1883,9 +2048,12 @@
                 "time": "ozzinca f.c.",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             }
-          ]
+          ],
+          "rodadaCartola": 28,
+          "status": "aguardando"
         }
       ]
     },
@@ -1893,59 +2061,59 @@
       "grupo": "H",
       "classificacao": [
         {
-          "posicao": 1,
-          "time": "Arsenal PE 87",
-          "pontos": 8,
-          "jogos": 4,
-          "vitorias": 2,
-          "empates": 2,
-          "derrotas": 0,
-          "pontosPro": 405,
-          "pontosContra": 351.97,
-          "saldo": 53.03,
-          "media": 101.25,
-          "destinoAtual": "oitavas"
-        },
-        {
-          "posicao": 2,
-          "time": "Coquinho bebidas",
-          "pontos": 7,
-          "jogos": 4,
-          "vitorias": 2,
-          "empates": 1,
-          "derrotas": 1,
-          "pontosPro": 338.93,
-          "pontosContra": 308.9,
-          "saldo": 30.03,
-          "media": 84.73,
-          "destinoAtual": "oitavas"
-        },
-        {
-          "posicao": 3,
           "time": "onça pintanda HD 13",
-          "pontos": 6,
-          "jogos": 4,
-          "vitorias": 1,
+          "pontos": 9,
+          "jogos": 5,
+          "vitorias": 2,
           "empates": 3,
           "derrotas": 0,
-          "pontosPro": 401.77,
-          "pontosContra": 387.72,
-          "saldo": 14.05,
-          "media": 100.44,
+          "pontosPro": 488.31,
+          "pontosContra": 459.26,
+          "saldo": 29.05,
+          "media": 97.66,
+          "posicao": 1,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "time": "Arsenal PE 87",
+          "pontos": 8,
+          "jogos": 5,
+          "vitorias": 2,
+          "empates": 2,
+          "derrotas": 1,
+          "pontosPro": 460.39,
+          "pontosContra": 413.71,
+          "saldo": 46.68,
+          "media": 92.08,
+          "posicao": 2,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "time": "Coquinho bebidas",
+          "pontos": 7,
+          "jogos": 5,
+          "vitorias": 2,
+          "empates": 1,
+          "derrotas": 2,
+          "pontosPro": 410.47,
+          "pontosContra": 395.44,
+          "saldo": 15.03,
+          "media": 82.09,
+          "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
-          "posicao": 4,
           "time": "Belo Tricolor",
-          "pontos": 0,
-          "jogos": 4,
-          "vitorias": 0,
+          "pontos": 3,
+          "jogos": 5,
+          "vitorias": 1,
           "empates": 0,
           "derrotas": 4,
-          "pontosPro": 264,
-          "pontosContra": 361.11,
-          "saldo": -97.11,
-          "media": 66.0,
+          "pontosPro": 325.74,
+          "pontosContra": 416.5,
+          "saldo": -90.76,
+          "media": 65.15,
+          "posicao": 4,
           "destinoAtual": "eliminado"
         }
       ],
@@ -1966,7 +2134,8 @@
                 "time": "Arsenal PE 87",
                 "pontuacao": 78.45,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1980,9 +2149,12 @@
                 "time": "onça pintanda HD 13",
                 "pontuacao": 77.4,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 23,
+          "status": "concluida"
         },
         {
           "numero": 2,
@@ -2000,7 +2172,8 @@
                 "time": "Coquinho bebidas",
                 "pontuacao": 116.27,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -2014,9 +2187,12 @@
                 "time": "Belo Tricolor",
                 "pontuacao": 81.1,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 24,
+          "status": "concluida"
         },
         {
           "numero": 3,
@@ -2034,7 +2210,8 @@
                 "time": "Coquinho bebidas",
                 "pontuacao": 76.28,
                 "resultado": "V"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -2048,9 +2225,12 @@
                 "time": "Arsenal PE 87",
                 "pontuacao": 106.73,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 25,
+          "status": "concluida"
         },
         {
           "numero": 4,
@@ -2068,7 +2248,8 @@
                 "time": "Belo Tricolor",
                 "pontuacao": 59.91,
                 "resultado": "D"
-              }
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -2082,43 +2263,50 @@
                 "time": "onça pintanda HD 13",
                 "pontuacao": 94.05,
                 "resultado": "E"
-              }
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 26,
+          "status": "concluida"
         },
         {
           "numero": 5,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
                 "cartoleiro": "Coquinho",
                 "time": "Coquinho bebidas",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 71.54,
+                "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "Heider",
                 "time": "onça pintanda HD 13",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 86.54,
+                "resultado": "V"
+              },
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "Alexandre",
                 "time": "Belo Tricolor",
-                "pontuacao": null,
-                "resultado": null
+                "pontuacao": 61.74,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Taylon",
                 "time": "Arsenal PE 87",
-                "pontuacao": null,
-                "resultado": null
-              }
+                "pontuacao": 55.39,
+                "resultado": "D"
+              },
+              "status": "concluida"
             }
-          ]
+          ],
+          "rodadaCartola": 27,
+          "status": "concluida"
         },
         {
           "numero": 6,
@@ -2136,7 +2324,8 @@
                 "time": "Coquinho bebidas",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             },
             {
               "mandante": {
@@ -2150,9 +2339,12 @@
                 "time": "Belo Tricolor",
                 "pontuacao": null,
                 "resultado": null
-              }
+              },
+              "status": "aguardando"
             }
-          ]
+          ],
+          "rodadaCartola": 28,
+          "status": "aguardando"
         }
       ]
     }
@@ -2176,7 +2368,7 @@
       },
       {
         "grupo": "B",
-        "time": "Cajá FCC",
+        "time": "EMERSON:)",
         "posicao": 2
       },
       {
@@ -2186,17 +2378,17 @@
       },
       {
         "grupo": "C",
-        "time": "Alex Antenas",
+        "time": "Óia o rato!",
         "posicao": 2
       },
       {
         "grupo": "D",
-        "time": "Alison FCC",
+        "time": "Demolidor01",
         "posicao": 1
       },
       {
         "grupo": "D",
-        "time": "Demolidor01",
+        "time": "Alison FCC",
         "posicao": 2
       },
       {
@@ -2206,17 +2398,17 @@
       },
       {
         "grupo": "E",
-        "time": "JP90",
+        "time": "skinkrapels",
         "posicao": 2
       },
       {
         "grupo": "F",
-        "time": "Clemente A.F.C",
+        "time": "TEAM CBUM",
         "posicao": 1
       },
       {
         "grupo": "F",
-        "time": "TEAM CBUM",
+        "time": "kaio paredão FC 01",
         "posicao": 2
       },
       {
@@ -2231,12 +2423,12 @@
       },
       {
         "grupo": "H",
-        "time": "Arsenal PE 87",
+        "time": "onça pintanda HD 13",
         "posicao": 1
       },
       {
         "grupo": "H",
-        "time": "Coquinho bebidas",
+        "time": "Arsenal PE 87",
         "posicao": 2
       }
     ],
@@ -2248,12 +2440,12 @@
       },
       {
         "grupo": "B",
-        "time": "EMERSON:)",
+        "time": "Cajá FCC",
         "posicao": 3
       },
       {
         "grupo": "C",
-        "time": "Óia o rato!",
+        "time": "Alex Antenas",
         "posicao": 3
       },
       {
@@ -2263,12 +2455,12 @@
       },
       {
         "grupo": "E",
-        "time": "skinkrapels",
+        "time": "JP90",
         "posicao": 3
       },
       {
         "grupo": "F",
-        "time": "kaio paredão FC 01",
+        "time": "Clemente A.F.C",
         "posicao": 3
       },
       {
@@ -2278,7 +2470,7 @@
       },
       {
         "grupo": "H",
-        "time": "onça pintanda HD 13",
+        "time": "Coquinho bebidas",
         "posicao": 3
       }
     ]
@@ -2333,5 +2525,18 @@
       "partidas": []
     }
   ],
-  "avisos": []
+  "avisos": [],
+  "cartola": {
+    "rodadaAtual": 28,
+    "mercadoFechado": false,
+    "bolaRolando": false,
+    "rodadasGrupos": {
+      "1": 23,
+      "2": 24,
+      "3": 25,
+      "4": 26,
+      "5": 27,
+      "6": 28
+    }
+  }
 }
