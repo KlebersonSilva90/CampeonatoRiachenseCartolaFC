@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-15T15:36:30.276876+00:00",
+  "atualizadoEm": "2026-09-15T16:18:39.279646+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1520,7 +1520,7 @@
           "status": "agendado"
         },
         {
-          "time1": "Cangaceiros Unnited FC",
+          "time1": "O MENSALISTA FC 1999",
           "time2": "Inter Movistar 14",
           "ida": {
             "rodadaCartola": 28,
