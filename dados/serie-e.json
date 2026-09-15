@@ -1,7 +1,7 @@
 {
   "serie": "E",
   "fonte": "Serie E2.xlsm",
-  "atualizadoEm": "2026-09-08T19:26:10",
+  "atualizadoEm": "2026-09-15T12:13:16",
   "regraResultado": {
     "vitoriaDiferencaMinima": 5,
     "pontosVitoria": 3,
@@ -11,262 +11,262 @@
     {
       "posicao": 1,
       "time": "OH PROMOVIDO FC",
-      "pontos": 19,
-      "jogos": 7,
-      "vitorias": 6,
+      "pontos": 22,
+      "jogos": 8,
+      "vitorias": 7,
       "empates": 1,
       "derrotas": 0,
-      "pontosMarcados": 651.12,
-      "pontosSofridos": 425,
-      "saldo": 226.12,
-      "media": 93.02
+      "pontosMarcados": 742.96,
+      "pontosSofridos": 480,
+      "saldo": 262.96,
+      "media": 92.87
     },
     {
       "posicao": 2,
       "time": "Ak. Lanches",
-      "pontos": 18,
-      "jogos": 7,
+      "pontos": 19,
+      "jogos": 8,
       "vitorias": 6,
-      "empates": 0,
+      "empates": 1,
       "derrotas": 1,
-      "pontosMarcados": 670.4,
-      "pontosSofridos": 401.09,
-      "saldo": 269.31,
-      "media": 95.77
+      "pontosMarcados": 757.04,
+      "pontosSofridos": 485.43,
+      "saldo": 271.61,
+      "media": 94.63
     },
     {
       "posicao": 3,
       "time": "POLLY. FC. 12",
-      "pontos": 16,
-      "jogos": 7,
-      "vitorias": 5,
+      "pontos": 19,
+      "jogos": 8,
+      "vitorias": 6,
       "empates": 1,
       "derrotas": 1,
-      "pontosMarcados": 648.13,
-      "pontosSofridos": 448.11,
-      "saldo": 200.02,
-      "media": 92.59
+      "pontosMarcados": 743.49,
+      "pontosSofridos": 526.65,
+      "saldo": 216.84,
+      "media": 92.94
     },
     {
       "posicao": 4,
-      "time": "SA Werewolves",
+      "time": "Sport Barra 4",
       "pontos": 16,
-      "jogos": 7,
+      "jogos": 8,
       "vitorias": 5,
       "empates": 1,
-      "derrotas": 1,
-      "pontosMarcados": 615.62,
-      "pontosSofridos": 450.6,
-      "saldo": 165.02,
-      "media": 87.95
+      "derrotas": 2,
+      "pontosMarcados": 657.51,
+      "pontosSofridos": 451.36,
+      "saldo": 206.15,
+      "media": 82.19
     },
     {
       "posicao": 5,
-      "time": "Rk_fitness FC",
-      "pontos": 14,
-      "jogos": 7,
-      "vitorias": 4,
-      "empates": 2,
-      "derrotas": 1,
-      "pontosMarcados": 613.8,
-      "pontosSofridos": 462.89,
-      "saldo": 150.91,
-      "media": 87.69
+      "time": "SA Werewolves",
+      "pontos": 16,
+      "jogos": 8,
+      "vitorias": 5,
+      "empates": 1,
+      "derrotas": 2,
+      "pontosMarcados": 694.16,
+      "pontosSofridos": 545.96,
+      "saldo": 148.2,
+      "media": 86.77
     },
     {
       "posicao": 6,
-      "time": "Sport Barra 4",
-      "pontos": 13,
-      "jogos": 7,
-      "vitorias": 4,
+      "time": "disfuca",
+      "pontos": 16,
+      "jogos": 8,
+      "vitorias": 5,
       "empates": 1,
       "derrotas": 2,
-      "pontosMarcados": 576.92,
-      "pontosSofridos": 394.74,
-      "saldo": 182.18,
-      "media": 82.42
+      "pontosMarcados": 647.27,
+      "pontosSofridos": 597.41,
+      "saldo": 49.86,
+      "media": 80.91
     },
     {
       "posicao": 7,
-      "time": "disfuca",
-      "pontos": 13,
-      "jogos": 7,
+      "time": "Rk_fitness FC",
+      "pontos": 15,
+      "jogos": 8,
       "vitorias": 4,
-      "empates": 1,
-      "derrotas": 2,
-      "pontosMarcados": 577.42,
-      "pontosSofridos": 550.72,
-      "saldo": 26.7,
-      "media": 82.49
+      "empates": 3,
+      "derrotas": 1,
+      "pontosMarcados": 698.14,
+      "pontosSofridos": 549.53,
+      "saldo": 148.61,
+      "media": 87.27
     },
     {
       "posicao": 8,
-      "time": "Fiel FC Riacho",
-      "pontos": 12,
-      "jogos": 7,
+      "time": "SeguimeuPAAL",
+      "pontos": 13,
+      "jogos": 8,
       "vitorias": 4,
-      "empates": 0,
+      "empates": 1,
       "derrotas": 3,
-      "pontosMarcados": 423.44,
-      "pontosSofridos": 420.16,
-      "saldo": 3.28,
-      "media": 60.49
+      "pontosMarcados": 675.93,
+      "pontosSofridos": 609.33,
+      "saldo": 66.6,
+      "media": 84.49
     },
     {
       "posicao": 9,
       "time": "juticeiro futebol",
-      "pontos": 12,
-      "jogos": 7,
+      "pontos": 13,
+      "jogos": 8,
       "vitorias": 3,
-      "empates": 3,
+      "empates": 4,
       "derrotas": 1,
-      "pontosMarcados": 595.57,
-      "pontosSofridos": 566.19,
-      "saldo": 29.38,
-      "media": 85.08
+      "pontosMarcados": 663.87,
+      "pontosSofridos": 639.25,
+      "saldo": 24.62,
+      "media": 82.98
     },
     {
       "posicao": 10,
-      "time": "Loucosbet",
-      "pontos": 10,
-      "jogos": 7,
-      "vitorias": 3,
-      "empates": 1,
-      "derrotas": 3,
-      "pontosMarcados": 539.08,
-      "pontosSofridos": 404.38,
-      "saldo": 134.7,
-      "media": 77.01
+      "time": "Fiel FC Riacho",
+      "pontos": 12,
+      "jogos": 8,
+      "vitorias": 4,
+      "empates": 0,
+      "derrotas": 4,
+      "pontosMarcados": 423.44,
+      "pontosSofridos": 485.4,
+      "saldo": -61.96,
+      "media": 52.93
     },
     {
       "posicao": 11,
-      "time": "SeguimeuPAAL",
-      "pontos": 10,
-      "jogos": 7,
-      "vitorias": 3,
-      "empates": 1,
-      "derrotas": 3,
-      "pontosMarcados": 598.94,
-      "pontosSofridos": 547.49,
-      "saldo": 51.45,
-      "media": 85.56
+      "time": "LS Alves F.C",
+      "pontos": 12,
+      "jogos": 8,
+      "vitorias": 4,
+      "empates": 0,
+      "derrotas": 4,
+      "pontosMarcados": 494.96,
+      "pontosSofridos": 603.32,
+      "saldo": -108.36,
+      "media": 61.87
     },
     {
       "posicao": 12,
-      "time": "LS Alves F.C",
-      "pontos": 9,
-      "jogos": 7,
+      "time": "Kaiocezar1992",
+      "pontos": 11,
+      "jogos": 8,
       "vitorias": 3,
-      "empates": 0,
-      "derrotas": 4,
-      "pontosMarcados": 415.06,
-      "pontosSofridos": 603.32,
-      "saldo": -188.26,
-      "media": 59.29
+      "empates": 2,
+      "derrotas": 3,
+      "pontosMarcados": 647.03,
+      "pontosSofridos": 451.33,
+      "saldo": 195.7,
+      "media": 80.88
     },
     {
       "posicao": 13,
-      "time": "Kaiocezar1992",
-      "pontos": 8,
-      "jogos": 7,
-      "vitorias": 2,
-      "empates": 2,
-      "derrotas": 3,
-      "pontosMarcados": 581.79,
-      "pontosSofridos": 451.33,
-      "saldo": 130.46,
-      "media": 83.11
+      "time": "Loucosbet",
+      "pontos": 10,
+      "jogos": 8,
+      "vitorias": 3,
+      "empates": 1,
+      "derrotas": 4,
+      "pontosMarcados": 595.7,
+      "pontosSofridos": 484.97,
+      "saldo": 110.73,
+      "media": 74.46
     },
     {
       "posicao": 14,
       "time": "Golfinho FC 1999",
       "pontos": 8,
-      "jogos": 7,
+      "jogos": 8,
       "vitorias": 2,
       "empates": 2,
-      "derrotas": 3,
-      "pontosMarcados": 482.58,
-      "pontosSofridos": 511.36,
-      "saldo": -28.78,
-      "media": 68.94
+      "derrotas": 4,
+      "pontosMarcados": 544.42,
+      "pontosSofridos": 588.35,
+      "saldo": -43.93,
+      "media": 68.05
     },
     {
       "posicao": 15,
       "time": "Amigos do Marx",
       "pontos": 6,
-      "jogos": 7,
+      "jogos": 8,
       "vitorias": 1,
       "empates": 3,
-      "derrotas": 3,
-      "pontosMarcados": 632.42,
-      "pontosSofridos": 649.58,
-      "saldo": -17.16,
-      "media": 90.35
+      "derrotas": 4,
+      "pontosMarcados": 687.42,
+      "pontosSofridos": 741.42,
+      "saldo": -54,
+      "media": 85.93
     },
     {
       "posicao": 16,
-      "time": "TM89",
+      "time": "DrogonTargaryen",
       "pontos": 5,
-      "jogos": 7,
+      "jogos": 8,
       "vitorias": 1,
       "empates": 2,
-      "derrotas": 4,
-      "pontosMarcados": 274.17,
-      "pontosSofridos": 508.27,
-      "saldo": -234.1,
-      "media": 39.17
+      "derrotas": 5,
+      "pontosMarcados": 458.16,
+      "pontosSofridos": 625.95,
+      "saldo": -167.79,
+      "media": 57.27
     },
     {
       "posicao": 17,
-      "time": "riacho futebol clube riachesse",
-      "pontos": 4,
-      "jogos": 7,
+      "time": "TM89",
+      "pontos": 5,
+      "jogos": 8,
       "vitorias": 1,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 5,
-      "pontosMarcados": 460.46,
-      "pontosSofridos": 632.68,
-      "saldo": -172.22,
-      "media": 65.78
+      "pontosMarcados": 317.11,
+      "pontosSofridos": 567.4,
+      "saldo": -250.29,
+      "media": 39.64
     },
     {
       "posicao": 18,
-      "time": "Calabresa c/ catupiry",
-      "pontos": 3,
-      "jogos": 7,
+      "time": "riacho futebol clube riachesse",
+      "pontos": 4,
+      "jogos": 8,
       "vitorias": 1,
-      "empates": 0,
+      "empates": 1,
       "derrotas": 6,
-      "pontosMarcados": 363.16,
-      "pontosSofridos": 598.85,
-      "saldo": -235.69,
-      "media": 51.88
+      "pontosMarcados": 507.15,
+      "pontosSofridos": 702.53,
+      "saldo": -195.38,
+      "media": 63.39
     },
     {
       "posicao": 19,
-      "time": "DrogonTargaryen",
-      "pontos": 2,
-      "jogos": 7,
-      "vitorias": 0,
-      "empates": 2,
-      "derrotas": 5,
-      "pontosMarcados": 399.03,
-      "pontosSofridos": 583.01,
-      "saldo": -183.98,
-      "media": 57.0
+      "time": "Calabresa c/ catupiry",
+      "pontos": 4,
+      "jogos": 8,
+      "vitorias": 1,
+      "empates": 1,
+      "derrotas": 6,
+      "pontosMarcados": 436.22,
+      "pontosSofridos": 667.15,
+      "saldo": -230.93,
+      "media": 54.53
     },
     {
       "posicao": 20,
       "time": "Vermeiras FC",
       "pontos": 0,
-      "jogos": 7,
+      "jogos": 8,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 7,
+      "derrotas": 8,
       "pontosMarcados": 116.26,
-      "pontosSofridos": 625.6,
-      "saldo": -509.34,
-      "media": 16.61
+      "pontosSofridos": 705.5,
+      "saldo": -589.24,
+      "media": 14.53
     }
   ],
   "rodadas": [
@@ -1432,15 +1432,15 @@
           "mandante": {
             "cartoleiro": "José Luiz",
             "time": "Golfinho FC 1999",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 61.84,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Nathan",
             "time": "SeguimeuPAAL",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 76.99,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1448,15 +1448,15 @@
           "mandante": {
             "cartoleiro": "Kleberson",
             "time": "SA Werewolves",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 78.54,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Wilson Arruda",
             "time": "POLLY. FC. 12",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 95.36,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1464,15 +1464,15 @@
           "mandante": {
             "cartoleiro": "Erick Braz",
             "time": "Calabresa c/ catupiry",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 73.06,
+            "resultado": "E",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Wilson De Lima",
             "time": "juticeiro futebol",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 68.3,
+            "resultado": "E",
             "naoEscalou": false
           }
         },
@@ -1480,31 +1480,31 @@
           "mandante": {
             "cartoleiro": "Lucas Alves",
             "time": "LS Alves F.C",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 79.9,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Wesley",
             "time": "Vermeiras FC",
-            "pontuacao": null,
-            "resultado": null,
-            "naoEscalou": false
+            "pontuacao": 0,
+            "resultado": "D",
+            "naoEscalou": true
           }
         },
         {
           "mandante": {
             "cartoleiro": "Alexsandro",
             "time": "Amigos do Marx",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 55,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "ALEX",
             "time": "OH PROMOVIDO FC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 91.84,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1512,15 +1512,15 @@
           "mandante": {
             "cartoleiro": "Ryan",
             "time": "Loucosbet",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 56.62,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Nal",
             "time": "Sport Barra 4",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 80.59,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1528,15 +1528,15 @@
           "mandante": {
             "cartoleiro": "Renan Mendes",
             "time": "Rk_fitness FC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 84.34,
+            "resultado": "E",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Jose Lucas",
             "time": "Ak. Lanches",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 86.64,
+            "resultado": "E",
             "naoEscalou": false
           }
         },
@@ -1544,15 +1544,15 @@
           "mandante": {
             "cartoleiro": "Advanilson",
             "time": "DrogonTargaryen",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 59.13,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Thiago Melo",
             "time": "TM89",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 42.94,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -1560,15 +1560,15 @@
           "mandante": {
             "cartoleiro": "Deivyson",
             "time": "Fiel FC Riacho",
-            "pontuacao": null,
-            "resultado": null,
-            "naoEscalou": false
+            "pontuacao": 0,
+            "resultado": "D",
+            "naoEscalou": true
           },
           "visitante": {
             "cartoleiro": "Caio Cezar",
             "time": "Kaiocezar1992",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 65.24,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1576,15 +1576,15 @@
           "mandante": {
             "cartoleiro": "Gabigol",
             "time": "disfuca",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 69.85,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Maurício",
             "time": "riacho futebol clube riachesse",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 46.69,
+            "resultado": "D",
             "naoEscalou": false
           }
         }
