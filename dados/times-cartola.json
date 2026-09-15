@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T14:19:15.746010+00:00",
+  "atualizadoEm": "2026-09-15T17:07:01.520610+00:00",
   "times": {
     "A|Atletico Juventus T.C": {
       "timeId": 6781170,
@@ -990,6 +990,11 @@
       "timeId": 51317400,
       "slug": "belo-tricolor",
       "nomeCartola": "Alexandre Mendonça "
+    },
+    "A|N.Y Villa J.L 913": {
+      "timeId": 796704,
+      "slug": "n-y-villa-j-l-913",
+      "nomeCartola": "José Carlos"
     }
   }
 }
