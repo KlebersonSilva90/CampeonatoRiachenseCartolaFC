@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-19T22:59:37.270082+00:00",
+  "atualizadoEm": "2026-09-20T00:59:05.033426+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1409,8 +1409,8 @@
           "time2": "Ak. Lanches",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 9.22,
-            "time2": 16.0,
+            "time1": 23.82,
+            "time2": 26.3,
             "status": "parcial"
           },
           "volta": {
@@ -1432,8 +1432,8 @@
           "time2": "Raio negro hd",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 9.72,
-            "time2": 11.9,
+            "time1": 10.92,
+            "time2": 26.5,
             "status": "parcial"
           },
           "volta": {
@@ -1455,8 +1455,8 @@
           "time2": "Oxente Pizzaria FC",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 15.4,
-            "time2": 13.45,
+            "time1": 65.14,
+            "time2": 15.08,
             "status": "parcial"
           },
           "volta": {
@@ -1479,7 +1479,7 @@
           "ida": {
             "rodadaCartola": 28,
             "time1": 23.2,
-            "time2": 22.38,
+            "time2": 44.78,
             "status": "parcial"
           },
           "volta": {
@@ -1501,7 +1501,7 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 4.8,
+            "time1": 42.4,
             "time2": 28.6,
             "status": "parcial"
           },
@@ -1524,8 +1524,8 @@
           "time2": "Inter Movistar 14",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 16.0,
-            "time2": 36.02,
+            "time1": 26.3,
+            "time2": 54.42,
             "status": "parcial"
           },
           "volta": {
@@ -1548,7 +1548,7 @@
           "ida": {
             "rodadaCartola": 28,
             "time1": 31.82,
-            "time2": 26.6,
+            "time2": 41.2,
             "status": "parcial"
           },
           "volta": {
