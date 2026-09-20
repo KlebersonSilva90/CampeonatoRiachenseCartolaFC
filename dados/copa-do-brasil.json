@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-20T00:59:05.033426+00:00",
+  "atualizadoEm": "2026-09-20T06:00:53.359124+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1409,8 +1409,8 @@
           "time2": "Ak. Lanches",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 23.82,
-            "time2": 26.3,
+            "time1": 23.92,
+            "time2": 28.8,
             "status": "parcial"
           },
           "volta": {
@@ -1432,8 +1432,8 @@
           "time2": "Raio negro hd",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 10.92,
-            "time2": 26.5,
+            "time1": 12.92,
+            "time2": 26.6,
             "status": "parcial"
           },
           "volta": {
@@ -1455,7 +1455,7 @@
           "time2": "Oxente Pizzaria FC",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 65.14,
+            "time1": 81.45,
             "time2": 15.08,
             "status": "parcial"
           },
@@ -1479,7 +1479,7 @@
           "ida": {
             "rodadaCartola": 28,
             "time1": 23.2,
-            "time2": 44.78,
+            "time2": 48.68,
             "status": "parcial"
           },
           "volta": {
@@ -1501,7 +1501,7 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 42.4,
+            "time1": 45.0,
             "time2": 28.6,
             "status": "parcial"
           },
@@ -1524,8 +1524,8 @@
           "time2": "Inter Movistar 14",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 26.3,
-            "time2": 54.42,
+            "time1": 28.8,
+            "time2": 54.52,
             "status": "parcial"
           },
           "volta": {
@@ -1548,7 +1548,7 @@
           "ida": {
             "rodadaCartola": 28,
             "time1": 31.82,
-            "time2": 41.2,
+            "time2": 41.3,
             "status": "parcial"
           },
           "volta": {
@@ -1635,6 +1635,6 @@
   "cartola": {
     "rodadaAtual": 28,
     "mercadoFechado": true,
-    "bolaRolando": true
+    "bolaRolando": false
   }
 }
