@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T17:07:01.520610+00:00",
+  "atualizadoEm": "2026-09-21T20:34:00.976043+00:00",
   "times": {
     "A|Atletico Juventus T.C": {
       "timeId": 6781170,
@@ -994,6 +994,11 @@
     "A|N.Y Villa J.L 913": {
       "timeId": 796704,
       "slug": "n-y-villa-j-l-913",
+      "nomeCartola": "José Carlos"
+    },
+    "A|Bayern 07 J.L 913": {
+      "timeId": 796704,
+      "slug": "bayern-07-j-l-913",
       "nomeCartola": "José Carlos"
     }
   }
