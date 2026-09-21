@@ -1,7 +1,7 @@
 {
   "serie": "C",
   "fonte": "Serie C2.xlsm",
-  "atualizadoEm": "2026-09-15T12:13:46",
+  "atualizadoEm": "2026-09-21T15:53:34",
   "regraResultado": {
     "vitoriaDiferencaMinima": 5,
     "pontosVitoria": 3,
@@ -11,262 +11,262 @@
     {
       "posicao": 1,
       "time": "Raio negro hd",
-      "pontos": 19,
-      "jogos": 8,
-      "vitorias": 6,
+      "pontos": 22,
+      "jogos": 9,
+      "vitorias": 7,
       "empates": 1,
       "derrotas": 1,
-      "pontosMarcados": 793.69,
-      "pontosSofridos": 561.84,
-      "saldo": 231.85,
-      "media": 99.21
+      "pontosMarcados": 889.36,
+      "pontosSofridos": 643.65,
+      "saldo": 245.71,
+      "media": 98.82
     },
     {
       "posicao": 2,
-      "time": "maurícioriachesse",
-      "pontos": 19,
-      "jogos": 8,
+      "time": "Sociedad Football",
+      "pontos": 21,
+      "jogos": 9,
       "vitorias": 6,
-      "empates": 1,
-      "derrotas": 1,
-      "pontosMarcados": 746.02,
-      "pontosSofridos": 547.47,
-      "saldo": 198.55,
-      "media": 93.25
+      "empates": 3,
+      "derrotas": 0,
+      "pontosMarcados": 775.06,
+      "pontosSofridos": 553.06,
+      "saldo": 222,
+      "media": 86.12
     },
     {
       "posicao": 3,
-      "time": "Cangaceiros Unnited FC",
+      "time": "Louco Fc 01",
       "pontos": 19,
-      "jogos": 8,
+      "jogos": 9,
       "vitorias": 6,
       "empates": 1,
-      "derrotas": 1,
-      "pontosMarcados": 762.68,
-      "pontosSofridos": 588.12,
-      "saldo": 174.56,
-      "media": 95.34
+      "derrotas": 2,
+      "pontosMarcados": 812.65,
+      "pontosSofridos": 603.55,
+      "saldo": 209.1,
+      "media": 90.29
     },
     {
       "posicao": 4,
-      "time": "Sociedad Football",
-      "pontos": 18,
-      "jogos": 8,
-      "vitorias": 5,
-      "empates": 3,
-      "derrotas": 0,
-      "pontosMarcados": 685.09,
-      "pontosSofridos": 553.06,
-      "saldo": 132.03,
-      "media": 85.64
+      "time": "maurícioriachesse",
+      "pontos": 19,
+      "jogos": 9,
+      "vitorias": 6,
+      "empates": 1,
+      "derrotas": 2,
+      "pontosMarcados": 809.29,
+      "pontosSofridos": 632.24,
+      "saldo": 177.05,
+      "media": 89.92
     },
     {
       "posicao": 5,
-      "time": "Louco Fc 01",
-      "pontos": 16,
-      "jogos": 8,
-      "vitorias": 5,
+      "time": "Cangaceiros Unnited FC",
+      "pontos": 19,
+      "jogos": 9,
+      "vitorias": 6,
       "empates": 1,
       "derrotas": 2,
-      "pontosMarcados": 711.18,
-      "pontosSofridos": 603.55,
-      "saldo": 107.63,
-      "media": 88.9
+      "pontosMarcados": 841.95,
+      "pontosSofridos": 683.14,
+      "saldo": 158.81,
+      "media": 93.55
     },
     {
       "posicao": 6,
-      "time": "timão.riacho.FC.13",
-      "pontos": 13,
-      "jogos": 8,
+      "time": "Camuri futebol club",
+      "pontos": 16,
+      "jogos": 9,
       "vitorias": 4,
-      "empates": 1,
-      "derrotas": 3,
-      "pontosMarcados": 557.76,
-      "pontosSofridos": 528.1,
-      "saldo": 29.66,
-      "media": 69.72
+      "empates": 4,
+      "derrotas": 1,
+      "pontosMarcados": 770.77,
+      "pontosSofridos": 640.97,
+      "saldo": 129.8,
+      "media": 85.64
     },
     {
       "posicao": 7,
-      "time": "Racionais FC_81",
-      "pontos": 13,
-      "jogos": 8,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 1,
-      "pontosMarcados": 671.3,
-      "pontosSofridos": 542.33,
-      "saldo": 128.97,
-      "media": 83.91
+      "time": "KORINCHASU",
+      "pontos": 14,
+      "jogos": 9,
+      "vitorias": 4,
+      "empates": 2,
+      "derrotas": 3,
+      "pontosMarcados": 814.55,
+      "pontosSofridos": 786.37,
+      "saldo": 28.18,
+      "media": 90.51
     },
     {
       "posicao": 8,
-      "time": "Camuri futebol club",
+      "time": "timão.riacho.FC.13",
       "pontos": 13,
-      "jogos": 8,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 1,
-      "pontosMarcados": 687.02,
-      "pontosSofridos": 568.7,
-      "saldo": 118.32,
-      "media": 85.88
+      "jogos": 9,
+      "vitorias": 4,
+      "empates": 1,
+      "derrotas": 4,
+      "pontosMarcados": 622.33,
+      "pontosSofridos": 624.87,
+      "saldo": -2.54,
+      "media": 69.15
     },
     {
       "posicao": 9,
-      "time": "pikachu 34",
+      "time": "Contenda 1995 Fc",
       "pontos": 13,
-      "jogos": 8,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 1,
-      "pontosMarcados": 642.15,
-      "pontosSofridos": 648.89,
-      "saldo": -6.74,
-      "media": 80.27
+      "jogos": 9,
+      "vitorias": 4,
+      "empates": 1,
+      "derrotas": 4,
+      "pontosMarcados": 520.33,
+      "pontosSofridos": 550.51,
+      "saldo": -30.18,
+      "media": 57.81
     },
     {
       "posicao": 10,
-      "time": "KORINCHASU",
-      "pontos": 11,
-      "jogos": 8,
+      "time": "Racionais FC_81",
+      "pontos": 13,
+      "jogos": 9,
       "vitorias": 3,
-      "empates": 2,
-      "derrotas": 3,
-      "pontosMarcados": 717.78,
-      "pontosSofridos": 721.8,
-      "saldo": -4.02,
-      "media": 89.72
+      "empates": 4,
+      "derrotas": 2,
+      "pontosMarcados": 743.57,
+      "pontosSofridos": 626.08,
+      "saldo": 117.49,
+      "media": 82.62
     },
     {
       "posicao": 11,
-      "time": "Contenda 1995 Fc",
-      "pontos": 10,
-      "jogos": 8,
+      "time": "pikachu 34",
+      "pontos": 13,
+      "jogos": 9,
       "vitorias": 3,
-      "empates": 1,
-      "derrotas": 4,
-      "pontosMarcados": 440.03,
-      "pontosSofridos": 477.64,
-      "saldo": -37.61,
-      "media": 55.0
+      "empates": 4,
+      "derrotas": 2,
+      "pontosMarcados": 642.15,
+      "pontosSofridos": 738.86,
+      "saldo": -96.71,
+      "media": 71.35
     },
     {
       "posicao": 12,
-      "time": "SEPalmeiras Imponente",
-      "pontos": 9,
-      "jogos": 8,
-      "vitorias": 2,
-      "empates": 3,
-      "derrotas": 3,
-      "pontosMarcados": 637.19,
-      "pontosSofridos": 670.26,
-      "saldo": -33.07,
-      "media": 79.65
+      "time": "Álef Pitbull",
+      "pontos": 11,
+      "jogos": 9,
+      "vitorias": 3,
+      "empates": 2,
+      "derrotas": 4,
+      "pontosMarcados": 743.7,
+      "pontosSofridos": 710.91,
+      "saldo": 32.79,
+      "media": 82.63
     },
     {
       "posicao": 13,
-      "time": "Wake Wake Fc98",
-      "pontos": 8,
-      "jogos": 8,
-      "vitorias": 2,
+      "time": "Nelore myo",
+      "pontos": 11,
+      "jogos": 9,
+      "vitorias": 3,
       "empates": 2,
       "derrotas": 4,
-      "pontosMarcados": 654.12,
-      "pontosSofridos": 697.07,
-      "saldo": -42.95,
-      "media": 81.77
+      "pontosMarcados": 727.01,
+      "pontosSofridos": 757.5,
+      "saldo": -30.49,
+      "media": 80.78
     },
     {
       "posicao": 14,
-      "time": "Nelore myo",
-      "pontos": 8,
-      "jogos": 8,
-      "vitorias": 2,
-      "empates": 2,
-      "derrotas": 4,
-      "pontosMarcados": 631.99,
-      "pontosSofridos": 678.23,
-      "saldo": -46.24,
-      "media": 79.0
+      "time": "Inter Movistar 14",
+      "pontos": 10,
+      "jogos": 9,
+      "vitorias": 3,
+      "empates": 1,
+      "derrotas": 5,
+      "pontosMarcados": 623.94,
+      "pontosSofridos": 689.78,
+      "saldo": -65.84,
+      "media": 69.33
     },
     {
       "posicao": 15,
-      "time": "Álef Pitbull",
-      "pontos": 8,
-      "jogos": 8,
+      "time": "SEPalmeiras Imponente",
+      "pontos": 10,
+      "jogos": 9,
       "vitorias": 2,
-      "empates": 2,
-      "derrotas": 4,
-      "pontosMarcados": 662.69,
-      "pontosSofridos": 710.91,
-      "saldo": -48.22,
-      "media": 82.84
+      "empates": 4,
+      "derrotas": 3,
+      "pontosMarcados": 718.55,
+      "pontosSofridos": 751.43,
+      "saldo": -32.88,
+      "media": 79.84
     },
     {
       "posicao": 16,
-      "time": "Inter Movistar 14",
-      "pontos": 7,
-      "jogos": 8,
+      "time": "Wake Wake Fc98",
+      "pontos": 8,
+      "jogos": 9,
       "vitorias": 2,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 5,
-      "pontosMarcados": 539.17,
-      "pontosSofridos": 626.51,
-      "saldo": -87.34,
-      "media": 67.4
+      "pontosMarcados": 735.93,
+      "pontosSofridos": 792.74,
+      "saldo": -56.81,
+      "media": 81.77
     },
     {
       "posicao": 17,
       "time": "FJM Miranda FC",
-      "pontos": 7,
-      "jogos": 8,
+      "pontos": 8,
+      "jogos": 9,
       "vitorias": 2,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 5,
-      "pontosMarcados": 491.13,
-      "pontosSofridos": 596.44,
-      "saldo": -105.31,
-      "media": 61.39
+      "pontosMarcados": 572.3,
+      "pontosSofridos": 677.8,
+      "saldo": -105.5,
+      "media": 63.59
     },
     {
       "posicao": 18,
       "time": "Nautico1998",
       "pontos": 4,
-      "jogos": 8,
+      "jogos": 9,
       "vitorias": 1,
       "empates": 1,
-      "derrotas": 6,
+      "derrotas": 7,
       "pontosMarcados": 437.74,
-      "pontosSofridos": 584.45,
-      "saldo": -146.71,
-      "media": 54.72
+      "pontosSofridos": 665.46,
+      "saldo": -227.72,
+      "media": 48.64
     },
     {
       "posicao": 19,
       "time": "Patativa Celeste FC",
       "pontos": 4,
-      "jogos": 8,
+      "jogos": 9,
       "vitorias": 1,
       "empates": 1,
-      "derrotas": 6,
+      "derrotas": 7,
       "pontosMarcados": 405.51,
-      "pontosSofridos": 730.09,
-      "saldo": -324.58,
-      "media": 50.69
+      "pontosSofridos": 831.56,
+      "saldo": -426.05,
+      "media": 45.06
     },
     {
       "posicao": 20,
       "time": "Bruno_007MTB",
       "pontos": 2,
-      "jogos": 8,
+      "jogos": 9,
       "vitorias": 0,
       "empates": 2,
-      "derrotas": 6,
-      "pontosMarcados": 392.42,
-      "pontosSofridos": 631.2,
-      "saldo": -238.78,
-      "media": 49.05
+      "derrotas": 7,
+      "pontosMarcados": 465.29,
+      "pontosSofridos": 711.5,
+      "saldo": -246.21,
+      "media": 51.7
     }
   ],
   "rodadas": [
@@ -1597,15 +1597,15 @@
           "mandante": {
             "cartoleiro": "Felipe Miranda",
             "time": "FJM Miranda FC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 81.17,
+            "resultado": "E",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "José Pierre",
             "time": "SEPalmeiras Imponente",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 81.36,
+            "resultado": "E",
             "naoEscalou": false
           }
         },
@@ -1613,15 +1613,15 @@
           "mandante": {
             "cartoleiro": "Irakitan Villa",
             "time": "Patativa Celeste FC",
-            "pontuacao": null,
-            "resultado": null,
-            "naoEscalou": false
+            "pontuacao": 0,
+            "resultado": "D",
+            "naoEscalou": true
           },
           "visitante": {
             "cartoleiro": "José lucas",
             "time": "Louco Fc 01",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 101.47,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1629,15 +1629,15 @@
           "mandante": {
             "cartoleiro": "Robson",
             "time": "Camuri futebol club",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 83.75,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Ton Do Corte",
             "time": "Racionais FC_81",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 72.27,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -1645,15 +1645,15 @@
           "mandante": {
             "cartoleiro": "Matheus Oliveira",
             "time": "Inter Movistar 14",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 84.77,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Maurício",
             "time": "maurícioriachesse",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 63.27,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -1661,15 +1661,15 @@
           "mandante": {
             "cartoleiro": "Leandro Luiz",
             "time": "Nelore myo",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 95.02,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Felipe Cardoso",
             "time": "Cangaceiros Unnited FC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 79.27,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -1677,15 +1677,15 @@
           "mandante": {
             "cartoleiro": "Andre Santos",
             "time": "timão.riacho.FC.13",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 64.57,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Alex",
             "time": "KORINCHASU",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 96.77,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1693,15 +1693,15 @@
           "mandante": {
             "cartoleiro": "Matheus Silva",
             "time": "Wake Wake Fc98",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 81.81,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Heider",
             "time": "Raio negro hd",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 95.67,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1709,15 +1709,15 @@
           "mandante": {
             "cartoleiro": "Rauanderson",
             "time": "Contenda 1995 Fc",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 80.3,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Bruno Leonardo",
             "time": "Bruno_007MTB",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 72.87,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -1725,32 +1725,32 @@
           "mandante": {
             "cartoleiro": "Kayque Gomes",
             "time": "Sociedad Football",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 89.97,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Welliton",
             "time": "pikachu 34",
-            "pontuacao": null,
-            "resultado": null,
-            "naoEscalou": false
+            "pontuacao": 0,
+            "resultado": "D",
+            "naoEscalou": true
           }
         },
         {
           "mandante": {
             "cartoleiro": "Álef Silva",
             "time": "Álef Pitbull",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 81.01,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Mikhail Azevedo",
             "time": "Nautico1998",
-            "pontuacao": null,
-            "resultado": null,
-            "naoEscalou": false
+            "pontuacao": 0,
+            "resultado": "D",
+            "naoEscalou": true
           }
         }
       ]
