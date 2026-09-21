@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-09-21T20:34:32.945901+00:00",
+  "atualizadoEm": "2026-09-21T21:02:12.234564+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2484,9 +2484,178 @@
         30
       ],
       "quantidadeEsperada": 8,
-      "status": "aguardando",
+      "status": "definido",
       "conteudoAntigoIgnorado": false,
-      "partidas": []
+      "partidas": [
+        {
+          "time1": "KENNEDY TEAM",
+          "time2": "kaio paredão FC 01",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Demolidor01",
+          "time2": "Alex Antenas",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Racionais FC_81",
+          "time2": "Black Up City",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "onça pintanda HD 13",
+          "time2": "MitaMiita - IC",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Atletico Juventus T.C",
+          "time2": "Alison FCC",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "skinkrapels",
+          "time2": "Arsenal PE 87",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Clemente A.F.C",
+          "time2": "EMERSON:)",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "ozzinca f.c.",
+          "time2": "Catalão City PE",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        }
+      ]
     },
     {
       "id": "quartas",
