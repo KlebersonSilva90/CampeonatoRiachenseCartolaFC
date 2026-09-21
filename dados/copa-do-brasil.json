@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-21T04:45:34.703806+00:00",
+  "atualizadoEm": "2026-09-21T16:30:27.130753+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1411,7 +1411,7 @@
             "rodadaCartola": 28,
             "time1": 91.27,
             "time2": 95.87,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 29,
@@ -1434,7 +1434,7 @@
             "rodadaCartola": 28,
             "time1": 63.27,
             "time2": 95.67,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 29,
@@ -1457,7 +1457,7 @@
             "rodadaCartola": 28,
             "time1": 124.6,
             "time2": 69.73,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 29,
@@ -1479,8 +1479,8 @@
           "ida": {
             "rodadaCartola": 28,
             "time1": 83.47,
-            "time2": 89.83,
-            "status": "parcial"
+            "time2": 89.97,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 29,
@@ -1502,8 +1502,8 @@
           "ida": {
             "rodadaCartola": 28,
             "time1": 93.95,
-            "time2": 98.57,
-            "status": "parcial"
+            "time2": 96.77,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 29,
@@ -1526,7 +1526,7 @@
             "rodadaCartola": 28,
             "time1": 93.17,
             "time2": 84.77,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 29,
@@ -1547,9 +1547,9 @@
           "time2": "OH PROMOVIDO FC",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 66.62,
-            "time2": 104.17,
-            "status": "parcial"
+            "time1": 72.92,
+            "time2": 103.87,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 29,
@@ -1572,7 +1572,7 @@
             "rodadaCartola": 28,
             "time1": 93.27,
             "time2": 59.17,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 29,
@@ -1633,8 +1633,8 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 28,
-    "mercadoFechado": true,
+    "rodadaAtual": 29,
+    "mercadoFechado": false,
     "bolaRolando": false
   }
 }

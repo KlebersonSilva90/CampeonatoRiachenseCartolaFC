@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-09-21T10:16:15.391066+00:00",
+  "atualizadoEm": "2026-09-21T16:30:46.014700+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -31,8 +31,8 @@
           "empates": 1,
           "derrotas": 1,
           "pontosPro": 541.19,
-          "pontosContra": 494.38,
-          "saldo": 46.81,
+          "pontosContra": 495.88,
+          "saldo": 45.31,
           "media": 90.2,
           "posicao": 1,
           "destinoAtual": "oitavas"
@@ -58,10 +58,10 @@
           "vitorias": 3,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 526.26,
+          "pontosPro": 527.76,
           "pontosContra": 504.76,
-          "saldo": 21.5,
-          "media": 87.71,
+          "saldo": 23.0,
+          "media": 87.96,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
@@ -273,7 +273,7 @@
         },
         {
           "numero": 6,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
@@ -288,7 +288,7 @@
                 "pontuacao": 70.82,
                 "resultado": "D"
               },
-              "status": "parcial"
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -300,14 +300,14 @@
               "visitante": {
                 "cartoleiro": "bruno fc",
                 "time": "fazenda camarões fc",
-                "pontuacao": 87.37,
+                "pontuacao": 88.87,
                 "resultado": "V"
               },
-              "status": "parcial"
+              "status": "concluida"
             }
           ],
           "rodadaCartola": 28,
-          "status": "parcial"
+          "status": "concluida"
         }
       ]
     },
@@ -335,10 +335,10 @@
           "vitorias": 3,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 546.48,
+          "pontosPro": 544.68,
           "pontosContra": 527.42,
-          "saldo": 19.06,
-          "media": 91.08,
+          "saldo": 17.26,
+          "media": 90.78,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -364,8 +364,8 @@
           "empates": 0,
           "derrotas": 5,
           "pontosPro": 500.86,
-          "pontosContra": 539.38,
-          "saldo": -38.52,
+          "pontosContra": 537.58,
+          "saldo": -36.72,
           "media": 83.48,
           "posicao": 4,
           "destinoAtual": "eliminado"
@@ -564,7 +564,7 @@
         },
         {
           "numero": 6,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
@@ -579,7 +579,7 @@
                 "pontuacao": 89.7,
                 "resultado": "V"
               },
-              "status": "parcial"
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -591,14 +591,14 @@
               "visitante": {
                 "cartoleiro": "Emerson",
                 "time": "EMERSON:)",
-                "pontuacao": 96.87,
+                "pontuacao": 95.07,
                 "resultado": "V"
               },
-              "status": "parcial"
+              "status": "concluida"
             }
           ],
           "rodadaCartola": 28,
-          "status": "parcial"
+          "status": "concluida"
         }
       ]
     },
@@ -612,10 +612,10 @@
           "vitorias": 3,
           "empates": 0,
           "derrotas": 3,
-          "pontosPro": 526.37,
+          "pontosPro": 526.51,
           "pontosContra": 464.09,
-          "saldo": 62.28,
-          "media": 87.73,
+          "saldo": 62.42,
+          "media": 87.75,
           "posicao": 1,
           "destinoAtual": "oitavas"
         },
@@ -627,8 +627,8 @@
           "empates": 3,
           "derrotas": 1,
           "pontosPro": 518.94,
-          "pontosContra": 512.95,
-          "saldo": 5.99,
+          "pontosContra": 513.09,
+          "saldo": 5.85,
           "media": 86.49,
           "posicao": 2,
           "destinoAtual": "oitavas"
@@ -641,8 +641,8 @@
           "empates": 2,
           "derrotas": 2,
           "pontosPro": 519.08,
-          "pontosContra": 528.21,
-          "saldo": -9.13,
+          "pontosContra": 529.71,
+          "saldo": -10.63,
           "media": 86.51,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
@@ -654,10 +654,10 @@
           "vitorias": 2,
           "empates": 1,
           "derrotas": 3,
-          "pontosPro": 485.6,
+          "pontosPro": 487.1,
           "pontosContra": 544.74,
-          "saldo": -59.14,
-          "media": 80.93,
+          "saldo": -57.64,
+          "media": 81.18,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -855,7 +855,7 @@
         },
         {
           "numero": 6,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
@@ -867,10 +867,10 @@
               "visitante": {
                 "cartoleiro": "Jose Carlos",
                 "time": "Atlanta J.L 812",
-                "pontuacao": 105.47,
+                "pontuacao": 106.97,
                 "resultado": "V"
               },
-              "status": "parcial"
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -882,14 +882,14 @@
               "visitante": {
                 "cartoleiro": "Mario Jorge",
                 "time": "Atletico Juventus T.C",
-                "pontuacao": 86.83,
+                "pontuacao": 86.97,
                 "resultado": "D"
               },
-              "status": "parcial"
+              "status": "concluida"
             }
           ],
           "rodadaCartola": 28,
-          "status": "parcial"
+          "status": "concluida"
         }
       ]
     },
@@ -903,10 +903,10 @@
           "vitorias": 4,
           "empates": 0,
           "derrotas": 2,
-          "pontosPro": 579.03,
+          "pontosPro": 580.53,
           "pontosContra": 499.2,
-          "saldo": 79.83,
-          "media": 96.5,
+          "saldo": 81.33,
+          "media": 96.75,
           "posicao": 1,
           "destinoAtual": "oitavas"
         },
@@ -932,8 +932,8 @@
           "empates": 1,
           "derrotas": 3,
           "pontosPro": 499.89,
-          "pontosContra": 508.61,
-          "saldo": -8.72,
+          "pontosContra": 510.11,
+          "saldo": -10.22,
           "media": 83.31,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
@@ -1146,7 +1146,7 @@
         },
         {
           "numero": 6,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
@@ -1161,13 +1161,13 @@
                 "pontuacao": 80.77,
                 "resultado": "D"
               },
-              "status": "parcial"
+              "status": "concluida"
             },
             {
               "mandante": {
                 "cartoleiro": "edson manoel",
                 "time": "Demolidor01",
-                "pontuacao": 92.87,
+                "pontuacao": 94.37,
                 "resultado": "V"
               },
               "visitante": {
@@ -1176,11 +1176,11 @@
                 "pontuacao": 71.72,
                 "resultado": "D"
               },
-              "status": "parcial"
+              "status": "concluida"
             }
           ],
           "rodadaCartola": 28,
-          "status": "parcial"
+          "status": "concluida"
         }
       ]
     },
@@ -1437,7 +1437,7 @@
         },
         {
           "numero": 6,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
@@ -1452,7 +1452,7 @@
                 "pontuacao": 93.27,
                 "resultado": "V"
               },
-              "status": "parcial"
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1467,11 +1467,11 @@
                 "pontuacao": 92.97,
                 "resultado": "V"
               },
-              "status": "parcial"
+              "status": "concluida"
             }
           ],
           "rodadaCartola": 28,
-          "status": "parcial"
+          "status": "concluida"
         }
       ]
     },
@@ -1499,10 +1499,10 @@
           "vitorias": 3,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 537.56,
+          "pontosPro": 543.86,
           "pontosContra": 523.09,
-          "saldo": 14.47,
-          "media": 89.59,
+          "saldo": 20.77,
+          "media": 90.64,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -1528,8 +1528,8 @@
           "empates": 1,
           "derrotas": 4,
           "pontosPro": 470.44,
-          "pontosContra": 524.74,
-          "saldo": -54.3,
+          "pontosContra": 531.04,
+          "saldo": -60.6,
           "media": 78.41,
           "posicao": 4,
           "destinoAtual": "eliminado"
@@ -1728,7 +1728,7 @@
         },
         {
           "numero": 6,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
@@ -1743,7 +1743,7 @@
                 "pontuacao": 76.57,
                 "resultado": "D"
               },
-              "status": "parcial"
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -1755,14 +1755,14 @@
               "visitante": {
                 "cartoleiro": "Kaio Henrique",
                 "time": "kaio paredão FC 01",
-                "pontuacao": 78.52,
+                "pontuacao": 84.82,
                 "resultado": "E"
               },
-              "status": "parcial"
+              "status": "concluida"
             }
           ],
           "rodadaCartola": 28,
-          "status": "parcial"
+          "status": "concluida"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
         },
         {
           "numero": 6,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
@@ -2034,7 +2034,7 @@
                 "pontuacao": 79.62,
                 "resultado": "D"
               },
-              "status": "parcial"
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -2049,11 +2049,11 @@
                 "pontuacao": 75.57,
                 "resultado": "D"
               },
-              "status": "parcial"
+              "status": "concluida"
             }
           ],
           "rodadaCartola": 28,
-          "status": "parcial"
+          "status": "concluida"
         }
       ]
     },
@@ -2310,7 +2310,7 @@
         },
         {
           "numero": 6,
-          "concluida": false,
+          "concluida": true,
           "partidas": [
             {
               "mandante": {
@@ -2325,7 +2325,7 @@
                 "pontuacao": 91.17,
                 "resultado": "E"
               },
-              "status": "parcial"
+              "status": "concluida"
             },
             {
               "mandante": {
@@ -2340,11 +2340,11 @@
                 "pontuacao": 60.13,
                 "resultado": "D"
               },
-              "status": "parcial"
+              "status": "concluida"
             }
           ],
           "rodadaCartola": 28,
-          "status": "parcial"
+          "status": "concluida"
         }
       ]
     }
@@ -2527,8 +2527,8 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 28,
-    "mercadoFechado": true,
+    "rodadaAtual": 29,
+    "mercadoFechado": false,
     "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
