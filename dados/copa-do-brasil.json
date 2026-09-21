@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-21T00:00:37.808993+00:00",
+  "atualizadoEm": "2026-09-21T04:45:34.703806+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1409,7 +1409,7 @@
           "time2": "Ak. Lanches",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 87.07,
+            "time1": 91.27,
             "time2": 95.87,
             "status": "parcial"
           },
@@ -1635,6 +1635,6 @@
   "cartola": {
     "rodadaAtual": 28,
     "mercadoFechado": true,
-    "bolaRolando": true
+    "bolaRolando": false
   }
 }
