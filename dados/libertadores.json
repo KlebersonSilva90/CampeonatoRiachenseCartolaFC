@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-09-20T21:58:27.417053+00:00",
+  "atualizadoEm": "2026-09-21T00:01:16.379050+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -30,10 +30,10 @@
           "vitorias": 4,
           "empates": 1,
           "derrotas": 1,
-          "pontosPro": 531.97,
-          "pontosContra": 486.93,
-          "saldo": 45.04,
-          "media": 88.66,
+          "pontosPro": 541.19,
+          "pontosContra": 494.38,
+          "saldo": 46.81,
+          "media": 90.2,
           "posicao": 1,
           "destinoAtual": "oitavas"
         },
@@ -44,10 +44,10 @@
           "vitorias": 3,
           "empates": 2,
           "derrotas": 1,
-          "pontosPro": 526.31,
-          "pontosContra": 484.48,
-          "saldo": 41.83,
-          "media": 87.72,
+          "pontosPro": 533.33,
+          "pontosContra": 495.68,
+          "saldo": 37.65,
+          "media": 88.89,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -58,10 +58,10 @@
           "vitorias": 3,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 518.81,
-          "pontosContra": 495.54,
-          "saldo": 23.27,
-          "media": 86.47,
+          "pontosPro": 526.26,
+          "pontosContra": 504.76,
+          "saldo": 21.5,
+          "media": 87.71,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
@@ -72,10 +72,10 @@
           "vitorias": 0,
           "empates": 0,
           "derrotas": 6,
-          "pontosPro": 456.5,
-          "pontosContra": 566.64,
-          "saldo": -110.14,
-          "media": 76.08,
+          "pontosPro": 467.7,
+          "pontosContra": 573.66,
+          "saldo": -105.96,
+          "media": 77.95,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -279,13 +279,13 @@
               "mandante": {
                 "cartoleiro": "Felipe Lopes",
                 "time": "MitaMiita - IC",
-                "pontuacao": 80.65,
+                "pontuacao": 87.67,
                 "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Rafael Justo",
                 "time": "Cabugi SC",
-                "pontuacao": 59.62,
+                "pontuacao": 70.82,
                 "resultado": "D"
               },
               "status": "parcial"
@@ -294,13 +294,13 @@
               "mandante": {
                 "cartoleiro": "Ton Do Corte",
                 "time": "Racionais FC_81",
-                "pontuacao": 63.05,
+                "pontuacao": 72.27,
                 "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "bruno fc",
                 "time": "fazenda camarões fc",
-                "pontuacao": 79.92,
+                "pontuacao": 87.37,
                 "resultado": "V"
               },
               "status": "parcial"
@@ -322,8 +322,8 @@
           "empates": 2,
           "derrotas": 0,
           "pontosPro": 532.24,
-          "pontosContra": 485.35,
-          "saldo": 46.89,
+          "pontosContra": 489.17,
+          "saldo": 43.07,
           "media": 88.71,
           "posicao": 1,
           "destinoAtual": "oitavas"
@@ -335,10 +335,10 @@
           "vitorias": 3,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 536.96,
-          "pontosContra": 519.6,
-          "saldo": 17.36,
-          "media": 89.49,
+          "pontosPro": 546.48,
+          "pontosContra": 527.42,
+          "saldo": 19.06,
+          "media": 91.08,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -349,10 +349,10 @@
           "vitorias": 2,
           "empates": 1,
           "derrotas": 3,
-          "pontosPro": 519.79,
+          "pontosPro": 523.61,
           "pontosContra": 547.22,
-          "saldo": -27.43,
-          "media": 86.63,
+          "saldo": -23.61,
+          "media": 87.27,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
@@ -363,10 +363,10 @@
           "vitorias": 1,
           "empates": 0,
           "derrotas": 5,
-          "pontosPro": 493.04,
-          "pontosContra": 529.86,
-          "saldo": -36.82,
-          "media": 82.17,
+          "pontosPro": 500.86,
+          "pontosContra": 539.38,
+          "saldo": -38.52,
+          "media": 83.48,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -570,7 +570,7 @@
               "mandante": {
                 "cartoleiro": "Anderson Gomes",
                 "time": "Cajá FCC",
-                "pontuacao": 78.15,
+                "pontuacao": 81.97,
                 "resultado": "D"
               },
               "visitante": {
@@ -585,13 +585,13 @@
               "mandante": {
                 "cartoleiro": "Janailson Eugênio",
                 "time": "Serra Verde Futebol Club",
-                "pontuacao": 80.35,
+                "pontuacao": 88.17,
                 "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "Emerson",
                 "time": "EMERSON:)",
-                "pontuacao": 87.35,
+                "pontuacao": 96.87,
                 "resultado": "V"
               },
               "status": "parcial"
@@ -612,10 +612,10 @@
           "vitorias": 3,
           "empates": 0,
           "derrotas": 3,
-          "pontosPro": 513.42,
-          "pontosContra": 456.57,
-          "saldo": 56.85,
-          "media": 85.57,
+          "pontosPro": 526.37,
+          "pontosContra": 464.09,
+          "saldo": 62.28,
+          "media": 87.73,
           "posicao": 1,
           "destinoAtual": "oitavas"
         },
@@ -626,10 +626,10 @@
           "vitorias": 2,
           "empates": 3,
           "derrotas": 1,
-          "pontosPro": 511.42,
-          "pontosContra": 500.0,
-          "saldo": 11.42,
-          "media": 85.24,
+          "pontosPro": 518.94,
+          "pontosContra": 512.95,
+          "saldo": 5.99,
+          "media": 86.49,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -640,10 +640,10 @@
           "vitorias": 2,
           "empates": 2,
           "derrotas": 2,
-          "pontosPro": 507.86,
-          "pontosContra": 517.76,
-          "saldo": -9.9,
-          "media": 84.64,
+          "pontosPro": 519.08,
+          "pontosContra": 528.21,
+          "saldo": -9.13,
+          "media": 86.51,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
@@ -654,10 +654,10 @@
           "vitorias": 2,
           "empates": 1,
           "derrotas": 3,
-          "pontosPro": 475.15,
-          "pontosContra": 533.52,
-          "saldo": -58.37,
-          "media": 79.19,
+          "pontosPro": 485.6,
+          "pontosContra": 544.74,
+          "saldo": -59.14,
+          "media": 80.93,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -861,13 +861,13 @@
               "mandante": {
                 "cartoleiro": "Severino Anderson",
                 "time": "Óia o rato!",
-                "pontuacao": 77.85,
+                "pontuacao": 89.07,
                 "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "Jose Carlos",
                 "time": "Atlanta J.L 812",
-                "pontuacao": 95.02,
+                "pontuacao": 105.47,
                 "resultado": "V"
               },
               "status": "parcial"
@@ -876,13 +876,13 @@
               "mandante": {
                 "cartoleiro": "Alex Aldir",
                 "time": "Alex Antenas",
-                "pontuacao": 85.85,
+                "pontuacao": 93.37,
                 "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Mario Jorge",
                 "time": "Atletico Juventus T.C",
-                "pontuacao": 73.88,
+                "pontuacao": 86.83,
                 "resultado": "D"
               },
               "status": "parcial"
@@ -903,10 +903,10 @@
           "vitorias": 4,
           "empates": 0,
           "derrotas": 2,
-          "pontosPro": 573.28,
-          "pontosContra": 487.93,
-          "saldo": 85.35,
-          "media": 95.55,
+          "pontosPro": 579.03,
+          "pontosContra": 499.2,
+          "saldo": 79.83,
+          "media": 96.5,
           "posicao": 1,
           "destinoAtual": "oitavas"
         },
@@ -917,10 +917,10 @@
           "vitorias": 3,
           "empates": 0,
           "derrotas": 3,
-          "pontosPro": 492.89,
-          "pontosContra": 520.63,
-          "saldo": -27.74,
-          "media": 82.15,
+          "pontosPro": 494.11,
+          "pontosContra": 528.35,
+          "saldo": -34.24,
+          "media": 82.35,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -931,10 +931,10 @@
           "vitorias": 2,
           "empates": 1,
           "derrotas": 3,
-          "pontosPro": 488.62,
-          "pontosContra": 502.86,
-          "saldo": -14.24,
-          "media": 81.44,
+          "pontosPro": 499.89,
+          "pontosContra": 508.61,
+          "saldo": -8.72,
+          "media": 83.31,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
@@ -945,10 +945,10 @@
           "vitorias": 2,
           "empates": 1,
           "derrotas": 3,
-          "pontosPro": 479.03,
-          "pontosContra": 522.4,
-          "saldo": -43.37,
-          "media": 79.84,
+          "pontosPro": 486.75,
+          "pontosContra": 523.62,
+          "saldo": -36.87,
+          "media": 81.12,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -1152,13 +1152,13 @@
               "mandante": {
                 "cartoleiro": "Kayque",
                 "time": "Brasmanha SC",
-                "pontuacao": 84.75,
+                "pontuacao": 92.47,
                 "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Alison",
                 "time": "Alison FCC",
-                "pontuacao": 79.55,
+                "pontuacao": 80.77,
                 "resultado": "D"
               },
               "status": "parcial"
@@ -1167,13 +1167,13 @@
               "mandante": {
                 "cartoleiro": "edson manoel",
                 "time": "Demolidor01",
-                "pontuacao": 87.12,
+                "pontuacao": 92.87,
                 "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Isac",
                 "time": "mito350",
-                "pontuacao": 60.45,
+                "pontuacao": 71.72,
                 "resultado": "D"
               },
               "status": "parcial"
@@ -1194,10 +1194,10 @@
           "vitorias": 3,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 547.61,
-          "pontosContra": 535.07,
-          "saldo": 12.54,
-          "media": 91.27,
+          "pontosPro": 555.83,
+          "pontosContra": 542.82,
+          "saldo": 13.01,
+          "media": 92.64,
           "posicao": 1,
           "destinoAtual": "oitavas"
         },
@@ -1208,10 +1208,10 @@
           "vitorias": 3,
           "empates": 0,
           "derrotas": 3,
-          "pontosPro": 526.77,
-          "pontosContra": 505.44,
-          "saldo": 21.33,
-          "media": 87.8,
+          "pontosPro": 534.59,
+          "pontosContra": 515.16,
+          "saldo": 19.43,
+          "media": 89.1,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -1222,10 +1222,10 @@
           "vitorias": 2,
           "empates": 2,
           "derrotas": 2,
-          "pontosPro": 532.27,
-          "pontosContra": 541.81,
-          "saldo": -9.54,
-          "media": 88.71,
+          "pontosPro": 540.02,
+          "pontosContra": 550.03,
+          "saldo": -10.01,
+          "media": 90.0,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
@@ -1236,10 +1236,10 @@
           "vitorias": 2,
           "empates": 1,
           "derrotas": 3,
-          "pontosPro": 496.44,
-          "pontosContra": 520.77,
-          "saldo": -24.33,
-          "media": 82.74,
+          "pontosPro": 506.16,
+          "pontosContra": 528.59,
+          "saldo": -22.43,
+          "media": 84.36,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -1443,13 +1443,13 @@
               "mandante": {
                 "cartoleiro": "Peixoto",
                 "time": "JP90",
-                "pontuacao": 64.75,
+                "pontuacao": 74.47,
                 "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "Leandro Silva",
                 "time": "Catalão City PE",
-                "pontuacao": 85.45,
+                "pontuacao": 93.27,
                 "resultado": "V"
               },
               "status": "parcial"
@@ -1458,13 +1458,13 @@
               "mandante": {
                 "cartoleiro": "Jailson",
                 "time": "expresso riachense",
-                "pontuacao": 77.72,
+                "pontuacao": 85.47,
                 "resultado": "D"
               },
               "visitante": {
                 "cartoleiro": "Adailton",
                 "time": "skinkrapels",
-                "pontuacao": 84.75,
+                "pontuacao": 92.97,
                 "resultado": "V"
               },
               "status": "parcial"
@@ -1479,30 +1479,30 @@
       "grupo": "F",
       "classificacao": [
         {
-          "time": "kaio paredão FC 01",
-          "pontos": 12,
-          "jogos": 6,
-          "vitorias": 4,
-          "empates": 0,
-          "derrotas": 2,
-          "pontosPro": 543.06,
-          "pontosContra": 511.74,
-          "saldo": 31.32,
-          "media": 90.51,
-          "posicao": 1,
-          "destinoAtual": "oitavas"
-        },
-        {
           "time": "Clemente A.F.C",
           "pontos": 12,
           "jogos": 6,
           "vitorias": 4,
           "empates": 0,
           "derrotas": 2,
-          "pontosPro": 508.63,
-          "pontosContra": 481.39,
-          "saldo": 27.24,
-          "media": 84.77,
+          "pontosPro": 518.45,
+          "pontosContra": 495.21,
+          "saldo": 23.24,
+          "media": 86.41,
+          "posicao": 1,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "time": "kaio paredão FC 01",
+          "pontos": 10,
+          "jogos": 6,
+          "vitorias": 3,
+          "empates": 1,
+          "derrotas": 2,
+          "pontosPro": 537.56,
+          "pontosContra": 523.09,
+          "saldo": 14.47,
+          "media": 89.59,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -1513,24 +1513,24 @@
           "vitorias": 3,
           "empates": 0,
           "derrotas": 3,
-          "pontosPro": 519.13,
-          "pontosContra": 506.54,
-          "saldo": 12.59,
-          "media": 86.52,
+          "pontosPro": 532.95,
+          "pontosContra": 516.36,
+          "saldo": 16.59,
+          "media": 88.83,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
           "time": "WL Corttes FC",
-          "pontos": 3,
+          "pontos": 4,
           "jogos": 6,
           "vitorias": 1,
-          "empates": 0,
-          "derrotas": 5,
-          "pontosPro": 459.09,
-          "pontosContra": 530.24,
-          "saldo": -71.15,
-          "media": 76.52,
+          "empates": 1,
+          "derrotas": 4,
+          "pontosPro": 470.44,
+          "pontosContra": 524.74,
+          "saldo": -54.3,
+          "media": 78.41,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -1734,13 +1734,13 @@
               "mandante": {
                 "cartoleiro": "Mauri",
                 "time": "Clemente A.F.C",
-                "pontuacao": 76.15,
+                "pontuacao": 85.97,
                 "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Ruan Jose",
                 "time": "TEAM CBUM",
-                "pontuacao": 62.75,
+                "pontuacao": 76.57,
                 "resultado": "D"
               },
               "status": "parcial"
@@ -1749,14 +1749,14 @@
               "mandante": {
                 "cartoleiro": "Wallyson Lemos",
                 "time": "WL Corttes FC",
-                "pontuacao": 70.32,
-                "resultado": "D"
+                "pontuacao": 81.67,
+                "resultado": "E"
               },
               "visitante": {
                 "cartoleiro": "Kaio Henrique",
                 "time": "kaio paredão FC 01",
-                "pontuacao": 84.02,
-                "resultado": "V"
+                "pontuacao": 78.52,
+                "resultado": "E"
               },
               "status": "parcial"
             }
@@ -1776,11 +1776,25 @@
           "vitorias": 3,
           "empates": 1,
           "derrotas": 2,
-          "pontosPro": 497.39,
-          "pontosContra": 428.81,
-          "saldo": 68.58,
-          "media": 82.9,
+          "pontosPro": 504.91,
+          "pontosContra": 438.33,
+          "saldo": 66.58,
+          "media": 84.15,
           "posicao": 1,
+          "destinoAtual": "oitavas"
+        },
+        {
+          "time": "Black Up City",
+          "pontos": 10,
+          "jogos": 6,
+          "vitorias": 3,
+          "empates": 1,
+          "derrotas": 2,
+          "pontosPro": 534.71,
+          "pontosContra": 527.46,
+          "saldo": 7.25,
+          "media": 89.12,
+          "posicao": 2,
           "destinoAtual": "oitavas"
         },
         {
@@ -1790,38 +1804,24 @@
           "vitorias": 2,
           "empates": 3,
           "derrotas": 1,
-          "pontosPro": 557.52,
-          "pontosContra": 537.57,
-          "saldo": 19.95,
-          "media": 92.92,
-          "posicao": 2,
-          "destinoAtual": "oitavas"
-        },
-        {
-          "time": "Black Up City",
-          "pontos": 8,
-          "jogos": 6,
-          "vitorias": 2,
-          "empates": 2,
-          "derrotas": 2,
-          "pontosPro": 526.46,
-          "pontosContra": 524.86,
-          "saldo": 1.6,
-          "media": 87.74,
+          "pontosPro": 567.04,
+          "pontosContra": 545.09,
+          "saldo": 21.95,
+          "media": 94.51,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
         {
           "time": "Águia Dourada 13",
-          "pontos": 5,
+          "pontos": 4,
           "jogos": 6,
           "vitorias": 1,
-          "empates": 2,
-          "derrotas": 3,
-          "pontosPro": 422.53,
-          "pontosContra": 512.66,
-          "saldo": -90.13,
-          "media": 70.42,
+          "empates": 1,
+          "derrotas": 4,
+          "pontosPro": 425.13,
+          "pontosContra": 520.91,
+          "saldo": -95.78,
+          "media": 70.86,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -2025,14 +2025,14 @@
               "mandante": {
                 "cartoleiro": "jR. Miranda",
                 "time": "Black Up City",
-                "pontuacao": 78.22,
-                "resultado": "E"
+                "pontuacao": 86.47,
+                "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Igor",
                 "time": "Águia Dourada 13",
-                "pontuacao": 77.02,
-                "resultado": "E"
+                "pontuacao": 79.62,
+                "resultado": "D"
               },
               "status": "parcial"
             },
@@ -2040,13 +2040,13 @@
               "mandante": {
                 "cartoleiro": "jadiel",
                 "time": "DINOO F.C 10",
-                "pontuacao": 75.25,
+                "pontuacao": 84.77,
                 "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Jose manoel",
                 "time": "ozzinca f.c.",
-                "pontuacao": 68.05,
+                "pontuacao": 75.57,
                 "resultado": "D"
               },
               "status": "parcial"
@@ -2067,10 +2067,10 @@
           "vitorias": 3,
           "empates": 3,
           "derrotas": 0,
-          "pontosPro": 574.73,
-          "pontosContra": 507.34,
-          "saldo": 67.39,
-          "media": 95.79,
+          "pontosPro": 580.78,
+          "pontosContra": 519.39,
+          "saldo": 61.39,
+          "media": 96.8,
           "posicao": 1,
           "destinoAtual": "oitavas"
         },
@@ -2081,10 +2081,10 @@
           "vitorias": 2,
           "empates": 3,
           "derrotas": 1,
-          "pontosPro": 542.24,
-          "pontosContra": 491.86,
-          "saldo": 50.38,
-          "media": 90.37,
+          "pontosPro": 551.26,
+          "pontosContra": 504.88,
+          "saldo": 46.38,
+          "media": 91.88,
           "posicao": 2,
           "destinoAtual": "oitavas"
         },
@@ -2095,10 +2095,10 @@
           "vitorias": 2,
           "empates": 2,
           "derrotas": 2,
-          "pontosPro": 488.62,
-          "pontosContra": 477.29,
-          "saldo": 11.33,
-          "media": 81.44,
+          "pontosPro": 501.64,
+          "pontosContra": 486.31,
+          "saldo": 15.33,
+          "media": 83.61,
           "posicao": 3,
           "destinoAtual": "copa-do-brasil"
         },
@@ -2109,10 +2109,10 @@
           "vitorias": 1,
           "empates": 0,
           "derrotas": 5,
-          "pontosPro": 373.82,
-          "pontosContra": 502.92,
-          "saldo": -129.1,
-          "media": 62.3,
+          "pontosPro": 385.87,
+          "pontosContra": 508.97,
+          "saldo": -123.1,
+          "media": 64.31,
           "posicao": 4,
           "destinoAtual": "eliminado"
         }
@@ -2316,13 +2316,13 @@
               "mandante": {
                 "cartoleiro": "Taylon",
                 "time": "Arsenal PE 87",
-                "pontuacao": 81.85,
+                "pontuacao": 90.87,
                 "resultado": "E"
               },
               "visitante": {
                 "cartoleiro": "Coquinho",
                 "time": "Coquinho bebidas",
-                "pontuacao": 78.15,
+                "pontuacao": 91.17,
                 "resultado": "E"
               },
               "status": "parcial"
@@ -2331,13 +2331,13 @@
               "mandante": {
                 "cartoleiro": "Heider",
                 "time": "onça pintanda HD 13",
-                "pontuacao": 86.42,
+                "pontuacao": 92.47,
                 "resultado": "V"
               },
               "visitante": {
                 "cartoleiro": "Alexandre",
                 "time": "Belo Tricolor",
-                "pontuacao": 48.08,
+                "pontuacao": 60.13,
                 "resultado": "D"
               },
               "status": "parcial"
@@ -2403,12 +2403,12 @@
       },
       {
         "grupo": "F",
-        "time": "kaio paredão FC 01",
+        "time": "Clemente A.F.C",
         "posicao": 1
       },
       {
         "grupo": "F",
-        "time": "Clemente A.F.C",
+        "time": "kaio paredão FC 01",
         "posicao": 2
       },
       {
@@ -2418,7 +2418,7 @@
       },
       {
         "grupo": "G",
-        "time": "DINOO F.C 10",
+        "time": "Black Up City",
         "posicao": 2
       },
       {
@@ -2465,7 +2465,7 @@
       },
       {
         "grupo": "G",
-        "time": "Black Up City",
+        "time": "DINOO F.C 10",
         "posicao": 3
       },
       {

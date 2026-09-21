@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-09-20T21:57:50.363633+00:00",
+  "atualizadoEm": "2026-09-21T00:00:37.808993+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1409,8 +1409,8 @@
           "time2": "Ak. Lanches",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 74.32,
-            "time2": 86.86,
+            "time1": 87.07,
+            "time2": 95.87,
             "status": "parcial"
           },
           "volta": {
@@ -1432,8 +1432,8 @@
           "time2": "Raio negro hd",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 49.82,
-            "time2": 88.36,
+            "time1": 63.27,
+            "time2": 95.67,
             "status": "parcial"
           },
           "volta": {
@@ -1455,8 +1455,8 @@
           "time2": "Oxente Pizzaria FC",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 108.25,
-            "time2": 61.88,
+            "time1": 124.6,
+            "time2": 69.73,
             "status": "parcial"
           },
           "volta": {
@@ -1478,8 +1478,8 @@
           "time2": "Sociedad Football",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 79.96,
-            "time2": 82.58,
+            "time1": 83.47,
+            "time2": 89.83,
             "status": "parcial"
           },
           "volta": {
@@ -1502,7 +1502,7 @@
           "ida": {
             "rodadaCartola": 28,
             "time1": 93.95,
-            "time2": 90.56,
+            "time2": 98.57,
             "status": "parcial"
           },
           "volta": {
@@ -1524,8 +1524,8 @@
           "time2": "Inter Movistar 14",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 78.16,
-            "time2": 71.92,
+            "time1": 93.17,
+            "time2": 84.77,
             "status": "parcial"
           },
           "volta": {
@@ -1547,8 +1547,8 @@
           "time2": "OH PROMOVIDO FC",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 72.12,
-            "time2": 94.36,
+            "time1": 66.62,
+            "time2": 104.17,
             "status": "parcial"
           },
           "volta": {
@@ -1570,8 +1570,8 @@
           "time2": "Tabajara 1912 SFC 1912",
           "ida": {
             "rodadaCartola": 28,
-            "time1": 86.17,
-            "time2": 40.76,
+            "time1": 93.27,
+            "time2": 59.17,
             "status": "parcial"
           },
           "volta": {
