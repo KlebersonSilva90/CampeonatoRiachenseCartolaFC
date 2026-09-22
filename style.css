@@ -483,8 +483,7 @@ button:focus-visible {
   margin-bottom: 14px;
 }
 
-.libertadores-alternar-grupos,
-.libertadores-alternar-mata-mata {
+.libertadores-alternar-grupos {
   display: inline-flex;
   align-items: center;
   gap: 10px;
@@ -500,11 +499,8 @@ button:focus-visible {
 }
 
 .libertadores-alternar-grupos:hover,
-.libertadores-alternar-grupos:focus-visible,
-.libertadores-alternar-mata-mata:hover,
-.libertadores-alternar-mata-mata:focus-visible { background: #ffd278; }
-.libertadores-alternar-grupos span,
-.libertadores-alternar-mata-mata span { font-size: 1.25rem; line-height: 1; }
+.libertadores-alternar-grupos:focus-visible { background: #ffd278; }
+.libertadores-alternar-grupos span { font-size: 1.25rem; line-height: 1; }
 .libertadores-grade[hidden] { display: none; }
 .libertadores-fases[hidden] { display: none; }
 
@@ -685,6 +681,7 @@ button:focus-visible {
   gap: 2px;
   text-align: left;
 }
+.libertadores-mata-mata-fases { grid-template-columns: 1fr; }
 .confronto-equipe strong { width: 100%; }
 .confronto-equipe small {
   color: var(--cor-texto-suave, #725b3d);
@@ -768,7 +765,6 @@ button:focus-visible {
   .libertadores-legenda { gap: 8px 12px; }
   .libertadores-grupos-cabecalho { align-items: stretch; flex-direction: column; }
   .libertadores-alternar-grupos,
-  .libertadores-alternar-mata-mata { justify-content: center; width: 100%; }
   .libertadores-grupo-cabecalho { padding: 11px 12px; }
   .libertadores-tabela { min-width: 500px; font-size: 0.68rem; }
   .libertadores-tabela th,
