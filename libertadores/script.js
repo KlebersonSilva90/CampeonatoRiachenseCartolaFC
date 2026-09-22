@@ -4,6 +4,8 @@ const formatadorLibertadores = new Intl.NumberFormat("pt-BR", {
   maximumFractionDigits: 2,
 });
 
+let cartoleirosLibertadores = new Map();
+
 function formatarPontos(valor) {
   return typeof valor === "number" ? formatadorLibertadores.format(valor) : "—";
 }
@@ -202,8 +204,14 @@ function criarConfrontoMataMata(partida) {
   const confronto = criarElemento("article", "libertadores-confronto");
   const linha = (time, ida, volta, agregado, vencedor) => {
     const item = criarElemento("div", vencedor ? "classificado" : "");
+    const equipe = criarElemento("div", "confronto-equipe");
+    const nome = time || "A definir";
+    equipe.append(
+      criarElemento("strong", "", nome),
+      criarElemento("small", "", time ? (cartoleirosLibertadores.get(time) || "Cartoleiro não informado") : ""),
+    );
     item.append(
-      criarElemento("strong", "", time || "A definir"),
+      equipe,
       criarElemento("span", "", formatarPontos(ida)),
       criarElemento("span", "", formatarPontos(volta)),
       criarElemento("b", "", formatarPontos(agregado)),
@@ -211,6 +219,11 @@ function criarConfrontoMataMata(partida) {
     return item;
   };
   confronto.append(
+    (() => {
+      const rotulos = criarElemento("div", "libertadores-confronto-rotulos");
+      rotulos.innerHTML = "<span>TIME</span><span>IDA</span><span>VOLTA</span><span>AGREGADO</span>";
+      return rotulos;
+    })(),
     linha(partida.time1, partida.ida.time1, partida.volta.time1, partida.agregado.time1, partida.vencedor === partida.time1),
     linha(partida.time2, partida.ida.time2, partida.volta.time2, partida.agregado.time2, partida.vencedor === partida.time2),
   );
@@ -231,9 +244,9 @@ function renderizarMataMata(fases) {
     if (!fase.partidas.length) {
       card.append(criarElemento("p", "libertadores-aguardando", "Aguardando definição dos confrontos"));
     } else {
-      const rotulos = criarElemento("div", "libertadores-confronto-rotulos");
-      rotulos.innerHTML = "<span>TIME</span><span>IDA</span><span>VOLTA</span><span>AGREGADO</span>";
-      card.append(rotulos, ...fase.partidas.map(criarConfrontoMataMata));
+      const grade = criarElemento("div", "libertadores-confrontos-grade");
+      grade.append(...fase.partidas.map(criarConfrontoMataMata));
+      card.append(grade);
     }
     container.append(card);
   });
@@ -247,6 +260,18 @@ async function carregarLibertadores() {
     if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
     const dados = await resposta.json();
     estadoLibertadores.dados = dados;
+    cartoleirosLibertadores = new Map();
+    dados.grupos.forEach((grupo) => {
+      grupo.rodadas.forEach((rodada) => {
+        rodada.partidas.forEach((partida) => {
+          [partida.mandante, partida.visitante].forEach((equipe) => {
+            if (equipe?.time && equipe?.cartoleiro) {
+              cartoleirosLibertadores.set(equipe.time, equipe.cartoleiro);
+            }
+          });
+        });
+      });
+    });
     renderizarGrupos(dados.grupos);
     renderizarMataMata(dados.mataMata);
     aplicarEstadoInicial(dados);
