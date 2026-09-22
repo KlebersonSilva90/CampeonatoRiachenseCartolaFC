@@ -677,6 +677,23 @@ button:focus-visible {
 .libertadores-confronto { border-top: 1px solid #e0d2b6; }
 .libertadores-confronto > div { padding: 8px 9px; font-size: 0.68rem; text-align: center; }
 .libertadores-confronto strong { overflow-wrap: anywhere; text-align: left; }
+.confronto-equipe {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  text-align: left;
+}
+.confronto-equipe strong { width: 100%; }
+.confronto-equipe small {
+  color: var(--cor-texto-suave, #725b3d);
+  font-size: 0.72em;
+  font-weight: 500;
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+}
+.libertadores-confronto .classificado .confronto-equipe small { color: #7c171b; }
 .libertadores-confronto .classificado { background: var(--cor-vencedor); color: #7c171b; }
 
 .copa-fases { grid-template-columns: 1fr; }
@@ -709,7 +726,13 @@ button:focus-visible {
 .copa-fase-conteudo[hidden] { display: none; }
 .copa-confrontos-grade {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 1fr;
+  gap: 8px;
+  padding: 8px;
+}
+.libertadores-confrontos-grade {
+  display: grid;
+  grid-template-columns: 1fr;
   gap: 8px;
   padding: 8px;
 }
