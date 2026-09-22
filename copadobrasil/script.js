@@ -3,6 +3,8 @@ const formatadorCopa = new Intl.NumberFormat("pt-BR", {
   maximumFractionDigits: 2,
 });
 
+let cartoleirosCopa = new Map();
+
 function criarElemento(tag, classe, texto) {
   const elemento = document.createElement(tag);
   if (classe) elemento.className = classe;
@@ -32,8 +34,13 @@ function criarLinhaConfronto(partida, lado) {
       linha.classList.add("copa-lider-parcial");
     }
   }
-  linha.append(
+  const equipe = criarElemento("div", "confronto-equipe");
+  equipe.append(
     criarElemento("strong", "", time),
+    criarElemento("small", "", cartoleirosCopa.get(time) || "Cartoleiro não informado"),
+  );
+  linha.append(
+    equipe,
     criarElemento("span", "", formatarPontos(partida.ida?.[lado])),
     criarElemento("span", "", formatarPontos(partida.volta?.[lado])),
     criarElemento("b", "", formatarPontos(agregado)),
@@ -86,6 +93,9 @@ function criarFase(fase, rodadaAtual, indice) {
 function renderizarFases(dados) {
   const container = document.getElementById("fases-copa");
   const rodadaAtual = dados.cartola?.rodadaAtual || 0;
+  cartoleirosCopa = new Map(
+    (dados.times || []).map((equipe) => [equipe.time, equipe.cartoleiro || ""]),
+  );
   container.replaceChildren(...dados.fases.map((fase, indice) => criarFase(fase, rodadaAtual, indice)));
 }
 
