@@ -175,15 +175,6 @@ function configurarAlternanciaGrupos() {
   });
 }
 
-function configurarAlternanciaMataMata() {
-  const botao = document.getElementById("alternar-mata-mata");
-  const fases = document.getElementById("fases-mata-mata");
-  if (!botao || !fases) return;
-  botao.addEventListener("click", () => {
-    definirEstadoSecao(botao, fases, fases.hidden, "MATA-MATA");
-  });
-}
-
 function aplicarEstadoInicial(dados) {
   const mataMataIniciado = dados.mataMata.some((fase) => fase.partidas.length > 0);
   definirEstadoSecao(
@@ -191,12 +182,6 @@ function aplicarEstadoInicial(dados) {
     document.getElementById("grade-grupos"),
     !mataMataIniciado,
     "GRUPOS",
-  );
-  definirEstadoSecao(
-    document.getElementById("alternar-mata-mata"),
-    document.getElementById("fases-mata-mata"),
-    mataMataIniciado,
-    "MATA-MATA",
   );
 }
 
@@ -230,26 +215,48 @@ function criarConfrontoMataMata(partida) {
   return confronto;
 }
 
-function renderizarMataMata(fases) {
+function definirEstadoFaseMataMata(botao, conteudo, abrir) {
+  conteudo.hidden = !abrir;
+  botao.setAttribute("aria-expanded", String(abrir));
+  botao.firstChild.textContent = `${abrir ? "RECOLHER" : "EXPANDIR"} FASE `;
+  botao.querySelector("span").textContent = abrir ? "−" : "+";
+}
+
+function criarFaseMataMata(fase, rodadaAtual, indice) {
+  const card = criarElemento("article", "libertadores-fase copa-fase");
+  const cabecalho = criarElemento("header", "");
+  const informacoes = criarElemento("div", "copa-fase-titulos");
+  informacoes.append(
+    criarElemento("h3", "", fase.nome.toUpperCase()),
+    criarElemento("span", "", fase.rodadasCartola.length ? `Rodadas ${fase.rodadasCartola.join("–")}` : "A definir"),
+  );
+  const faseAtual = fase.rodadasCartola.includes(rodadaAtual);
+  const idConteudo = `conteudo-libertadores-${fase.id || indice}`;
+  const botao = criarElemento("button", "copa-alternar-fase", "");
+  botao.type = "button";
+  botao.setAttribute("aria-controls", idConteudo);
+  botao.append(document.createTextNode("EXPANDIR FASE "), criarElemento("span", "", "+"));
+  cabecalho.append(informacoes, botao);
+  if (faseAtual) card.classList.add("copa-fase-atual");
+
+  const conteudo = criarElemento("div", "copa-fase-conteudo");
+  conteudo.id = idConteudo;
+  if (!fase.partidas.length) {
+    conteudo.append(criarElemento("p", "libertadores-aguardando", "Aguardando definição dos confrontos"));
+  } else {
+    const grade = criarElemento("div", "libertadores-confrontos-grade");
+    grade.append(...fase.partidas.map(criarConfrontoMataMata));
+    conteudo.append(grade);
+  }
+  card.append(cabecalho, conteudo);
+  definirEstadoFaseMataMata(botao, conteudo, faseAtual);
+  botao.addEventListener("click", () => definirEstadoFaseMataMata(botao, conteudo, conteudo.hidden));
+  return card;
+}
+
+function renderizarMataMata(fases, rodadaAtual) {
   const container = document.getElementById("fases-mata-mata");
-  container.replaceChildren();
-  fases.forEach((fase) => {
-    const card = criarElemento("article", "libertadores-fase");
-    const cabecalho = criarElemento("header", "");
-    cabecalho.append(
-      criarElemento("h3", "", fase.nome.toUpperCase()),
-      criarElemento("span", "", fase.rodadasCartola.length ? `Rodadas ${fase.rodadasCartola.join("–")}` : "A definir"),
-    );
-    card.append(cabecalho);
-    if (!fase.partidas.length) {
-      card.append(criarElemento("p", "libertadores-aguardando", "Aguardando definição dos confrontos"));
-    } else {
-      const grade = criarElemento("div", "libertadores-confrontos-grade");
-      grade.append(...fase.partidas.map(criarConfrontoMataMata));
-      card.append(grade);
-    }
-    container.append(card);
-  });
+  container.replaceChildren(...fases.map((fase, indice) => criarFaseMataMata(fase, rodadaAtual, indice)));
 }
 
 async function carregarLibertadores() {
@@ -273,7 +280,7 @@ async function carregarLibertadores() {
       });
     });
     renderizarGrupos(dados.grupos);
-    renderizarMataMata(dados.mataMata);
+    renderizarMataMata(dados.mataMata, dados.cartola?.rodadaAtual || 0);
     aplicarEstadoInicial(dados);
     const atualizado = new Date(dados.atualizadoEm);
     status.textContent = `Dados da planilha · atualizados em ${atualizado.toLocaleString("pt-BR")}`;
@@ -287,6 +294,5 @@ async function carregarLibertadores() {
 
 document.addEventListener("DOMContentLoaded", () => {
   configurarAlternanciaGrupos();
-  configurarAlternanciaMataMata();
   carregarLibertadores();
 });
