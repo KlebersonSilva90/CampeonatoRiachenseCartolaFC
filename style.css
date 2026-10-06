@@ -806,6 +806,44 @@ button:focus-visible {
   text-align: left;
 }
 
+.alerta-mercado {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px 18px;
+  align-items: center;
+  margin: 18px 0;
+  padding: 18px 20px;
+  border: 2px solid #7b4300;
+  border-radius: 15px;
+  background: linear-gradient(135deg, #fff8e8, #ffe09c);
+  box-shadow: 0 5px 14px rgb(91 47 0 / 16%);
+}
+.alerta-mercado .rotulo-destaque { margin: 0 0 4px; }
+.alerta-mercado h2 { margin: 0; font-size: clamp(1.2rem, 2.6vw, 1.65rem); }
+.alerta-mercado button {
+  padding: 11px 16px;
+  border: 2px solid #2b1b0b;
+  border-radius: 9px;
+  background: #fff;
+  color: #2b1b0b;
+  font: inherit;
+  font-weight: 900;
+  cursor: pointer;
+}
+.alerta-mercado button:hover,
+.alerta-mercado button:focus-visible { background: #ffbd2e; }
+.alerta-mercado button:disabled { cursor: wait; opacity: 0.65; }
+.mensagem-mercado {
+  grid-column: 1 / -1;
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 9px;
+  background: rgb(255 255 255 / 72%);
+  font-weight: 700;
+  line-height: 1.45;
+}
+.mensagem-mercado.erro { color: #8f1717; }
+
 .controle-rodada-home {
   display: grid;
   gap: 5px;
@@ -1440,6 +1478,15 @@ button:focus-visible {
   .controle-rodada-home {
     min-width: 0;
   }
+
+  .alerta-mercado {
+    grid-template-columns: 1fr;
+    padding: 15px;
+  }
+
+  .alerta-mercado button { width: 100%; }
+
+  .mensagem-mercado { grid-column: 1; }
 
   .grade-series {
     grid-template-columns: repeat(2, minmax(0, 1fr));

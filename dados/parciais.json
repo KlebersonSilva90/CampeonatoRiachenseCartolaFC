@@ -1,7 +1,17 @@
 {
-  "atualizadoEm": "2026-09-21T20:34:00.983449+00:00",
+  "atualizadoEm": "2026-10-06T14:53:23.378165+00:00",
   "rodadaCampeonato": 10,
   "rodadaCartola": 29,
+  "nomeRodada": "Rodada 29",
+  "statusMercado": 1,
+  "fechamento": {
+    "dia": 7,
+    "mes": 10,
+    "ano": 2026,
+    "hora": 19,
+    "minuto": 29,
+    "timestamp": 1791412140
+  },
   "mercadoFechado": false,
   "bolaRolando": false,
   "disponivel": false,

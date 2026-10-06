@@ -1,3 +1,4 @@
+const ARQUIVO_STATUS_MERCADO = "dados/parciais.json";
 const API_STATUS_MERCADO = "https://api.cartola.globo.com/mercado/status";
 
 function pluralMercado(valor, singular, plural) {
@@ -47,9 +48,11 @@ function formatarFechamentoMercado(data) {
 }
 
 function criarMensagemMercado(dados) {
-  const rodada = dados.nome_rodada || `Rodada ${dados.rodada_atual || "atual"}`;
+  const rodadaAtual = dados.rodada_atual ?? dados.rodadaCartola;
+  const statusMercado = dados.status_mercado ?? dados.statusMercado;
+  const rodada = dados.nome_rodada || dados.nomeRodada || `Rodada ${rodadaAtual || "atual"}`;
   const fechamento = dataFechamentoMercado(dados.fechamento);
-  if (dados.status_mercado !== 1) {
+  if (statusMercado !== 1) {
     return `🔒 O mercado da ${rodada.toLowerCase()} está fechado.`;
   }
   if (!fechamento || Number.isNaN(fechamento.getTime())) {
@@ -69,9 +72,15 @@ async function consultarMercado() {
   mensagem.classList.remove("erro");
   mensagem.textContent = "Consultando o Cartola…";
   try {
-    const resposta = await fetch(API_STATUS_MERCADO, { cache: "no-store" });
+    let resposta = await fetch(`${ARQUIVO_STATUS_MERCADO}?t=${Date.now()}`, { cache: "no-store" });
     if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
-    mensagem.textContent = criarMensagemMercado(await resposta.json());
+    let dados = await resposta.json();
+    if (!dados.fechamento) {
+      resposta = await fetch(API_STATUS_MERCADO, { cache: "no-store" });
+      if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
+      dados = await resposta.json();
+    }
+    mensagem.textContent = criarMensagemMercado(dados);
   } catch (erro) {
     mensagem.classList.add("erro");
     mensagem.textContent = "Não foi possível consultar o Cartola agora. Tente novamente em alguns instantes.";
