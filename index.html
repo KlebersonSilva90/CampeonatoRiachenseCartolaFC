@@ -50,6 +50,17 @@
           </label>
         </header>
 
+        <section class="alerta-mercado" aria-labelledby="titulo-alerta-mercado">
+          <div>
+            <p class="rotulo-destaque">LEMBRETE DO CARTOLA</p>
+            <h2 id="titulo-alerta-mercado">Quando o mercado fecha?</h2>
+          </div>
+          <button id="consultar-mercado" type="button">GERAR MENSAGEM</button>
+          <p id="mensagem-mercado" class="mensagem-mercado" role="status" aria-live="polite">
+            Clique no botão para consultar o fechamento do mercado.
+          </p>
+        </section>
+
         <section class="destaque-geral" aria-labelledby="titulo-melhor-geral">
           <p class="rotulo-destaque">MELHOR PONTUAÇÃO GERAL</p>
           <h2 id="titulo-melhor-geral">—</h2>
@@ -100,5 +111,6 @@
 
     <script src="js/navegacao.js"></script>
     <script src="js/destaques.js"></script>
+    <script src="js/alerta-mercado.js"></script>
   </body>
 </html>
