@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-08T06:44:00.608152+00:00",
+  "atualizadoEm": "2026-10-08T14:07:18.786093+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2512,7 +2512,7 @@
           "time1": "Demolidor01",
           "time2": "Alex Antenas",
           "ida": {
-            "time1": 52.7,
+            "time1": 53.5,
             "time2": 30.47,
             "status": "parcial"
           },
@@ -2522,7 +2522,7 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 52.7,
+            "time1": 53.5,
             "time2": 30.47
           },
           "vencedor": null,
