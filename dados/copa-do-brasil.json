@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-09T06:19:18.005467+00:00",
+  "atualizadoEm": "2026-10-09T16:21:45.881542+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1598,7 +1598,192 @@
         31
       ],
       "quantidadeEsperada": 8,
-      "partidas": []
+      "partidas": [
+        {
+          "time1": "SC Tello",
+          "time2": "TEAM CBUM",
+          "ida": {
+            "rodadaCartola": 30,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 31,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "KORINCHASU",
+          "time2": "fazenda camaroes fc",
+          "ida": {
+            "rodadaCartola": 30,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 31,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Coquinho bebidas 1 Ligas",
+          "time2": "Coquinho bebidas",
+          "ida": {
+            "rodadaCartola": 30,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 31,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Raio negro hd",
+          "time2": "DINOO F.C 10",
+          "ida": {
+            "rodadaCartola": 30,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 31,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "O MENSALISTA FC 1999",
+          "time2": "Cajá FCC",
+          "ida": {
+            "rodadaCartola": 30,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 31,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Vaqueiro Sport club",
+          "time2": "mito350",
+          "ida": {
+            "rodadaCartola": 30,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 31,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "POLLY. FC. 12",
+          "time2": "expresso riachense",
+          "ida": {
+            "rodadaCartola": 30,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 31,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "OH PROMOVIDO FC",
+          "time2": "Óia o rato!",
+          "ida": {
+            "rodadaCartola": 30,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 31,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        }
+      ]
     },
     {
       "id": "quartas",
