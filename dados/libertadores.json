@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-08T19:56:13.219862+00:00",
+  "atualizadoEm": "2026-10-09T00:12:52.826688+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2491,8 +2491,8 @@
           "time1": "KENNEDY TEAM",
           "time2": "kaio paredão FC 01",
           "ida": {
-            "time1": 49.37,
-            "time2": 59.1,
+            "time1": 67.57,
+            "time2": 67.1,
             "status": "parcial"
           },
           "volta": {
@@ -2501,8 +2501,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 49.37,
-            "time2": 59.1
+            "time1": 67.57,
+            "time2": 67.1
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2512,8 +2512,8 @@
           "time1": "Demolidor01",
           "time2": "Alex Antenas",
           "ida": {
-            "time1": 53.5,
-            "time2": 30.47,
+            "time1": 61.5,
+            "time2": 39.97,
             "status": "parcial"
           },
           "volta": {
@@ -2522,8 +2522,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 53.5,
-            "time2": 30.47
+            "time1": 61.5,
+            "time2": 39.97
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2533,7 +2533,7 @@
           "time1": "Racionais FC_81",
           "time2": "Black Up City",
           "ida": {
-            "time1": 25.3,
+            "time1": 40.2,
             "time2": 47.2,
             "status": "parcial"
           },
@@ -2543,7 +2543,7 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 25.3,
+            "time1": 40.2,
             "time2": 47.2
           },
           "vencedor": null,
@@ -2554,8 +2554,8 @@
           "time1": "onça pintanda HD 13",
           "time2": "MitaMiita - IC",
           "ida": {
-            "time1": 70.7,
-            "time2": 57.87,
+            "time1": 78.7,
+            "time2": 63.77,
             "status": "parcial"
           },
           "volta": {
@@ -2564,8 +2564,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 70.7,
-            "time2": 57.87
+            "time1": 78.7,
+            "time2": 63.77
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2575,8 +2575,8 @@
           "time1": "Atletico Juventus T.C",
           "time2": "Alison FCC",
           "ida": {
-            "time1": 25.5,
-            "time2": 19.6,
+            "time1": 27.9,
+            "time2": 38.0,
             "status": "parcial"
           },
           "volta": {
@@ -2585,8 +2585,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 25.5,
-            "time2": 19.6
+            "time1": 27.9,
+            "time2": 38.0
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2597,7 +2597,7 @@
           "time2": "Arsenal PE 87",
           "ida": {
             "time1": 8.1,
-            "time2": 34.1,
+            "time2": 42.1,
             "status": "parcial"
           },
           "volta": {
@@ -2607,7 +2607,7 @@
           },
           "agregado": {
             "time1": 8.1,
-            "time2": 34.1
+            "time2": 42.1
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2617,7 +2617,7 @@
           "time1": "Clemente A.F.C",
           "time2": "EMERSON:)",
           "ida": {
-            "time1": 37.1,
+            "time1": 45.1,
             "time2": 80.4,
             "status": "parcial"
           },
@@ -2627,7 +2627,7 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 37.1,
+            "time1": 45.1,
             "time2": 80.4
           },
           "vencedor": null,
@@ -2638,8 +2638,8 @@
           "time1": "ozzinca f.c.",
           "time2": "Catalão City PE",
           "ida": {
-            "time1": 10.8,
-            "time2": 30.5,
+            "time1": 24.2,
+            "time2": 38.5,
             "status": "parcial"
           },
           "volta": {
@@ -2648,8 +2648,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 10.8,
-            "time2": 30.5
+            "time1": 24.2,
+            "time2": 38.5
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2698,7 +2698,7 @@
   "cartola": {
     "rodadaAtual": 29,
     "mercadoFechado": true,
-    "bolaRolando": false,
+    "bolaRolando": true,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
