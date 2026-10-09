@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-09T00:12:18.501450+00:00",
+  "atualizadoEm": "2026-10-09T06:19:18.005467+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1415,17 +1415,17 @@
           },
           "volta": {
             "rodadaCartola": 29,
-            "time1": 62.0,
-            "time2": 48.38,
-            "status": "parcial"
+            "time1": 118.64,
+            "time2": 93.37,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 153.27,
-            "time2": 144.25
+            "time1": 209.91,
+            "time2": 189.24
           },
-          "vencedor": null,
+          "vencedor": "SC Tello",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "maurícioriachesse",
@@ -1438,17 +1438,17 @@
           },
           "volta": {
             "rodadaCartola": 29,
-            "time1": 70.5,
-            "time2": 70.47,
-            "status": "parcial"
+            "time1": 134.54,
+            "time2": 121.32,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 133.77,
-            "time2": 166.14
+            "time1": 197.81,
+            "time2": 216.99
           },
-          "vencedor": null,
+          "vencedor": "Raio negro hd",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "Coquinho bebidas 1 Ligas",
@@ -1461,17 +1461,17 @@
           },
           "volta": {
             "rodadaCartola": 29,
-            "time1": 94.78,
-            "time2": 22.3,
-            "status": "parcial"
+            "time1": 116.38,
+            "time2": 71.19,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 219.38,
-            "time2": 92.03
+            "time1": 240.98,
+            "time2": 140.92
           },
-          "vencedor": null,
+          "vencedor": "Coquinho bebidas 1 Ligas",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "Vaqueiro Sport club",
@@ -1484,17 +1484,17 @@
           },
           "volta": {
             "rodadaCartola": 29,
-            "time1": 53.8,
-            "time2": 47.22,
-            "status": "parcial"
+            "time1": 122.34,
+            "time2": 96.47,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 137.27,
-            "time2": 137.19
+            "time1": 205.81,
+            "time2": 186.44
           },
-          "vencedor": null,
+          "vencedor": "Vaqueiro Sport club",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "família fc palmeiras",
@@ -1507,17 +1507,17 @@
           },
           "volta": {
             "rodadaCartola": 29,
-            "time1": 32.0,
-            "time2": 47.7,
-            "status": "parcial"
+            "time1": 96.74,
+            "time2": 95.64,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 125.95,
-            "time2": 144.47
+            "time1": 190.69,
+            "time2": 192.41
           },
-          "vencedor": null,
+          "vencedor": "KORINCHASU",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "O MENSALISTA FC 1999",
@@ -1530,17 +1530,17 @@
           },
           "volta": {
             "rodadaCartola": 29,
-            "time1": 41.2,
-            "time2": 14.8,
-            "status": "parcial"
+            "time1": 102.84,
+            "time2": 90.54,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 134.37,
-            "time2": 99.57
+            "time1": 196.01,
+            "time2": 175.31
           },
-          "vencedor": null,
+          "vencedor": "O MENSALISTA FC 1999",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "kaio paredão FC 06 Regularidade",
@@ -1553,17 +1553,17 @@
           },
           "volta": {
             "rodadaCartola": 29,
-            "time1": 64.5,
-            "time2": 66.1,
-            "status": "parcial"
+            "time1": 122.66,
+            "time2": 117.16,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 137.42,
-            "time2": 169.97
+            "time1": 195.58,
+            "time2": 221.03
           },
-          "vencedor": null,
+          "vencedor": "OH PROMOVIDO FC",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "POLLY. FC. 12",
@@ -1576,17 +1576,17 @@
           },
           "volta": {
             "rodadaCartola": 29,
-            "time1": 19.0,
-            "time2": 16.2,
-            "status": "parcial"
+            "time1": 109.24,
+            "time2": 81.19,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 112.27,
-            "time2": 75.37
+            "time1": 202.51,
+            "time2": 140.36
           },
-          "vencedor": null,
+          "vencedor": "POLLY. FC. 12",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         }
       ]
     },
@@ -1633,8 +1633,8 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 29,
-    "mercadoFechado": true,
-    "bolaRolando": true
+    "rodadaAtual": 30,
+    "mercadoFechado": false,
+    "bolaRolando": false
   }
 }
