@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-09T16:21:45.881542+00:00",
+  "atualizadoEm": "2026-10-10T22:23:19.403352+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1604,9 +1604,9 @@
           "time2": "TEAM CBUM",
           "ida": {
             "rodadaCartola": 30,
-            "time1": null,
+            "time1": 14.98,
             "time2": null,
-            "status": "aguardando"
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1620,16 +1620,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "KORINCHASU",
           "time2": "fazenda camaroes fc",
           "ida": {
             "rodadaCartola": 30,
-            "time1": null,
+            "time1": 12.38,
             "time2": null,
-            "status": "aguardando"
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1643,16 +1643,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Coquinho bebidas 1 Ligas",
           "time2": "Coquinho bebidas",
           "ida": {
             "rodadaCartola": 30,
-            "time1": null,
+            "time1": 5.8,
             "time2": null,
-            "status": "aguardando"
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1666,16 +1666,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Raio negro hd",
           "time2": "DINOO F.C 10",
           "ida": {
             "rodadaCartola": 30,
-            "time1": null,
+            "time1": 11.08,
             "time2": null,
-            "status": "aguardando"
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1689,16 +1689,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "O MENSALISTA FC 1999",
           "time2": "Cajá FCC",
           "ida": {
             "rodadaCartola": 30,
-            "time1": null,
+            "time1": 17.1,
             "time2": null,
-            "status": "aguardando"
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1712,16 +1712,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Vaqueiro Sport club",
           "time2": "mito350",
           "ida": {
             "rodadaCartola": 30,
-            "time1": null,
+            "time1": 11.08,
             "time2": null,
-            "status": "aguardando"
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1735,16 +1735,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "POLLY. FC. 12",
           "time2": "expresso riachense",
           "ida": {
             "rodadaCartola": 30,
-            "time1": null,
+            "time1": 5.8,
             "time2": null,
-            "status": "aguardando"
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1758,16 +1758,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "OH PROMOVIDO FC",
           "time2": "Óia o rato!",
           "ida": {
             "rodadaCartola": 30,
-            "time1": null,
+            "time1": 22.38,
             "time2": null,
-            "status": "aguardando"
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1781,7 +1781,7 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         }
       ]
     },
@@ -1819,7 +1819,7 @@
   "avisos": [],
   "cartola": {
     "rodadaAtual": 30,
-    "mercadoFechado": false,
-    "bolaRolando": false
+    "mercadoFechado": true,
+    "bolaRolando": true
   }
 }
