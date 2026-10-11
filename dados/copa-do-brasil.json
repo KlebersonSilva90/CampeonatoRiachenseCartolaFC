@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-10T22:23:19.403352+00:00",
+  "atualizadoEm": "2026-10-11T01:10:46.608554+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1604,7 +1604,7 @@
           "time2": "TEAM CBUM",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 14.98,
+            "time1": 23.43,
             "time2": null,
             "status": "parcial"
           },
@@ -1627,7 +1627,7 @@
           "time2": "fazenda camaroes fc",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 12.38,
+            "time1": 15.28,
             "time2": null,
             "status": "parcial"
           },
@@ -1650,7 +1650,7 @@
           "time2": "Coquinho bebidas",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 5.8,
+            "time1": 15.67,
             "time2": null,
             "status": "parcial"
           },
@@ -1673,7 +1673,7 @@
           "time2": "DINOO F.C 10",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 11.08,
+            "time1": 22.88,
             "time2": null,
             "status": "parcial"
           },
@@ -1696,7 +1696,7 @@
           "time2": "Cajá FCC",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 17.1,
+            "time1": 32.0,
             "time2": null,
             "status": "parcial"
           },
@@ -1719,7 +1719,7 @@
           "time2": "mito350",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 11.08,
+            "time1": 13.98,
             "time2": null,
             "status": "parcial"
           },
@@ -1742,7 +1742,7 @@
           "time2": "expresso riachense",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 5.8,
+            "time1": 6.6,
             "time2": null,
             "status": "parcial"
           },
@@ -1765,7 +1765,7 @@
           "time2": "Óia o rato!",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 22.38,
+            "time1": 30.48,
             "time2": null,
             "status": "parcial"
           },

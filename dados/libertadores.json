@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-10T22:23:42.925875+00:00",
+  "atualizadoEm": "2026-10-11T01:11:07.403093+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2496,13 +2496,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 29.9,
-            "time2": 21.55,
+            "time1": 32.53,
+            "time2": 28.48,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 134.52,
-            "time2": 144.21
+            "time1": 137.15,
+            "time2": 151.14
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2517,13 +2517,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 27.65,
-            "time2": 7.75,
+            "time1": 32.38,
+            "time2": 21.88,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 138.51,
-            "time2": 104.97
+            "time1": 143.24,
+            "time2": 119.1
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2538,13 +2538,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 17.1,
-            "time2": 16.0,
+            "time1": 32.0,
+            "time2": 20.5,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 130.54,
-            "time2": 130.96
+            "time1": 145.44,
+            "time2": 135.46
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2559,13 +2559,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 10.95,
-            "time2": 0.0,
+            "time1": 22.88,
+            "time2": 10.4,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 132.91,
-            "time2": 141.12
+            "time1": 144.84,
+            "time2": 151.52
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2580,13 +2580,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 8.4,
-            "time2": 17.25,
+            "time1": 14.4,
+            "time2": 22.88,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 96.76,
-            "time2": 103.09
+            "time1": 102.76,
+            "time2": 108.72
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2601,13 +2601,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 8.4,
-            "time2": 29.6,
+            "time1": 12.9,
+            "time2": 34.33,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 101.94,
-            "time2": 123.16
+            "time1": 106.44,
+            "time2": 127.89
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2622,13 +2622,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 13.55,
-            "time2": 0.0,
+            "time1": 20.28,
+            "time2": 1.5,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 131.99,
-            "time2": 142.84
+            "time1": 138.72,
+            "time2": 144.34
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2643,13 +2643,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 10.95,
-            "time2": 5.8,
+            "time1": 22.88,
+            "time2": 6.6,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 116.51,
-            "time2": 112.64
+            "time1": 128.44,
+            "time2": 113.44
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
