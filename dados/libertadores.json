@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-11T01:11:07.403093+00:00",
+  "atualizadoEm": "2026-10-11T07:13:22.279506+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2518,12 +2518,12 @@
           },
           "volta": {
             "time1": 32.38,
-            "time2": 21.88,
+            "time2": 24.88,
             "status": "parcial"
           },
           "agregado": {
             "time1": 143.24,
-            "time2": 119.1
+            "time2": 122.1
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2560,12 +2560,12 @@
           },
           "volta": {
             "time1": 22.88,
-            "time2": 10.4,
+            "time2": 10.1,
             "status": "parcial"
           },
           "agregado": {
             "time1": 144.84,
-            "time2": 151.52
+            "time2": 151.22
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2580,13 +2580,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 14.4,
-            "time2": 22.88,
+            "time1": 14.1,
+            "time2": 25.88,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 102.76,
-            "time2": 108.72
+            "time1": 102.46,
+            "time2": 111.72
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2623,12 +2623,12 @@
           },
           "volta": {
             "time1": 20.28,
-            "time2": 1.5,
+            "time2": 1.2,
             "status": "parcial"
           },
           "agregado": {
             "time1": 138.72,
-            "time2": 144.34
+            "time2": 144.04
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2698,7 +2698,7 @@
   "cartola": {
     "rodadaAtual": 30,
     "mercadoFechado": true,
-    "bolaRolando": true,
+    "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
