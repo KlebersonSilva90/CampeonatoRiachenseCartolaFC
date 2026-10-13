@@ -36,10 +36,31 @@ def indice_mapeamentos(mapa: dict) -> dict[str, list[dict]]:
     return indice
 
 
+def participantes_competicao(data: dict) -> list[dict]:
+    """Reúne inscritos e times adicionados diretamente nas fases posteriores."""
+    participantes: dict[str, dict] = {}
+    for participante in data.get("times", []):
+        nome = participante.get("time")
+        if nome:
+            participantes[normalizar(nome)] = {
+                "time": nome,
+                "cartoleiro": participante.get("cartoleiro", ""),
+            }
+    for fase in data.get("fases", []):
+        for partida in fase.get("partidas", []):
+            for lado in ("time1", "time2"):
+                nome = partida.get(lado)
+                if nome:
+                    participantes.setdefault(
+                        normalizar(nome), {"time": nome, "cartoleiro": ""}
+                    )
+    return list(participantes.values())
+
+
 def garantir_mapeamentos(data: dict, mapa: dict) -> tuple[dict, list[str]]:
     indice = indice_mapeamentos(mapa)
     nao_localizados = []
-    for participante in data["times"]:
+    for participante in participantes_competicao(data):
         nome = participante["time"]
         chave = f"CB|{nome}"
         if mapa["times"].get(chave, {}).get("timeId"):
@@ -162,6 +183,10 @@ def main() -> int:
             print(f"  ERRO: {erro}")
         return 1
 
+    # As fases posteriores também podem receber times vindos da Libertadores.
+    # Eles precisam integrar o cadastro exibido pelo site e o mapa do Cartola.
+    data["times"] = participantes_competicao(data)
+
     anterior = json.loads(OUTPUT.read_text(encoding="utf-8")) if OUTPUT.exists() else {}
     mercado = consultar("/mercado/status") or {}
     rodada_atual = int(mercado.get("rodada_atual") or 0)
@@ -169,6 +194,11 @@ def main() -> int:
     mapa = carregar_mapa()
     antes = json.dumps(mapa.get("times", {}), ensure_ascii=False, sort_keys=True)
     mapa, nao_localizados = garantir_mapeamentos(data, mapa)
+    for participante in data["times"]:
+        if participante.get("cartoleiro"):
+            continue
+        cadastro = mapa["times"].get(f"CB|{participante['time']}", {})
+        participante["cartoleiro"] = cadastro.get("nomeCartola") or ""
     if json.dumps(mapa["times"], ensure_ascii=False, sort_keys=True) != antes:
         mapa["atualizadoEm"] = datetime.now(timezone.utc).isoformat()
         salvar(ARQUIVO_MAPA, mapa)

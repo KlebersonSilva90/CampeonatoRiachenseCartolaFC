@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-13T15:42:51.597984+00:00",
+  "atualizadoEm": "2026-10-13T17:07:29.960981+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -12,260 +12,292 @@
   },
   "times": [
     {
-      "cartoleiro": "Advanilson",
-      "time": "DrogonTargaryen"
+      "time": "DrogonTargaryen",
+      "cartoleiro": "Advanilson"
     },
     {
-      "cartoleiro": "José Lucas",
-      "time": "Ak. Lanches"
+      "time": "Ak. Lanches",
+      "cartoleiro": "José Lucas"
     },
     {
-      "cartoleiro": "alecksandro",
-      "time": "alecksandrofc"
+      "time": "alecksandrofc",
+      "cartoleiro": "alecksandro"
     },
     {
-      "cartoleiro": "Álef Silva",
-      "time": "Álef Pitbull"
+      "time": "Álef Pitbull",
+      "cartoleiro": "Álef Silva"
     },
     {
-      "cartoleiro": "Alex Aldir",
-      "time": "Alex Antenas FC"
+      "time": "Alex Antenas FC",
+      "cartoleiro": "Alex Aldir"
     },
     {
-      "cartoleiro": "Alexsandro",
-      "time": "Amigos do Marx"
+      "time": "Amigos do Marx",
+      "cartoleiro": "Alexsandro"
     },
     {
-      "cartoleiro": "Natan Silva",
-      "time": "Bayern11"
+      "time": "Bayern11",
+      "cartoleiro": "Natan Silva"
     },
     {
-      "cartoleiro": "Bruno Leonardo",
-      "time": "Bruno_007MTB"
+      "time": "Bruno_007MTB",
+      "cartoleiro": "Bruno Leonardo"
     },
     {
-      "cartoleiro": "Robson",
-      "time": "Camuri futebol club"
+      "time": "Camuri futebol club",
+      "cartoleiro": "Robson"
     },
     {
-      "cartoleiro": "Felipe Cardoso",
-      "time": "Cangaceiros Unnited FC"
+      "time": "Cangaceiros Unnited FC",
+      "cartoleiro": "Felipe Cardoso"
     },
     {
-      "cartoleiro": "Gerson Firmino",
-      "time": "Chambá EC"
+      "time": "Chambá EC",
+      "cartoleiro": "Gerson Firmino"
     },
     {
-      "cartoleiro": "Rauanderson",
-      "time": "Contenda 1995 Fc"
+      "time": "Contenda 1995 Fc",
+      "cartoleiro": "Rauanderson"
     },
     {
-      "cartoleiro": "Coquinho",
-      "time": "Coquinho bebidas 1 Ligas"
+      "time": "Coquinho bebidas 1 Ligas",
+      "cartoleiro": "Coquinho"
     },
     {
-      "cartoleiro": "Lindomar Miranda",
-      "time": "Corinthians up city"
+      "time": "Corinthians up city",
+      "cartoleiro": "Lindomar Miranda"
     },
     {
-      "cartoleiro": "Jandson Ricardo",
-      "time": "Dióclecinho FC"
+      "time": "Dióclecinho FC",
+      "cartoleiro": "Jandson Ricardo"
     },
     {
-      "cartoleiro": "Gabigol",
-      "time": "disfuca"
+      "time": "disfuca",
+      "cartoleiro": "Gabigol"
     },
     {
-      "cartoleiro": "William Ferreira",
-      "time": "Elite Coral Futebol Clube"
+      "time": "Elite Coral Futebol Clube",
+      "cartoleiro": "William Ferreira"
     },
     {
-      "cartoleiro": "Diego",
-      "time": "família fc palmeiras"
+      "time": "família fc palmeiras",
+      "cartoleiro": "Diego"
     },
     {
-      "cartoleiro": "Thiago",
-      "time": "Fc-Villa-do-Rato-Fc"
+      "time": "Fc-Villa-do-Rato-Fc",
+      "cartoleiro": "Thiago"
     },
     {
-      "cartoleiro": "Fernando Antonio",
-      "time": "Fernando.f7"
+      "time": "Fernando.f7",
+      "cartoleiro": "Fernando Antonio"
     },
     {
-      "cartoleiro": "Deivyson",
-      "time": "Fiel FC Riacho"
+      "time": "Fiel FC Riacho",
+      "cartoleiro": "Deivyson"
     },
     {
-      "cartoleiro": "Felipe Miranda",
-      "time": "FJM Miranda FC"
+      "time": "FJM Miranda FC",
+      "cartoleiro": "Felipe Miranda"
     },
     {
-      "cartoleiro": "Tiago",
-      "time": "Go_Flash"
+      "time": "Go_Flash",
+      "cartoleiro": "Tiago"
     },
     {
-      "cartoleiro": "Mateus Lima",
-      "time": "inferCoral fc"
+      "time": "inferCoral fc",
+      "cartoleiro": "Mateus Lima"
     },
     {
-      "cartoleiro": "Matheus Oliveira",
-      "time": "Inter Movistar 14"
+      "time": "Inter Movistar 14",
+      "cartoleiro": "Matheus Oliveira"
     },
     {
-      "cartoleiro": "Robson Moura",
-      "time": "JIQUIRIFC"
+      "time": "JIQUIRIFC",
+      "cartoleiro": "Robson Moura"
     },
     {
-      "cartoleiro": "Wilson De Lima",
-      "time": "juticeiro futebol"
+      "time": "juticeiro futebol",
+      "cartoleiro": "Wilson De Lima"
     },
     {
-      "cartoleiro": "Kaio Henrique",
-      "time": "kaio paredão FC 06 Regularidade"
+      "time": "kaio paredão FC 06 Regularidade",
+      "cartoleiro": "Kaio Henrique"
     },
     {
-      "cartoleiro": "Caio Cezar",
-      "time": "Kaiocezar1992"
+      "time": "Kaiocezar1992",
+      "cartoleiro": "Caio Cezar"
     },
     {
-      "cartoleiro": "Alex",
-      "time": "KORINCHASU"
+      "time": "KORINCHASU",
+      "cartoleiro": "Alex"
     },
     {
-      "cartoleiro": "José lucas",
-      "time": "Louco Fc 01"
+      "time": "Louco Fc 01",
+      "cartoleiro": "José lucas"
     },
     {
-      "cartoleiro": "Ryan",
-      "time": "Loucosbet"
+      "time": "Loucosbet",
+      "cartoleiro": "Ryan"
     },
     {
-      "cartoleiro": "Lucas Alves",
-      "time": "LS Alves F.C"
+      "time": "LS Alves F.C",
+      "cartoleiro": "Lucas Alves"
     },
     {
-      "cartoleiro": "Cleysson Marques",
-      "time": "maior do nordeste S C R"
+      "time": "maior do nordeste S C R",
+      "cartoleiro": "Cleysson Marques"
     },
     {
-      "cartoleiro": "Maurício",
-      "time": "maurícioriachesse"
+      "time": "maurícioriachesse",
+      "cartoleiro": "Maurício"
     },
     {
-      "cartoleiro": "Matheus Silva",
-      "time": "McDonald's DCR"
+      "time": "McDonald's DCR",
+      "cartoleiro": "Matheus Silva"
     },
     {
-      "cartoleiro": "Mikhail Azevedo",
-      "time": "Nautico1998"
+      "time": "Nautico1998",
+      "cartoleiro": "Mikhail Azevedo"
     },
     {
-      "cartoleiro": "Leandro Luiz",
-      "time": "Nelore myo"
+      "time": "Nelore myo",
+      "cartoleiro": "Leandro Luiz"
     },
     {
-      "cartoleiro": "José Luiz",
-      "time": "O MENSALISTA FC 1999"
+      "time": "O MENSALISTA FC 1999",
+      "cartoleiro": "José Luiz"
     },
     {
-      "cartoleiro": "ALEX",
-      "time": "OH PROMOVIDO FC"
+      "time": "OH PROMOVIDO FC",
+      "cartoleiro": "ALEX"
     },
     {
-      "cartoleiro": "Severino Anderson",
-      "time": "Óia o gato"
+      "time": "Óia o gato",
+      "cartoleiro": "Severino Anderson"
     },
     {
-      "cartoleiro": "Erick Braz",
-      "time": "Oxente Pizzaria FC"
+      "time": "Oxente Pizzaria FC",
+      "cartoleiro": "Erick Braz"
     },
     {
-      "cartoleiro": "Ribeiro JR",
-      "time": "Paris Saint GermainCF"
+      "time": "Paris Saint GermainCF",
+      "cartoleiro": "Ribeiro JR"
     },
     {
-      "cartoleiro": "Irakitan Villa",
-      "time": "Patativa Celeste FC"
+      "time": "Patativa Celeste FC",
+      "cartoleiro": "Irakitan Villa"
     },
     {
-      "cartoleiro": "joubert da silva fig",
-      "time": "pau e chok"
+      "time": "pau e chok",
+      "cartoleiro": "joubert da silva fig"
     },
     {
-      "cartoleiro": "Welliton",
-      "time": "pikachu 34"
+      "time": "pikachu 34",
+      "cartoleiro": "Welliton"
     },
     {
-      "cartoleiro": "Wilson Arruda",
-      "time": "POLLY. FC. 12"
+      "time": "POLLY. FC. 12",
+      "cartoleiro": "Wilson Arruda"
     },
     {
-      "cartoleiro": "Heider",
-      "time": "Raio negro hd"
+      "time": "Raio negro hd",
+      "cartoleiro": "Heider"
     },
     {
-      "cartoleiro": "Renato",
-      "time": "REVISILVA"
+      "time": "REVISILVA",
+      "cartoleiro": "Renato"
     },
     {
-      "cartoleiro": "José Samuel",
-      "time": "Riacho FTV"
+      "time": "Riacho FTV",
+      "cartoleiro": "José Samuel"
     },
     {
-      "cartoleiro": "Renan Mendes",
-      "time": "Rk_fitness FC"
+      "time": "Rk_fitness FC",
+      "cartoleiro": "Renan Mendes"
     },
     {
-      "cartoleiro": "Kleberson",
-      "time": "SC Tello"
+      "time": "SC Tello",
+      "cartoleiro": "Kleberson"
     },
     {
-      "cartoleiro": "Gabriel Silvestre",
-      "time": "SE Palmeiras Riachense"
+      "time": "SE Palmeiras Riachense",
+      "cartoleiro": "Gabriel Silvestre"
     },
     {
-      "cartoleiro": "Nathan",
-      "time": "SeguimeuPAAL"
+      "time": "SeguimeuPAAL",
+      "cartoleiro": "Nathan"
     },
     {
-      "cartoleiro": "José Pierre",
-      "time": "SEPalmeiras Imponente"
+      "time": "SEPalmeiras Imponente",
+      "cartoleiro": "José Pierre"
     },
     {
-      "cartoleiro": "Kayque Gomes",
-      "time": "Sociedad Football"
+      "time": "Sociedad Football",
+      "cartoleiro": "Kayque Gomes"
     },
     {
-      "cartoleiro": "Nal",
-      "time": "Sport Barra 4"
+      "time": "Sport Barra 4",
+      "cartoleiro": "Nal"
     },
     {
-      "cartoleiro": "du sfc 1912",
-      "time": "Tabajara 1912 SFC 1912"
+      "time": "Tabajara 1912 SFC 1912",
+      "cartoleiro": "du sfc 1912"
     },
     {
-      "cartoleiro": "PAULO DA SILVA",
-      "time": "THUNDER BRANCO"
+      "time": "THUNDER BRANCO",
+      "cartoleiro": "PAULO DA SILVA"
     },
     {
-      "cartoleiro": "Andre Santos",
-      "time": "timão.riacho.FC.13"
+      "time": "timão.riacho.FC.13",
+      "cartoleiro": "Andre Santos"
     },
     {
-      "cartoleiro": "Thiago Melo",
-      "time": "TM89"
+      "time": "TM89",
+      "cartoleiro": "Thiago Melo"
     },
     {
-      "cartoleiro": "Lucas Vinicius",
-      "time": "TricolorSp3 F.C"
+      "time": "TricolorSp3 F.C",
+      "cartoleiro": "Lucas Vinicius"
     },
     {
-      "cartoleiro": "PH",
-      "time": "Vaqueiro Sport club"
+      "time": "Vaqueiro Sport club",
+      "cartoleiro": "PH"
     },
     {
-      "cartoleiro": "Wesley",
-      "time": "Vermeiras FC"
+      "time": "Vermeiras FC",
+      "cartoleiro": "Wesley"
+    },
+    {
+      "time": "TEAM CBUM",
+      "cartoleiro": "Ruan José "
+    },
+    {
+      "time": "fazenda camaroes fc",
+      "cartoleiro": "bruno fc"
+    },
+    {
+      "time": "Coquinho bebidas",
+      "cartoleiro": "Coquinho"
+    },
+    {
+      "time": "DINOO F.C 10",
+      "cartoleiro": "jadiel "
+    },
+    {
+      "time": "Cajá FCC",
+      "cartoleiro": "Anderson Gomes"
+    },
+    {
+      "time": "mito350",
+      "cartoleiro": "Isac"
+    },
+    {
+      "time": "expresso riachense",
+      "cartoleiro": "jailson"
+    },
+    {
+      "time": "Óia o rato!",
+      "cartoleiro": "severino anderson"
     }
   ],
   "fases": [
@@ -1605,8 +1637,8 @@
           "ida": {
             "rodadaCartola": 30,
             "time1": 88.13,
-            "time2": null,
-            "status": "parcial"
+            "time2": 100.6,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1628,8 +1660,8 @@
           "ida": {
             "rodadaCartola": 30,
             "time1": 105.83,
-            "time2": null,
-            "status": "parcial"
+            "time2": 97.08,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1651,8 +1683,8 @@
           "ida": {
             "rodadaCartola": 30,
             "time1": 73.08,
-            "time2": null,
-            "status": "parcial"
+            "time2": 123.99,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1674,8 +1706,8 @@
           "ida": {
             "rodadaCartola": 30,
             "time1": 109.73,
-            "time2": null,
-            "status": "parcial"
+            "time2": 95.23,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1697,8 +1729,8 @@
           "ida": {
             "rodadaCartola": 30,
             "time1": 114.6,
-            "time2": null,
-            "status": "parcial"
+            "time2": 107.08,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1720,8 +1752,8 @@
           "ida": {
             "rodadaCartola": 30,
             "time1": 122.03,
-            "time2": null,
-            "status": "parcial"
+            "time2": 92.84,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1743,8 +1775,8 @@
           "ida": {
             "rodadaCartola": 30,
             "time1": 107.8,
-            "time2": null,
-            "status": "parcial"
+            "time2": 102.08,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 31,
@@ -1766,8 +1798,8 @@
           "ida": {
             "rodadaCartola": 30,
             "time1": 106.73,
-            "time2": null,
-            "status": "parcial"
+            "time2": 126.13,
+            "status": "concluida"
           },
           "volta": {
             "rodadaCartola": 31,

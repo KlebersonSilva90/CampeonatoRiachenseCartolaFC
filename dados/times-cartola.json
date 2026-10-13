@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-21T20:34:00.976043+00:00",
+  "atualizadoEm": "2026-10-13T17:02:30.838197+00:00",
   "times": {
     "A|Atletico Juventus T.C": {
       "timeId": 6781170,
@@ -995,6 +995,46 @@
       "timeId": 796704,
       "slug": "bayern-07-j-l-913",
       "nomeCartola": "José Carlos"
+    },
+    "CB|TEAM CBUM": {
+      "timeId": 47539907,
+      "slug": "team-cbum",
+      "nomeCartola": "Ruan José "
+    },
+    "CB|fazenda camaroes fc": {
+      "timeId": 12930558,
+      "slug": "fazenda-camaroes-fc",
+      "nomeCartola": "bruno fc"
+    },
+    "CB|Coquinho bebidas": {
+      "timeId": 28662671,
+      "slug": "coquinho-bebidas",
+      "nomeCartola": "Coquinho"
+    },
+    "CB|DINOO F.C 10": {
+      "timeId": 6972050,
+      "slug": "dinoo-f-c-10",
+      "nomeCartola": "jadiel "
+    },
+    "CB|Cajá FCC": {
+      "timeId": 1703531,
+      "slug": "caja-fcc",
+      "nomeCartola": "Anderson Gomes"
+    },
+    "CB|mito350": {
+      "timeId": 1005303,
+      "slug": "mito350",
+      "nomeCartola": "Isac"
+    },
+    "CB|expresso riachense": {
+      "timeId": 15806146,
+      "slug": "expresso-riachense",
+      "nomeCartola": "jailson"
+    },
+    "CB|Óia o rato!": {
+      "timeId": 653752,
+      "slug": "oia-o-rato",
+      "nomeCartola": "severino anderson"
     }
   }
 }
