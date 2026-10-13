@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-12T01:51:01.492193+00:00",
+  "atualizadoEm": "2026-10-13T00:17:09.098023+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1604,7 +1604,7 @@
           "time2": "TEAM CBUM",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 75.93,
+            "time1": 80.43,
             "time2": null,
             "status": "parcial"
           },
@@ -1627,7 +1627,7 @@
           "time2": "fazenda camaroes fc",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 67.68,
+            "time1": 104.23,
             "time2": null,
             "status": "parcial"
           },
@@ -1650,7 +1650,7 @@
           "time2": "Coquinho bebidas",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 54.38,
+            "time1": 72.88,
             "time2": null,
             "status": "parcial"
           },
@@ -1673,7 +1673,7 @@
           "time2": "DINOO F.C 10",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 64.18,
+            "time1": 101.53,
             "time2": null,
             "status": "parcial"
           },
@@ -1696,7 +1696,7 @@
           "time2": "Cajá FCC",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 86.55,
+            "time1": 114.3,
             "time2": null,
             "status": "parcial"
           },
@@ -1719,7 +1719,7 @@
           "time2": "mito350",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 86.88,
+            "time1": 115.13,
             "time2": null,
             "status": "parcial"
           },
@@ -1742,7 +1742,7 @@
           "time2": "expresso riachense",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 72.65,
+            "time1": 100.9,
             "time2": null,
             "status": "parcial"
           },
@@ -1765,7 +1765,7 @@
           "time2": "Óia o rato!",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 63.48,
+            "time1": 98.53,
             "time2": null,
             "status": "parcial"
           },
@@ -1820,6 +1820,6 @@
   "cartola": {
     "rodadaAtual": 30,
     "mercadoFechado": true,
-    "bolaRolando": false
+    "bolaRolando": true
   }
 }
