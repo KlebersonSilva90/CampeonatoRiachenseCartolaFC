@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-13T00:17:33.226616+00:00",
+  "atualizadoEm": "2026-10-13T06:54:57.049634+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2496,13 +2496,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 92.38,
-            "time2": 112.83,
+            "time1": 92.58,
+            "time2": 118.23,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 197.0,
-            "time2": 235.49
+            "time1": 197.2,
+            "time2": 240.89
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2517,13 +2517,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 113.33,
-            "time2": 102.83,
+            "time1": 113.63,
+            "time2": 108.23,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 224.19,
-            "time2": 200.05
+            "time1": 224.49,
+            "time2": 205.45
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2538,13 +2538,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 98.7,
-            "time2": 82.95,
+            "time1": 104.14,
+            "time2": 84.18,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 212.14,
-            "time2": 197.91
+            "time1": 217.58,
+            "time2": 199.14
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2559,13 +2559,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 95.13,
-            "time2": 120.34,
+            "time1": 100.53,
+            "time2": 120.64,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 217.09,
-            "time2": 261.46
+            "time1": 222.49,
+            "time2": 261.76
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2580,13 +2580,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 82.51,
-            "time2": 95.93,
+            "time1": 82.81,
+            "time2": 101.33,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 170.87,
-            "time2": 181.77
+            "time1": 171.17,
+            "time2": 187.17
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2601,13 +2601,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 78.9,
-            "time2": 101.68,
+            "time1": 79.04,
+            "time2": 108.08,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 172.44,
-            "time2": 195.24
+            "time1": 172.58,
+            "time2": 201.64
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2622,13 +2622,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 89.38,
-            "time2": 75.73,
+            "time1": 82.88,
+            "time2": 83.79,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 207.82,
-            "time2": 218.57
+            "time1": 201.32,
+            "time2": 226.63
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2643,13 +2643,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 90.78,
-            "time2": 86.1,
+            "time1": 96.08,
+            "time2": 91.5,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 196.34,
-            "time2": 192.94
+            "time1": 201.64,
+            "time2": 198.34
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2698,7 +2698,7 @@
   "cartola": {
     "rodadaAtual": 30,
     "mercadoFechado": true,
-    "bolaRolando": true,
+    "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
