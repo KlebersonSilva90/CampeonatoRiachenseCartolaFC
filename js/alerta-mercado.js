@@ -63,6 +63,31 @@ function criarMensagemMercado(dados) {
   return `⚠️ Atenção, cartoleiros! O mercado da ${rodada.toLowerCase()} fecha ${formatarFechamentoMercado(fechamento)}. Faltam ${tempoRestanteMercado(restante)}. Não esqueçam de escalar o time!`;
 }
 
+async function buscarStatusMercado(url) {
+  const resposta = await fetch(url, { cache: "no-store" });
+  if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
+  return resposta.json();
+}
+
+function rodadaDoStatus(dados) {
+  return Number(dados?.rodada_atual ?? dados?.rodadaCartola) || 0;
+}
+
+function escolherStatusMercadoMaisAtual(local, remoto) {
+  if (!local) return remoto;
+  if (!remoto) return local;
+
+  const rodadaLocal = rodadaDoStatus(local);
+  const rodadaRemota = rodadaDoStatus(remoto);
+  if (rodadaRemota !== rodadaLocal) {
+    return rodadaRemota > rodadaLocal ? remoto : local;
+  }
+
+  const fechamentoLocal = dataFechamentoMercado(local.fechamento)?.getTime() || 0;
+  const fechamentoRemoto = dataFechamentoMercado(remoto.fechamento)?.getTime() || 0;
+  return fechamentoRemoto >= fechamentoLocal ? remoto : local;
+}
+
 async function consultarMercado() {
   const botao = document.getElementById("consultar-mercado");
   const mensagem = document.getElementById("mensagem-mercado");
@@ -72,14 +97,12 @@ async function consultarMercado() {
   mensagem.classList.remove("erro");
   mensagem.textContent = "Consultando o Cartola…";
   try {
-    let resposta = await fetch(`${ARQUIVO_STATUS_MERCADO}?t=${Date.now()}`, { cache: "no-store" });
-    if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
-    let dados = await resposta.json();
-    if (!dados.fechamento) {
-      resposta = await fetch(API_STATUS_MERCADO, { cache: "no-store" });
-      if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
-      dados = await resposta.json();
-    }
+    const [local, remoto] = await Promise.all([
+      buscarStatusMercado(`${ARQUIVO_STATUS_MERCADO}?t=${Date.now()}`).catch(() => null),
+      buscarStatusMercado(`${API_STATUS_MERCADO}?t=${Date.now()}`).catch(() => null),
+    ]);
+    const dados = escolherStatusMercadoMaisAtual(local, remoto);
+    if (!dados) throw new Error("Nenhuma fonte de dados respondeu.");
     mensagem.textContent = criarMensagemMercado(dados);
   } catch (erro) {
     mensagem.classList.add("erro");

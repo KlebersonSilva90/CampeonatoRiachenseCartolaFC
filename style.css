@@ -1062,6 +1062,110 @@ button:focus-visible {
   background: rgba(75, 38, 0, 0.28);
 }
 
+.alerta-reincidencia {
+  width: min(680px, calc(100% - 32px));
+  max-height: min(80vh, 720px);
+  padding: 0;
+  overflow: hidden;
+  border: 3px solid #8e1515;
+  border-radius: 16px;
+  background: #fffaf0;
+  color: #28180a;
+  box-shadow: 0 18px 55px rgb(38 15 0 / 45%);
+}
+
+.alerta-reincidencia::backdrop {
+  background: rgb(20 10 0 / 68%);
+  backdrop-filter: blur(2px);
+}
+
+.alerta-reincidencia-cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 20px;
+  background: linear-gradient(135deg, #ffd36a, #ff9d1f);
+}
+
+.alerta-reincidencia-cabecalho h2,
+.alerta-reincidencia-cabecalho p {
+  margin: 0;
+  text-align: left;
+}
+
+.alerta-reincidencia-cabecalho h2 {
+  margin-top: 4px;
+  color: #681010;
+  font-size: clamp(1.2rem, 4vw, 1.65rem);
+}
+
+#fechar-alerta-reincidencia {
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  border: 2px solid #471111;
+  border-radius: 50%;
+  background: #fff;
+  color: #681010;
+  font-size: 1.65rem;
+  font-weight: 900;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.alerta-reincidencia-mensagens {
+  display: grid;
+  gap: 10px;
+  max-height: 48vh;
+  padding: 16px 20px;
+  overflow-y: auto;
+}
+
+.alerta-reincidencia-mensagens article {
+  padding: 12px 14px;
+  border-left: 6px solid #b51f1f;
+  border-radius: 8px;
+  background: #fff0e4;
+}
+
+.alerta-reincidencia-mensagens p {
+  margin: 0;
+  text-align: left;
+  font-size: 0.95rem;
+  font-weight: 900;
+  line-height: 1.45;
+}
+
+.alerta-reincidencia-mensagens small {
+  display: block;
+  margin-top: 5px;
+  color: #6c4b32;
+  font-weight: 700;
+}
+
+.alerta-reincidencia-confirmar {
+  display: block;
+  min-width: 150px;
+  min-height: 44px;
+  margin: 0 auto 18px;
+  padding: 9px 20px;
+  border: 2px solid #471111;
+  border-radius: 9px;
+  background: #8e1515;
+  color: #fff;
+  font: inherit;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.alerta-reincidencia-confirmar:hover,
+.alerta-reincidencia-confirmar:focus-visible,
+#fechar-alerta-reincidencia:hover,
+#fechar-alerta-reincidencia:focus-visible {
+  filter: brightness(0.92);
+}
+
 /* ============================= */
 /* ===== HISTÓRICO DOS TIMES === */
 /* ============================= */
@@ -1694,6 +1798,25 @@ button:focus-visible {
   .painel-nao-escalados {
     padding: 9px 11px;
     font-size: 0.8rem;
+  }
+
+  .alerta-reincidencia {
+    width: calc(100% - 18px);
+    max-height: 88vh;
+    border-width: 2px;
+  }
+
+  .alerta-reincidencia-cabecalho {
+    padding: 13px 14px;
+  }
+
+  .alerta-reincidencia-mensagens {
+    max-height: 56vh;
+    padding: 12px;
+  }
+
+  .alerta-reincidencia-mensagens p {
+    font-size: 0.82rem;
   }
 
   .perfil-time {

@@ -49,6 +49,21 @@ As validações incluem:
 
 Se qualquer série apresentar erro, nenhum JSON é substituído. Corrija a planilha indicada e execute o comando novamente.
 
+## Verificação de times que não escalaram
+
+Lê diretamente as planilhas das Séries A a E e lista cada pontuação numérica
+igual a zero, com série, rodada, time e cartoleiro:
+
+```powershell
+python tools/verificar_nao_escalados.py
+```
+
+Para verificar somente algumas séries:
+
+```powershell
+python tools/verificar_nao_escalados.py --series A C E
+```
+
 ## Imagens para divulgação (teste)
 
 Para gerar um PNG da classificação e outro da última rodada concluída:

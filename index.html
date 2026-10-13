@@ -109,6 +109,24 @@
       </section>
     </div>
 
+    <dialog
+      id="alerta-reincidencia-nao-escalados"
+      class="alerta-reincidencia"
+      aria-labelledby="titulo-alerta-reincidencia"
+    >
+      <div class="alerta-reincidencia-cabecalho">
+        <div>
+          <p class="rotulo-destaque">AVISO DO CAMPEONATO</p>
+          <h2 id="titulo-alerta-reincidencia">TIMES SEM ESCALAÇÃO</h2>
+        </div>
+        <button id="fechar-alerta-reincidencia" type="button" aria-label="Fechar aviso">×</button>
+      </div>
+      <div id="mensagens-alerta-reincidencia" class="alerta-reincidencia-mensagens"></div>
+      <button id="confirmar-alerta-reincidencia" class="alerta-reincidencia-confirmar" type="button">
+        ENTENDI
+      </button>
+    </dialog>
+
     <script src="js/navegacao.js"></script>
     <script src="js/destaques.js"></script>
     <script src="js/alerta-mercado.js"></script>

@@ -1,16 +1,16 @@
 {
-  "atualizadoEm": "202python tools/atualizar_campeonatos.py6-10-06T14:53:23.378165+00:00",
-  "rodadaCampeonato": 10,
-  "rodadaCartola": 29,
-  "nomeRodada": "Rodada 29",
+  "atualizadoEm": "2026-10-13T19:17:11.544771+00:00",
+  "rodadaCampeonato": 12,
+  "rodadaCartola": 31,
+  "nomeRodada": "Rodada 31",
   "statusMercado": 1,
   "fechamento": {
-    "dia": 7,
+    "dia": 17,
     "mes": 10,
     "ano": 2026,
-    "hora": 19,
-    "minuto": 29,
-    "timestamp": 1791412140
+    "hora": 17,
+    "minuto": 59,
+    "timestamp": 1792270740
   },
   "mercadoFechado": false,
   "bolaRolando": false,

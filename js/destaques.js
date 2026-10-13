@@ -144,6 +144,60 @@ function criarSeletor() {
   seletor.addEventListener("change", () => renderizarRodada(Number(seletor.value)));
 }
 
+function reincidentesSemEscalar(campeonatos, limite = 5) {
+  const registros = new Map();
+  campeonatos.forEach((campeonato) => {
+    campeonato.rodadas.forEach((rodada) => {
+      rodada.partidas.forEach((partida) => {
+        [partida.mandante, partida.visitante].forEach((equipe) => {
+          if (!(equipe.naoEscalou === true || equipe.pontuacao === 0)) return;
+          const chave = `${campeonato.serie}|${equipe.time}`;
+          const registro = registros.get(chave) || {
+            serie: campeonato.serie,
+            time: equipe.time,
+            cartoleiro: equipe.cartoleiro || "Cartoleiro não informado",
+            quantidade: 0,
+          };
+          registro.quantidade += 1;
+          registros.set(chave, registro);
+        });
+      });
+    });
+  });
+  return [...registros.values()]
+    .filter((registro) => registro.quantidade >= limite)
+    .sort((a, b) => b.quantidade - a.quantidade || a.time.localeCompare(b.time, "pt-BR"));
+}
+
+function configurarAlertaReincidencia() {
+  const dialogo = document.getElementById("alerta-reincidencia-nao-escalados");
+  const mensagens = document.getElementById("mensagens-alerta-reincidencia");
+  const fechar = document.getElementById("fechar-alerta-reincidencia");
+  const confirmar = document.getElementById("confirmar-alerta-reincidencia");
+  if (!dialogo || !mensagens) return;
+
+  const reincidentes = reincidentesSemEscalar(estadoDestaques.campeonatos);
+  if (reincidentes.length === 0) return;
+  mensagens.replaceChildren(...reincidentes.map((registro) => {
+    const mensagem = document.createElement("p");
+    mensagem.textContent = `${registro.cartoleiro.toUpperCase()}, ENTRE EM CONTATO POIS SEU TIME ${registro.time.toUpperCase()} FICOU 5 VEZES OU MAIS SEM ESCALAR.`;
+    const detalhe = document.createElement("small");
+    detalhe.textContent = `Série ${registro.serie} · ${registro.quantidade} ocorrências`;
+    const item = document.createElement("article");
+    item.append(mensagem, detalhe);
+    return item;
+  }));
+
+  const fecharDialogo = () => dialogo.close();
+  fechar?.addEventListener("click", fecharDialogo);
+  confirmar?.addEventListener("click", fecharDialogo);
+  dialogo.addEventListener("click", (evento) => {
+    if (evento.target === dialogo) fecharDialogo();
+  });
+  if (typeof dialogo.showModal === "function") dialogo.showModal();
+  else dialogo.setAttribute("open", "");
+}
+
 async function carregarDestaques() {
   const urls = ["a", "b", "c", "d", "e"].map((serie) => `dados/serie-${serie}.json`);
   try {
@@ -157,6 +211,7 @@ async function carregarDestaques() {
       if (statusRodadaGeral(numero) === "concluída") ultimaConcluida = numero;
     }
     renderizarRodada(ultimaConcluida);
+    configurarAlertaReincidencia();
   } catch (erro) {
     definirTexto("status-destaques", "Não foi possível carregar os dados dos campeonatos.");
     console.error("Erro ao carregar os melhores da rodada:", erro);
