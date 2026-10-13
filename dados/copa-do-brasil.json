@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-13T06:54:35.673297+00:00",
+  "atualizadoEm": "2026-10-13T14:51:06.629072+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1604,7 +1604,7 @@
           "time2": "TEAM CBUM",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 86.63,
+            "time1": 88.13,
             "time2": null,
             "status": "parcial"
           },
@@ -1673,7 +1673,7 @@
           "time2": "DINOO F.C 10",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 108.23,
+            "time1": 109.73,
             "time2": null,
             "status": "parcial"
           },
@@ -1719,7 +1719,7 @@
           "time2": "mito350",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 120.53,
+            "time1": 122.03,
             "time2": null,
             "status": "parcial"
           },
@@ -1742,7 +1742,7 @@
           "time2": "expresso riachense",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 106.3,
+            "time1": 107.8,
             "time2": null,
             "status": "parcial"
           },
@@ -1765,7 +1765,7 @@
           "time2": "Óia o rato!",
           "ida": {
             "rodadaCartola": 30,
-            "time1": 105.23,
+            "time1": 106.73,
             "time2": null,
             "status": "parcial"
           },
@@ -1818,8 +1818,8 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 30,
-    "mercadoFechado": true,
+    "rodadaAtual": 31,
+    "mercadoFechado": false,
     "bolaRolando": false
   }
 }
