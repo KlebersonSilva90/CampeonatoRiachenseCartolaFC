@@ -1,7 +1,7 @@
 {
   "serie": "A",
   "fonte": "Serie A2.xlsm",
-  "atualizadoEm": "2026-10-09T11:45:52",
+  "atualizadoEm": "2026-10-13T12:54:45",
   "regraResultado": {
     "vitoriaDiferencaMinima": 5,
     "pontosVitoria": 3,
@@ -10,263 +10,263 @@
   "classificacao": [
     {
       "posicao": 1,
-      "time": "onça pintanda HD 13",
-      "pontos": 22,
-      "jogos": 10,
+      "time": "JP90",
+      "pontos": 24,
+      "jogos": 11,
       "vitorias": 7,
-      "empates": 1,
-      "derrotas": 2,
-      "pontosMarcados": 960.61,
-      "pontosSofridos": 859.38,
-      "saldo": 101.23,
-      "media": 96.06
+      "empates": 3,
+      "derrotas": 1,
+      "pontosMarcados": 1023.22,
+      "pontosSofridos": 871.82,
+      "saldo": 151.4,
+      "media": 93.02
     },
     {
       "posicao": 2,
-      "time": "JP90",
-      "pontos": 21,
-      "jogos": 10,
-      "vitorias": 6,
-      "empates": 3,
-      "derrotas": 1,
-      "pontosMarcados": 917.12,
-      "pontosSofridos": 815.91,
-      "saldo": 101.21,
-      "media": 91.71
+      "time": "onça pintanda HD 13",
+      "pontos": 23,
+      "jogos": 11,
+      "vitorias": 7,
+      "empates": 2,
+      "derrotas": 2,
+      "pontosMarcados": 1062.64,
+      "pontosSofridos": 965.91,
+      "saldo": 96.73,
+      "media": 96.6
     },
     {
       "posicao": 3,
       "time": "Arsenal PE 87",
-      "pontos": 19,
-      "jogos": 10,
-      "vitorias": 6,
+      "pontos": 22,
+      "jogos": 11,
+      "vitorias": 7,
       "empates": 1,
       "derrotas": 3,
-      "pontosMarcados": 922.89,
-      "pontosSofridos": 835.07,
-      "saldo": 87.82,
-      "media": 92.29
+      "pontosMarcados": 1034.77,
+      "pontosSofridos": 932.7,
+      "saldo": 102.07,
+      "media": 94.07
     },
     {
       "posicao": 4,
       "time": "Óia o rato!",
-      "pontos": 18,
-      "jogos": 10,
-      "vitorias": 5,
+      "pontos": 21,
+      "jogos": 11,
+      "vitorias": 6,
       "empates": 3,
       "derrotas": 2,
-      "pontosMarcados": 913.57,
-      "pontosSofridos": 860.29,
-      "saldo": 53.28,
-      "media": 91.36
+      "pontosMarcados": 1039.7,
+      "pontosSofridos": 962.37,
+      "saldo": 77.33,
+      "media": 94.52
     },
     {
       "posicao": 5,
       "time": "TEAM CBUM",
-      "pontos": 17,
-      "jogos": 10,
-      "vitorias": 5,
+      "pontos": 20,
+      "jogos": 11,
+      "vitorias": 6,
       "empates": 2,
       "derrotas": 3,
-      "pontosMarcados": 887.81,
-      "pontosSofridos": 830.44,
-      "saldo": 57.37,
-      "media": 88.78
+      "pontosMarcados": 988.41,
+      "pontosSofridos": 921.17,
+      "saldo": 67.24,
+      "media": 89.86
     },
     {
       "posicao": 6,
-      "time": "Black Up City",
-      "pontos": 17,
-      "jogos": 10,
+      "time": "kaio paredão FC 01",
+      "pontos": 20,
+      "jogos": 11,
       "vitorias": 5,
-      "empates": 2,
-      "derrotas": 3,
-      "pontosMarcados": 911.5,
-      "pontosSofridos": 894.81,
-      "saldo": 16.69,
-      "media": 91.15
+      "empates": 5,
+      "derrotas": 1,
+      "pontosMarcados": 1047.03,
+      "pontosSofridos": 898.23,
+      "saldo": 148.8,
+      "media": 95.18
     },
     {
       "posicao": 7,
-      "time": "kaio paredão FC 01",
-      "pontos": 17,
-      "jogos": 10,
-      "vitorias": 4,
-      "empates": 5,
-      "derrotas": 1,
-      "pontosMarcados": 927.3,
-      "pontosSofridos": 814.05,
-      "saldo": 113.25,
-      "media": 92.73
+      "time": "Coquinho bebidas",
+      "pontos": 19,
+      "jogos": 11,
+      "vitorias": 6,
+      "empates": 1,
+      "derrotas": 4,
+      "pontosMarcados": 991.73,
+      "pontosSofridos": 957.12,
+      "saldo": 34.61,
+      "media": 90.16
     },
     {
       "posicao": 8,
-      "time": "Bayern 07 J.L 913",
-      "pontos": 16,
-      "jogos": 10,
+      "time": "Black Up City",
+      "pontos": 17,
+      "jogos": 11,
       "vitorias": 5,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 4,
-      "pontosMarcados": 858.07,
-      "pontosSofridos": 826.44,
-      "saldo": 31.63,
-      "media": 85.81
+      "pontosMarcados": 995.68,
+      "pontosSofridos": 1014.54,
+      "saldo": -18.86,
+      "media": 90.52
     },
     {
       "posicao": 9,
-      "time": "DINOO F.C 10",
+      "time": "Bayern 07 J.L 913",
       "pontos": 16,
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 5,
       "empates": 1,
-      "derrotas": 4,
-      "pontosMarcados": 921.46,
-      "pontosSofridos": 895.27,
-      "saldo": 26.19,
-      "media": 92.15
+      "derrotas": 5,
+      "pontosMarcados": 948.8,
+      "pontosSofridos": 927.04,
+      "saldo": 21.76,
+      "media": 86.25
     },
     {
       "posicao": 10,
-      "time": "Coquinho bebidas",
+      "time": "DINOO F.C 10",
       "pontos": 16,
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 5,
       "empates": 1,
-      "derrotas": 4,
-      "pontosMarcados": 867.74,
-      "pontosSofridos": 861.89,
-      "saldo": 5.85,
-      "media": 86.77
+      "derrotas": 5,
+      "pontosMarcados": 1016.69,
+      "pontosSofridos": 1019.26,
+      "saldo": -2.57,
+      "media": 92.43
     },
     {
       "posicao": 11,
       "time": "expresso riachense",
       "pontos": 16,
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 4,
       "empates": 4,
-      "derrotas": 2,
-      "pontosMarcados": 907.95,
-      "pontosSofridos": 856.44,
-      "saldo": 51.51,
-      "media": 90.8
+      "derrotas": 3,
+      "pontosMarcados": 1010.03,
+      "pontosSofridos": 982.57,
+      "saldo": 27.46,
+      "media": 91.82
     },
     {
       "posicao": 12,
       "time": "KENNEDY TEAM",
       "pontos": 15,
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 4,
       "empates": 3,
-      "derrotas": 3,
-      "pontosMarcados": 863.98,
-      "pontosSofridos": 869.77,
-      "saldo": -5.79,
-      "media": 86.4
+      "derrotas": 4,
+      "pontosMarcados": 958.21,
+      "pontosSofridos": 995.55,
+      "saldo": -37.34,
+      "media": 87.11
     },
     {
       "posicao": 13,
       "time": "Cabugi SC",
-      "pontos": 12,
-      "jogos": 10,
+      "pontos": 13,
+      "jogos": 11,
       "vitorias": 4,
-      "empates": 0,
+      "empates": 1,
       "derrotas": 6,
-      "pontosMarcados": 840.53,
-      "pontosSofridos": 870.85,
-      "saldo": -30.32,
-      "media": 84.05
+      "pontosMarcados": 947.06,
+      "pontosSofridos": 972.88,
+      "saldo": -25.82,
+      "media": 86.1
     },
     {
       "posicao": 14,
-      "time": "Alison FCC",
-      "pontos": 10,
-      "jogos": 10,
-      "vitorias": 3,
+      "time": "Águia Dourada 13",
+      "pontos": 13,
+      "jogos": 11,
+      "vitorias": 4,
       "empates": 1,
       "derrotas": 6,
-      "pontosMarcados": 829.47,
-      "pontosSofridos": 899.31,
-      "saldo": -69.84,
-      "media": 82.95
+      "pontosMarcados": 902.53,
+      "pontosSofridos": 1040.52,
+      "saldo": -137.99,
+      "media": 82.05
     },
     {
       "posicao": 15,
-      "time": "Águia Dourada 13",
-      "pontos": 10,
-      "jogos": 10,
+      "time": "Alex Antenas",
+      "pontos": 11,
+      "jogos": 11,
       "vitorias": 3,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 6,
-      "pontosMarcados": 792.64,
-      "pontosSofridos": 937.69,
-      "saldo": -145.05,
-      "media": 79.26
+      "pontosMarcados": 969.35,
+      "pontosSofridos": 964.17,
+      "saldo": 5.18,
+      "media": 88.12
     },
     {
       "posicao": 16,
-      "time": "Atletico Juventus T.C",
-      "pontos": 10,
-      "jogos": 10,
-      "vitorias": 2,
-      "empates": 4,
-      "derrotas": 4,
-      "pontosMarcados": 886.98,
-      "pontosSofridos": 951.36,
-      "saldo": -64.38,
-      "media": 88.7
+      "time": "Brasmanha SC",
+      "pontos": 11,
+      "jogos": 11,
+      "vitorias": 3,
+      "empates": 2,
+      "derrotas": 6,
+      "pontosMarcados": 971.97,
+      "pontosSofridos": 1012.11,
+      "saldo": -40.14,
+      "media": 88.36
     },
     {
       "posicao": 17,
-      "time": "Alex Antenas",
-      "pontos": 8,
-      "jogos": 10,
-      "vitorias": 2,
-      "empates": 2,
-      "derrotas": 6,
-      "pontosMarcados": 859.62,
-      "pontosSofridos": 881.36,
-      "saldo": -21.74,
-      "media": 85.96
+      "time": "Alison FCC",
+      "pontos": 10,
+      "jogos": 11,
+      "vitorias": 3,
+      "empates": 1,
+      "derrotas": 7,
+      "pontosMarcados": 932.3,
+      "pontosSofridos": 1009.2,
+      "saldo": -76.9,
+      "media": 84.75
     },
     {
       "posicao": 18,
-      "time": "Brasmanha SC",
-      "pontos": 8,
-      "jogos": 10,
+      "time": "Atletico Juventus T.C",
+      "pontos": 10,
+      "jogos": 11,
       "vitorias": 2,
-      "empates": 2,
-      "derrotas": 6,
-      "pontosMarcados": 846.19,
-      "pontosSofridos": 917.88,
-      "saldo": -71.69,
-      "media": 84.62
+      "empates": 4,
+      "derrotas": 5,
+      "pontosMarcados": 969.79,
+      "pontosSofridos": 1061.09,
+      "saldo": -91.3,
+      "media": 88.16
     },
     {
       "posicao": 19,
       "time": "Serra Verde Futebol Club",
       "pontos": 8,
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 1,
       "empates": 5,
-      "derrotas": 4,
-      "pontosMarcados": 863.82,
-      "pontosSofridos": 892.86,
-      "saldo": -29.04,
-      "media": 86.38
+      "derrotas": 5,
+      "pontosMarcados": 961.45,
+      "pontosSofridos": 1004.74,
+      "saldo": -43.29,
+      "media": 87.4
     },
     {
       "posicao": 20,
       "time": "Belo Tricolor",
       "pontos": 2,
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 0,
       "empates": 2,
-      "derrotas": 8,
-      "pontosMarcados": 650.21,
-      "pontosSofridos": 858.39,
-      "saldo": -208.18,
-      "media": 65.02
+      "derrotas": 9,
+      "pontosMarcados": 706.12,
+      "pontosSofridos": 964.49,
+      "saldo": -258.37,
+      "media": 64.19
     }
   ],
   "rodadas": [
@@ -1927,15 +1927,15 @@
           "mandante": {
             "cartoleiro": "Mario Jorge",
             "time": "Atletico Juventus T.C",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 82.81,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Alex Aldir",
             "time": "Alex Antenas",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 109.73,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1943,15 +1943,15 @@
           "mandante": {
             "cartoleiro": "Kaio Henrique",
             "time": "kaio paredão FC 01",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 119.73,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "jR. Miranda",
             "time": "Black Up City",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 84.18,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -1959,15 +1959,15 @@
           "mandante": {
             "cartoleiro": "Jailson",
             "time": "expresso riachense",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 102.08,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Severino Anderson",
             "time": "Óia o rato!",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 126.13,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1975,15 +1975,15 @@
           "mandante": {
             "cartoleiro": "jadiel",
             "time": "DINOO F.C 10",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 95.23,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Coquinho",
             "time": "Coquinho bebidas",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 123.99,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -1991,15 +1991,15 @@
           "mandante": {
             "cartoleiro": "Kennedy Gilbert",
             "time": "KENNEDY TEAM",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 94.23,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Kayque",
             "time": "Brasmanha SC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 125.78,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2007,15 +2007,15 @@
           "mandante": {
             "cartoleiro": "Jose Carlos",
             "time": "Bayern 07 J.L 913",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 90.73,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Ruan Jose",
             "time": "TEAM CBUM",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 100.6,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2023,15 +2023,15 @@
           "mandante": {
             "cartoleiro": "Peixoto",
             "time": "JP90",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 106.1,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Alexandre",
             "time": "Belo Tricolor",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 55.91,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2039,15 +2039,15 @@
           "mandante": {
             "cartoleiro": "Igor",
             "time": "Águia Dourada 13",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 109.89,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Alison",
             "time": "Alison FCC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 102.83,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2055,15 +2055,15 @@
           "mandante": {
             "cartoleiro": "Heider",
             "time": "onça pintanda HD 13",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 102.03,
+            "resultado": "E",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Rafael Justo",
             "time": "Cabugi SC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 106.53,
+            "resultado": "E",
             "naoEscalou": false
           }
         },
@@ -2071,15 +2071,15 @@
           "mandante": {
             "cartoleiro": "Taylon",
             "time": "Arsenal PE 87",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 111.88,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Janailson Eugênio",
             "time": "Serra Verde Futebol Club",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 97.63,
+            "resultado": "D",
             "naoEscalou": false
           }
         }
