@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-17T21:26:15.575709+00:00",
+  "atualizadoEm": "2026-10-17T23:20:10.902064+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1642,13 +1642,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 9.91,
-            "time2": 5.0,
+            "time1": 36.8,
+            "time2": 15.4,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 98.04,
-            "time2": 105.6
+            "time1": 124.93,
+            "time2": 116.0
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1665,13 +1665,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 14.91,
-            "time2": 9.91,
+            "time1": 32.45,
+            "time2": 29.0,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 120.74,
-            "time2": 106.99
+            "time1": 138.28,
+            "time2": 126.08
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1688,13 +1688,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 32.81,
-            "time2": 21.61,
+            "time1": 58.9,
+            "time2": 42.8,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 105.89,
-            "time2": 145.6
+            "time1": 131.98,
+            "time2": 166.79
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1711,13 +1711,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 16.11,
-            "time2": 9.91,
+            "time1": 35.4,
+            "time2": 26.0,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 125.84,
-            "time2": 105.14
+            "time1": 145.13,
+            "time2": 121.23
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1734,13 +1734,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 9.91,
-            "time2": 9.91,
+            "time1": 20.1,
+            "time2": 30.1,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 124.51,
-            "time2": 116.99
+            "time1": 134.7,
+            "time2": 137.18
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1757,13 +1757,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 10.0,
-            "time2": 0.0,
+            "time1": 26.45,
+            "time2": 30.35,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 132.03,
-            "time2": 92.84
+            "time1": 148.48,
+            "time2": 123.19
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1780,13 +1780,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 26.11,
-            "time2": 10.0,
+            "time1": 44.75,
+            "time2": 48.65,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 133.91,
-            "time2": 112.08
+            "time1": 152.55,
+            "time2": 150.73
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1803,13 +1803,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 14.91,
-            "time2": 16.11,
+            "time1": 29.4,
+            "time2": 33.3,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 121.64,
-            "time2": 142.24
+            "time1": 136.13,
+            "time2": 159.43
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
