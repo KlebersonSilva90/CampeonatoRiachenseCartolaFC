@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-18T17:31:33.863812+00:00",
+  "atualizadoEm": "2026-10-18T19:37:26.436160+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2672,8 +2672,8 @@
           "time1": "kaio paredão FC 01",
           "time2": "Demolidor01",
           "ida": {
-            "time1": 54.49,
-            "time2": 36.69,
+            "time1": 61.69,
+            "time2": 38.49,
             "status": "parcial"
           },
           "volta": {
@@ -2682,8 +2682,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 54.49,
-            "time2": 36.69
+            "time1": 61.69,
+            "time2": 38.49
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2693,8 +2693,8 @@
           "time1": "Racionais FC_81",
           "time2": "MitaMiita - IC",
           "ida": {
-            "time1": 34.61,
-            "time2": 41.39,
+            "time1": 44.31,
+            "time2": 48.39,
             "status": "parcial"
           },
           "volta": {
@@ -2703,8 +2703,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 34.61,
-            "time2": 41.39
+            "time1": 44.31,
+            "time2": 48.39
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2714,8 +2714,8 @@
           "time1": "Alison FCC",
           "time2": "Arsenal PE 87",
           "ida": {
-            "time1": 55.58,
-            "time2": 37.44,
+            "time1": 62.78,
+            "time2": 44.64,
             "status": "parcial"
           },
           "volta": {
@@ -2724,8 +2724,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 55.58,
-            "time2": 37.44
+            "time1": 62.78,
+            "time2": 44.64
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2735,8 +2735,8 @@
           "time1": "EMERSON:)",
           "time2": "ozzinca f.c.",
           "ida": {
-            "time1": 65.64,
-            "time2": 46.65,
+            "time1": 73.24,
+            "time2": 53.85,
             "status": "parcial"
           },
           "volta": {
@@ -2745,8 +2745,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 65.64,
-            "time2": 46.65
+            "time1": 73.24,
+            "time2": 53.85
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2783,7 +2783,7 @@
   "cartola": {
     "rodadaAtual": 31,
     "mercadoFechado": true,
-    "bolaRolando": false,
+    "bolaRolando": true,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
