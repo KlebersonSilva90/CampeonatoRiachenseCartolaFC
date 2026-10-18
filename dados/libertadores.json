@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-18T21:52:56.956019+00:00",
+  "atualizadoEm": "2026-10-18T23:58:52.861034+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2672,8 +2672,8 @@
           "time1": "kaio paredão FC 01",
           "time2": "Demolidor01",
           "ida": {
-            "time1": 72.49,
-            "time2": 62.49,
+            "time1": 79.59,
+            "time2": 76.99,
             "status": "parcial"
           },
           "volta": {
@@ -2682,8 +2682,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 72.49,
-            "time2": 62.49
+            "time1": 79.59,
+            "time2": 76.99
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2693,8 +2693,8 @@
           "time1": "Racionais FC_81",
           "time2": "MitaMiita - IC",
           "ida": {
-            "time1": 52.61,
-            "time2": 57.79,
+            "time1": 59.71,
+            "time2": 79.54,
             "status": "parcial"
           },
           "volta": {
@@ -2703,8 +2703,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 52.61,
-            "time2": 57.79
+            "time1": 59.71,
+            "time2": 79.54
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2715,7 +2715,7 @@
           "time2": "Arsenal PE 87",
           "ida": {
             "time1": 73.58,
-            "time2": 55.44,
+            "time2": 58.34,
             "status": "parcial"
           },
           "volta": {
@@ -2725,7 +2725,7 @@
           },
           "agregado": {
             "time1": 73.58,
-            "time2": 55.44
+            "time2": 58.34
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2736,7 +2736,7 @@
           "time2": "ozzinca f.c.",
           "ida": {
             "time1": 96.04,
-            "time2": 64.65,
+            "time2": 67.55,
             "status": "parcial"
           },
           "volta": {
@@ -2746,7 +2746,7 @@
           },
           "agregado": {
             "time1": 96.04,
-            "time2": 64.65
+            "time2": 67.55
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
