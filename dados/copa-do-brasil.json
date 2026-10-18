@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-17T23:20:10.902064+00:00",
+  "atualizadoEm": "2026-10-18T01:14:44.923876+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1642,13 +1642,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 36.8,
-            "time2": 15.4,
+            "time1": 41.3,
+            "time2": 23.55,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 124.93,
-            "time2": 116.0
+            "time1": 129.43,
+            "time2": 124.15
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1665,13 +1665,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 32.45,
-            "time2": 29.0,
+            "time1": 40.0,
+            "time2": 31.7,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 138.28,
-            "time2": 126.08
+            "time1": 145.83,
+            "time2": 128.78
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1688,13 +1688,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 58.9,
-            "time2": 42.8,
+            "time1": 60.6,
+            "time2": 44.5,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 131.98,
-            "time2": 166.79
+            "time1": 133.68,
+            "time2": 168.49
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1711,13 +1711,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 35.4,
-            "time2": 26.0,
+            "time1": 37.0,
+            "time2": 27.6,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 145.13,
-            "time2": 121.23
+            "time1": 146.73,
+            "time2": 122.83
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1734,13 +1734,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 20.1,
-            "time2": 30.1,
+            "time1": 29.7,
+            "time2": 36.8,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 134.7,
-            "time2": 137.18
+            "time1": 144.3,
+            "time2": 143.88
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1757,13 +1757,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 26.45,
-            "time2": 30.35,
+            "time1": 32.35,
+            "time2": 35.95,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 148.48,
-            "time2": 123.19
+            "time1": 154.38,
+            "time2": 128.79
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1780,13 +1780,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 44.75,
-            "time2": 48.65,
+            "time1": 52.0,
+            "time2": 55.45,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 152.55,
-            "time2": 150.73
+            "time1": 159.8,
+            "time2": 157.53
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1803,13 +1803,13 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 29.4,
-            "time2": 33.3,
+            "time1": 40.8,
+            "time2": 38.2,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 136.13,
-            "time2": 159.43
+            "time1": 147.53,
+            "time2": 164.33
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
