@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-18T23:58:52.861034+00:00",
+  "atualizadoEm": "2026-10-19T04:18:25.041407+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2673,7 +2673,7 @@
           "time2": "Demolidor01",
           "ida": {
             "time1": 79.59,
-            "time2": 76.99,
+            "time2": 75.49,
             "status": "parcial"
           },
           "volta": {
@@ -2683,7 +2683,7 @@
           },
           "agregado": {
             "time1": 79.59,
-            "time2": 76.99
+            "time2": 75.49
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2715,7 +2715,7 @@
           "time2": "Arsenal PE 87",
           "ida": {
             "time1": 73.58,
-            "time2": 58.34,
+            "time2": 59.64,
             "status": "parcial"
           },
           "volta": {
@@ -2725,7 +2725,7 @@
           },
           "agregado": {
             "time1": 73.58,
-            "time2": 58.34
+            "time2": 59.64
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2736,7 +2736,7 @@
           "time2": "ozzinca f.c.",
           "ida": {
             "time1": 96.04,
-            "time2": 67.55,
+            "time2": 68.85,
             "status": "parcial"
           },
           "volta": {
@@ -2746,7 +2746,7 @@
           },
           "agregado": {
             "time1": 96.04,
-            "time2": 67.55
+            "time2": 68.85
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2783,7 +2783,7 @@
   "cartola": {
     "rodadaAtual": 31,
     "mercadoFechado": true,
-    "bolaRolando": true,
+    "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
