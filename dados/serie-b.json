@@ -1,7 +1,7 @@
 {
   "serie": "B",
   "fonte": "Serie B2.xlsm",
-  "atualizadoEm": "2026-10-13T13:01:24",
+  "atualizadoEm": "2026-10-20T11:54:28",
   "regraResultado": {
     "vitoriaDiferencaMinima": 5,
     "pontosVitoria": 3,
@@ -12,261 +12,261 @@
       "posicao": 1,
       "time": "Demolidor01",
       "pontos": 26,
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 8,
       "empates": 2,
-      "derrotas": 1,
-      "pontosMarcados": 1071.32,
-      "pontosSofridos": 862.86,
-      "saldo": 208.46,
-      "media": 97.39
+      "derrotas": 2,
+      "pontosMarcados": 1150.51,
+      "pontosSofridos": 973.8,
+      "saldo": 176.71,
+      "media": 95.88
     },
     {
       "posicao": 2,
       "time": "O MENSALISTA FC 1999",
       "pontos": 24,
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 7,
       "empates": 3,
-      "derrotas": 1,
-      "pontosMarcados": 1050.63,
-      "pontosSofridos": 899.42,
-      "saldo": 151.21,
-      "media": 95.51
+      "derrotas": 2,
+      "pontosMarcados": 1111.62,
+      "pontosSofridos": 1000.61,
+      "saldo": 111.01,
+      "media": 92.63
     },
     {
       "posicao": 3,
-      "time": "Clemente A.F.C",
-      "pontos": 22,
-      "jogos": 11,
-      "vitorias": 6,
-      "empates": 4,
-      "derrotas": 1,
-      "pontosMarcados": 1007.12,
-      "pontosSofridos": 949.99,
-      "saldo": 57.13,
-      "media": 91.56
+      "time": "EMERSON:)",
+      "pontos": 23,
+      "jogos": 12,
+      "vitorias": 7,
+      "empates": 2,
+      "derrotas": 3,
+      "pontosMarcados": 1156.29,
+      "pontosSofridos": 1065.03,
+      "saldo": 91.26,
+      "media": 96.36
     },
     {
       "posicao": 4,
-      "time": "EMERSON:)",
-      "pontos": 20,
-      "jogos": 11,
+      "time": "Clemente A.F.C",
+      "pontos": 23,
+      "jogos": 12,
       "vitorias": 6,
-      "empates": 2,
-      "derrotas": 3,
-      "pontosMarcados": 1045.35,
-      "pontosSofridos": 985.84,
-      "saldo": 59.51,
-      "media": 95.03
+      "empates": 5,
+      "derrotas": 1,
+      "pontosMarcados": 1101.26,
+      "pontosSofridos": 1046.93,
+      "saldo": 54.33,
+      "media": 91.77
     },
     {
       "posicao": 5,
-      "time": "Fernando.f7",
-      "pontos": 20,
-      "jogos": 11,
-      "vitorias": 6,
-      "empates": 2,
-      "derrotas": 3,
-      "pontosMarcados": 1039.74,
-      "pontosSofridos": 1000.2,
-      "saldo": 39.54,
-      "media": 94.52
+      "time": "alecksandrofc",
+      "pontos": 22,
+      "jogos": 12,
+      "vitorias": 7,
+      "empates": 1,
+      "derrotas": 4,
+      "pontosMarcados": 1066.52,
+      "pontosSofridos": 985.73,
+      "saldo": 80.79,
+      "media": 88.88
     },
     {
       "posicao": 6,
       "time": "Cajá FCC",
-      "pontos": 19,
-      "jogos": 11,
-      "vitorias": 6,
+      "pontos": 22,
+      "jogos": 12,
+      "vitorias": 7,
       "empates": 1,
       "derrotas": 4,
-      "pontosMarcados": 1001.39,
-      "pontosSofridos": 933.85,
-      "saldo": 67.54,
-      "media": 91.04
+      "pontosMarcados": 1090.33,
+      "pontosSofridos": 1015.11,
+      "saldo": 75.22,
+      "media": 90.86
     },
     {
       "posicao": 7,
-      "time": "alecksandrofc",
-      "pontos": 19,
-      "jogos": 11,
+      "time": "Fernando.f7",
+      "pontos": 20,
+      "jogos": 12,
       "vitorias": 6,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 4,
-      "pontosMarcados": 965.79,
-      "pontosSofridos": 909.67,
-      "saldo": 56.12,
-      "media": 87.8
+      "pontosMarcados": 1109.5,
+      "pontosSofridos": 1086.34,
+      "saldo": 23.16,
+      "media": 92.46
     },
     {
       "posicao": 8,
       "time": "Vaqueiro Sport club",
-      "pontos": 15,
-      "jogos": 11,
-      "vitorias": 5,
+      "pontos": 18,
+      "jogos": 12,
+      "vitorias": 6,
       "empates": 0,
       "derrotas": 6,
-      "pontosMarcados": 1066.95,
-      "pontosSofridos": 1031.8,
-      "saldo": 35.15,
-      "media": 97.0
+      "pontosMarcados": 1152.64,
+      "pontosSofridos": 1108,
+      "saldo": 44.64,
+      "media": 96.05
     },
     {
       "posicao": 9,
       "time": "fazenda camarões fc",
-      "pontos": 15,
-      "jogos": 11,
-      "vitorias": 4,
+      "pontos": 18,
+      "jogos": 12,
+      "vitorias": 5,
       "empates": 3,
       "derrotas": 4,
-      "pontosMarcados": 948.46,
+      "pontosMarcados": 1050.25,
       "pontosSofridos": 875.22,
-      "saldo": 73.24,
-      "media": 86.22
+      "saldo": 175.03,
+      "media": 87.52
     },
     {
       "posicao": 10,
-      "time": "MitaMiita - IC",
-      "pontos": 15,
-      "jogos": 11,
-      "vitorias": 4,
+      "time": "Catalão City PE",
+      "pontos": 18,
+      "jogos": 12,
+      "vitorias": 5,
       "empates": 3,
       "derrotas": 4,
-      "pontosMarcados": 1034.12,
-      "pontosSofridos": 1000.94,
-      "saldo": 33.18,
-      "media": 94.01
+      "pontosMarcados": 1098.1,
+      "pontosSofridos": 1035.88,
+      "saldo": 62.22,
+      "media": 91.51
     },
     {
       "posicao": 11,
-      "time": "mito350",
-      "pontos": 15,
-      "jogos": 11,
-      "vitorias": 4,
+      "time": "MitaMiita - IC",
+      "pontos": 18,
+      "jogos": 12,
+      "vitorias": 5,
       "empates": 3,
       "derrotas": 4,
-      "pontosMarcados": 951.75,
-      "pontosSofridos": 926.57,
-      "saldo": 25.18,
-      "media": 86.52
+      "pontosMarcados": 1120.26,
+      "pontosSofridos": 1070.7,
+      "saldo": 49.56,
+      "media": 93.36
     },
     {
       "posicao": 12,
-      "time": "Catalão City PE",
-      "pontos": 15,
-      "jogos": 11,
-      "vitorias": 4,
-      "empates": 3,
-      "derrotas": 4,
-      "pontosMarcados": 996.91,
-      "pontosSofridos": 974.89,
-      "saldo": 22.02,
-      "media": 90.63
+      "time": "SC Tello",
+      "pontos": 16,
+      "jogos": 12,
+      "vitorias": 5,
+      "empates": 1,
+      "derrotas": 6,
+      "pontosMarcados": 979.6,
+      "pontosSofridos": 1052.89,
+      "saldo": -73.29,
+      "media": 81.63
     },
     {
       "posicao": 13,
-      "time": "ozzinca f.c.",
-      "pontos": 15,
-      "jogos": 11,
+      "time": "TricolorSp3 F.C",
+      "pontos": 16,
+      "jogos": 12,
       "vitorias": 4,
-      "empates": 3,
+      "empates": 4,
       "derrotas": 4,
-      "pontosMarcados": 974.8,
-      "pontosSofridos": 984.84,
-      "saldo": -10.04,
-      "media": 88.62
+      "pontosMarcados": 1060.33,
+      "pontosSofridos": 1096.11,
+      "saldo": -35.78,
+      "media": 88.36
     },
     {
       "posicao": 14,
-      "time": "TricolorSp3 F.C",
+      "time": "mito350",
       "pontos": 15,
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 4,
       "empates": 3,
-      "derrotas": 4,
-      "pontosMarcados": 963.39,
-      "pontosSofridos": 1001.97,
-      "saldo": -38.58,
-      "media": 87.58
+      "derrotas": 5,
+      "pontosMarcados": 1027.81,
+      "pontosSofridos": 1027.3,
+      "saldo": 0.51,
+      "media": 85.65
     },
     {
       "posicao": 15,
-      "time": "SC Tello",
-      "pontos": 13,
-      "jogos": 11,
+      "time": "ozzinca f.c.",
+      "pontos": 15,
+      "jogos": 12,
       "vitorias": 4,
-      "empates": 1,
-      "derrotas": 6,
-      "pontosMarcados": 893.41,
-      "pontosSofridos": 988.05,
-      "saldo": -94.64,
-      "media": 81.22
+      "empates": 3,
+      "derrotas": 5,
+      "pontosMarcados": 1060.65,
+      "pontosSofridos": 1081.5,
+      "saldo": -20.85,
+      "media": 88.39
     },
     {
       "posicao": 16,
       "time": "WL Corttes FC",
-      "pontos": 11,
-      "jogos": 11,
-      "vitorias": 3,
+      "pontos": 14,
+      "jogos": 12,
+      "vitorias": 4,
       "empates": 2,
       "derrotas": 6,
-      "pontosMarcados": 862.06,
-      "pontosSofridos": 999.5,
-      "saldo": -137.44,
-      "media": 78.37
+      "pontosMarcados": 958.72,
+      "pontosSofridos": 1085.35,
+      "saldo": -126.63,
+      "media": 79.89
     },
     {
       "posicao": 17,
       "time": "skinkrapels",
       "pontos": 10,
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 2,
       "empates": 4,
-      "derrotas": 5,
-      "pontosMarcados": 923.28,
-      "pontosSofridos": 921.45,
-      "saldo": 1.83,
-      "media": 83.93
+      "derrotas": 6,
+      "pontosMarcados": 988.12,
+      "pontosSofridos": 1007.64,
+      "saldo": -19.52,
+      "media": 82.34
     },
     {
       "posicao": 18,
       "time": "pau e chok",
       "pontos": 9,
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 3,
       "empates": 0,
-      "derrotas": 8,
-      "pontosMarcados": 886.39,
-      "pontosSofridos": 937.4,
-      "saldo": -51.01,
-      "media": 80.58
+      "derrotas": 9,
+      "pontosMarcados": 962.59,
+      "pontosSofridos": 1023.09,
+      "saldo": -60.5,
+      "media": 80.22
     },
     {
       "posicao": 19,
       "time": "Oxente Pizzaria FC",
       "pontos": 6,
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 2,
       "empates": 0,
-      "derrotas": 9,
+      "derrotas": 10,
       "pontosMarcados": 705.55,
-      "pontosSofridos": 1013.04,
-      "saldo": -307.49,
-      "media": 64.14
+      "pontosSofridos": 1114.83,
+      "saldo": -409.28,
+      "media": 58.8
     },
     {
       "posicao": 20,
       "time": "Riacho FTV",
       "pontos": 5,
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 1,
       "empates": 2,
-      "derrotas": 8,
-      "pontosMarcados": 814.23,
-      "pontosSofridos": 1005.14,
-      "saldo": -190.91,
-      "media": 74.02
+      "derrotas": 9,
+      "pontosMarcados": 895.49,
+      "pontosSofridos": 1094.08,
+      "saldo": -198.59,
+      "media": 74.62
     }
   ],
   "rodadas": [
@@ -2092,15 +2092,15 @@
           "mandante": {
             "cartoleiro": "Isac",
             "time": "mito350",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 76.06,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "alecksandro",
             "time": "alecksandrofc",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 100.73,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2108,15 +2108,15 @@
           "mandante": {
             "cartoleiro": "PH",
             "time": "Vaqueiro Sport club",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 85.69,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "joubert da silva fig",
             "time": "pau e chok",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 76.2,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2124,15 +2124,15 @@
           "mandante": {
             "cartoleiro": "Kleberson",
             "time": "SC Tello",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 86.19,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Adailton",
             "time": "skinkrapels",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 64.84,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2140,15 +2140,15 @@
           "mandante": {
             "cartoleiro": "José Luiz",
             "time": "O MENSALISTA FC 1999",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 60.99,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Leandro Silva",
             "time": "Catalão City PE",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 101.19,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2156,15 +2156,15 @@
           "mandante": {
             "cartoleiro": "Fernando Antonio",
             "time": "Fernando.f7",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 69.76,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Felipe Lopes",
             "time": "MitaMiita - IC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 86.14,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2172,15 +2172,15 @@
           "mandante": {
             "cartoleiro": "Wallyson Lemos",
             "time": "WL Corttes FC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 96.66,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Jose manoel",
             "time": "ozzinca f.c.",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 85.85,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2188,15 +2188,15 @@
           "mandante": {
             "cartoleiro": "Anderson Gomes",
             "time": "Cajá FCC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 88.94,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "José Samuel",
             "time": "Riacho FTV",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 81.26,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2204,15 +2204,15 @@
           "mandante": {
             "cartoleiro": "Lucas Vinicius",
             "time": "TricolorSp3 F.C",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 96.94,
+            "resultado": "E",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Mauri",
             "time": "Clemente A.F.C",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 94.14,
+            "resultado": "E",
             "naoEscalou": false
           }
         },
@@ -2220,15 +2220,15 @@
           "mandante": {
             "cartoleiro": "Erick Braz",
             "time": "Oxente Pizzaria FC",
-            "pontuacao": null,
-            "resultado": null,
-            "naoEscalou": false
+            "pontuacao": 0,
+            "resultado": "D",
+            "naoEscalou": true
           },
           "visitante": {
             "cartoleiro": "bruno fc",
             "time": "fazenda camarões fc",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 101.79,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2236,15 +2236,15 @@
           "mandante": {
             "cartoleiro": "edson manoel",
             "time": "Demolidor01",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 79.19,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Emerson",
             "time": "EMERSON:)",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 110.94,
+            "resultado": "V",
             "naoEscalou": false
           }
         }
