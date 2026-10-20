@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-20T15:09:43.700752+00:00",
+  "atualizadoEm": "2026-10-20T15:35:45.178258+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1825,7 +1825,100 @@
         33
       ],
       "quantidadeEsperada": 4,
-      "partidas": []
+      "partidas": [
+        {
+          "time1": "SC Tello",
+          "time2": "KORINCHASU",
+          "ida": {
+            "rodadaCartola": 32,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 33,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Coquinho bebidas",
+          "time2": "Raio negro hd",
+          "ida": {
+            "rodadaCartola": 32,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 33,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Cajá FCC",
+          "time2": "Vaqueiro Sport club",
+          "ida": {
+            "rodadaCartola": 32,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 33,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "expresso riachense",
+          "time2": "Óia o rato!",
+          "ida": {
+            "rodadaCartola": 32,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 33,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        }
+      ]
     },
     {
       "id": "semifinais",
