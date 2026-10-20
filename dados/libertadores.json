@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-19T21:26:03.814549+00:00",
+  "atualizadoEm": "2026-10-20T00:36:00.011815+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2672,8 +2672,8 @@
           "time1": "kaio paredão FC 01",
           "time2": "Demolidor01",
           "ida": {
-            "time1": 79.59,
-            "time2": 75.49,
+            "time1": 97.94,
+            "time2": 76.69,
             "status": "parcial"
           },
           "volta": {
@@ -2682,8 +2682,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 79.59,
-            "time2": 75.49
+            "time1": 97.94,
+            "time2": 76.69
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2693,7 +2693,7 @@
           "time1": "Racionais FC_81",
           "time2": "MitaMiita - IC",
           "ida": {
-            "time1": 59.71,
+            "time1": 69.01,
             "time2": 79.54,
             "status": "parcial"
           },
@@ -2703,7 +2703,7 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 59.71,
+            "time1": 69.01,
             "time2": 79.54
           },
           "vencedor": null,
@@ -2714,8 +2714,8 @@
           "time1": "Alison FCC",
           "time2": "Arsenal PE 87",
           "ida": {
-            "time1": 73.58,
-            "time2": 59.64,
+            "time1": 82.88,
+            "time2": 84.89,
             "status": "parcial"
           },
           "volta": {
@@ -2724,8 +2724,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 73.58,
-            "time2": 59.64
+            "time1": 82.88,
+            "time2": 84.89
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2735,8 +2735,8 @@
           "time1": "EMERSON:)",
           "time2": "ozzinca f.c.",
           "ida": {
-            "time1": 96.04,
-            "time2": 68.85,
+            "time1": 108.44,
+            "time2": 85.35,
             "status": "parcial"
           },
           "volta": {
@@ -2745,8 +2745,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 96.04,
-            "time2": 68.85
+            "time1": 108.44,
+            "time2": 85.35
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2783,7 +2783,7 @@
   "cartola": {
     "rodadaAtual": 31,
     "mercadoFechado": true,
-    "bolaRolando": false,
+    "bolaRolando": true,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
