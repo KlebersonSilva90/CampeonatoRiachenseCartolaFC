@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-20T05:15:46.517668+00:00",
+  "atualizadoEm": "2026-10-20T15:06:07.812594+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1644,15 +1644,15 @@
             "rodadaCartola": 31,
             "time1": 86.19,
             "time2": 64.99,
-            "status": "parcial"
+            "status": "concluida"
           },
           "agregado": {
             "time1": 174.32,
             "time2": 165.59
           },
-          "vencedor": null,
+          "vencedor": "SC Tello",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "KORINCHASU",
@@ -1665,17 +1665,17 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 93.74,
+            "time1": 98.39,
             "time2": 101.79,
-            "status": "parcial"
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 199.57,
+            "time1": 204.22,
             "time2": 198.87
           },
-          "vencedor": null,
+          "vencedor": "KORINCHASU",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "Coquinho bebidas 1 Ligas",
@@ -1690,15 +1690,15 @@
             "rodadaCartola": 31,
             "time1": 101.19,
             "time2": 86.19,
-            "status": "parcial"
+            "status": "concluida"
           },
           "agregado": {
             "time1": 174.27,
             "time2": 210.18
           },
-          "vencedor": null,
+          "vencedor": "Coquinho bebidas",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "Raio negro hd",
@@ -1713,15 +1713,15 @@
             "rodadaCartola": 31,
             "time1": 88.59,
             "time2": 81.09,
-            "status": "parcial"
+            "status": "concluida"
           },
           "agregado": {
             "time1": 198.32,
             "time2": 176.32
           },
-          "vencedor": null,
+          "vencedor": "Raio negro hd",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "O MENSALISTA FC 1999",
@@ -1736,15 +1736,15 @@
             "rodadaCartola": 31,
             "time1": 60.99,
             "time2": 88.94,
-            "status": "parcial"
+            "status": "concluida"
           },
           "agregado": {
             "time1": 175.59,
             "time2": 196.02
           },
-          "vencedor": null,
+          "vencedor": "Cajá FCC",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "Vaqueiro Sport club",
@@ -1757,17 +1757,17 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 79.59,
+            "time1": 85.69,
             "time2": 76.06,
-            "status": "parcial"
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 201.62,
+            "time1": 207.72,
             "time2": 168.9
           },
-          "vencedor": null,
+          "vencedor": "Vaqueiro Sport club",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "POLLY. FC. 12",
@@ -1780,17 +1780,17 @@
           },
           "volta": {
             "rodadaCartola": 31,
-            "time1": 89.64,
-            "time2": 118.61,
-            "status": "parcial"
+            "time1": 95.74,
+            "time2": 123.26,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 197.44,
-            "time2": 220.69
+            "time1": 203.54,
+            "time2": 225.34
           },
-          "vencedor": null,
+          "vencedor": "expresso riachense",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "OH PROMOVIDO FC",
@@ -1805,15 +1805,15 @@
             "rodadaCartola": 31,
             "time1": 90.79,
             "time2": 85.49,
-            "status": "parcial"
+            "status": "concluida"
           },
           "agregado": {
             "time1": 197.52,
             "time2": 211.62
           },
-          "vencedor": null,
+          "vencedor": "Óia o rato!",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         }
       ]
     },
@@ -1850,8 +1850,8 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 31,
-    "mercadoFechado": true,
+    "rodadaAtual": 32,
+    "mercadoFechado": false,
     "bolaRolando": false
   }
 }
