@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-20T15:35:45.178258+00:00",
+  "atualizadoEm": "2026-10-24T20:24:23.394274+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1831,9 +1831,9 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 32,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 6.5,
+            "time2": 7.5,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 33,
@@ -1847,16 +1847,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Coquinho bebidas",
           "time2": "Raio negro hd",
           "ida": {
             "rodadaCartola": 32,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 5.2,
+            "time2": 1.5,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 33,
@@ -1870,16 +1870,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "Cajá FCC",
           "time2": "Vaqueiro Sport club",
           "ida": {
             "rodadaCartola": 32,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 5.0,
+            "time2": 6.5,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 33,
@@ -1893,16 +1893,16 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         },
         {
           "time1": "expresso riachense",
           "time2": "Óia o rato!",
           "ida": {
             "rodadaCartola": 32,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 6.5,
+            "time2": 0.0,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 33,
@@ -1916,7 +1916,7 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         }
       ]
     },
@@ -1944,7 +1944,7 @@
   "avisos": [],
   "cartola": {
     "rodadaAtual": 32,
-    "mercadoFechado": false,
-    "bolaRolando": false
+    "mercadoFechado": true,
+    "bolaRolando": true
   }
 }
