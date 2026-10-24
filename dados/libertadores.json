@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-24T20:24:34.261008+00:00",
+  "atualizadoEm": "2026-10-24T22:41:16.097665+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2677,13 +2677,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 5.0,
-            "time2": 3.82,
+            "time1": 35.25,
+            "time2": 30.53,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 109.54,
-            "time2": 83.01
+            "time1": 139.79,
+            "time2": 109.72
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2698,13 +2698,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 4.9,
-            "time2": 5.0,
+            "time1": 34.6,
+            "time2": 34.45,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 75.81,
-            "time2": 91.14
+            "time1": 105.51,
+            "time2": 120.59
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2719,13 +2719,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 5.0,
-            "time2": 6.2,
+            "time1": 22.42,
+            "time2": 31.52,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 89.28,
-            "time2": 93.59
+            "time1": 106.7,
+            "time2": 118.91
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2740,13 +2740,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 0.0,
-            "time2": 5.0,
+            "time1": 23.42,
+            "time2": 40.82,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 110.94,
-            "time2": 90.85
+            "time1": 134.36,
+            "time2": 126.67
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
