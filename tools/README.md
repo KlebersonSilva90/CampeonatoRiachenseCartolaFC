@@ -64,6 +64,29 @@ Para verificar somente algumas séries:
 python tools/verificar_nao_escalados.py --series A C E
 ```
 
+O site exibe um aviso quando um time acumula cinco ocorrências. Para listar os
+contatos ainda pendentes:
+
+```powershell
+python tools/registrar_contato.py --listar
+```
+
+Depois que o participante entrar em contato, registre a contagem atual:
+
+```powershell
+python tools/registrar_contato.py --serie E --time "Vermeiras FC"
+```
+
+Também é possível localizar pelo nome do cartoleiro:
+
+```powershell
+python tools/registrar_contato.py --cartoleiro "Wesley"
+```
+
+O registro é salvo em `dados/alertas-nao-escalados.json`. O time deixa de
+aparecer no aviso e retorna somente se acumular mais cinco ocorrências após o
+contato registrado.
+
 ## Imagens para divulgação (teste)
 
 Para gerar um PNG da classificação e outro da última rodada concluída:
