@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-26T17:28:00.834318+00:00",
+  "atualizadoEm": "2026-10-27T00:55:49.550965+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1831,8 +1831,8 @@
           "time2": "KORINCHASU",
           "ida": {
             "rodadaCartola": 32,
-            "time1": 40.39,
-            "time2": 56.71,
+            "time1": 59.54,
+            "time2": 68.46,
             "status": "parcial"
           },
           "volta": {
@@ -1854,8 +1854,8 @@
           "time2": "Raio negro hd",
           "ida": {
             "rodadaCartola": 32,
-            "time1": 59.7,
-            "time2": 50.97,
+            "time1": 80.05,
+            "time2": 66.27,
             "status": "parcial"
           },
           "volta": {
@@ -1877,8 +1877,8 @@
           "time2": "Vaqueiro Sport club",
           "ida": {
             "rodadaCartola": 32,
-            "time1": 38.3,
-            "time2": 65.6,
+            "time1": 63.95,
+            "time2": 85.95,
             "status": "parcial"
           },
           "volta": {
@@ -1900,8 +1900,8 @@
           "time2": "Óia o rato!",
           "ida": {
             "rodadaCartola": 32,
-            "time1": 43.77,
-            "time2": 56.06,
+            "time1": 73.22,
+            "time2": 75.41,
             "status": "parcial"
           },
           "volta": {
@@ -1945,6 +1945,6 @@
   "cartola": {
     "rodadaAtual": 32,
     "mercadoFechado": true,
-    "bolaRolando": false
+    "bolaRolando": true
   }
 }
