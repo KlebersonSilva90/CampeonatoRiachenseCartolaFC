@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-27T12:03:19.830256+00:00",
+  "atualizadoEm": "2026-10-27T14:45:26.570989+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2762,9 +2762,52 @@
         34
       ],
       "quantidadeEsperada": 2,
-      "status": "aguardando",
+      "status": "definido",
       "conteudoAntigoIgnorado": false,
-      "partidas": []
+      "partidas": [
+        {
+          "time1": "kaio paredão FC 01",
+          "time2": "MitaMiita - IC",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        },
+        {
+          "time1": "Arsenal PE 87",
+          "time2": "EMERSON:)",
+          "ida": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "volta": {
+            "time1": 0,
+            "time2": 0,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": 0,
+            "time2": 0
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        }
+      ]
     },
     {
       "id": "final",
