@@ -144,14 +144,27 @@ function criarSeletor() {
   seletor.addEventListener("change", () => renderizarRodada(Number(seletor.value)));
 }
 
-function reincidentesSemEscalar(campeonatos, limite = 5) {
+function normalizarChaveAlerta(texto) {
+  return String(texto || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLocaleLowerCase("pt-BR")
+    .trim()
+    .replace(/\s+/g, " ");
+}
+
+function chaveAlertaReincidencia(serie, time) {
+  return `${String(serie || "").toUpperCase()}|${normalizarChaveAlerta(time)}`;
+}
+
+function reincidentesSemEscalar(campeonatos, contatosReconhecidos = {}, limite = 5) {
   const registros = new Map();
   campeonatos.forEach((campeonato) => {
     campeonato.rodadas.forEach((rodada) => {
       rodada.partidas.forEach((partida) => {
         [partida.mandante, partida.visitante].forEach((equipe) => {
           if (!(equipe.naoEscalou === true || equipe.pontuacao === 0)) return;
-          const chave = `${campeonato.serie}|${equipe.time}`;
+          const chave = chaveAlertaReincidencia(campeonato.serie, equipe.time);
           const registro = registros.get(chave) || {
             serie: campeonato.serie,
             time: equipe.time,
@@ -165,24 +178,46 @@ function reincidentesSemEscalar(campeonatos, limite = 5) {
     });
   });
   return [...registros.values()]
-    .filter((registro) => registro.quantidade >= limite)
-    .sort((a, b) => b.quantidade - a.quantidade || a.time.localeCompare(b.time, "pt-BR"));
+    .map((registro) => {
+      const chave = chaveAlertaReincidencia(registro.serie, registro.time);
+      const reconhecidas = Math.max(0, Number(contatosReconhecidos[chave]?.ocorrenciasReconhecidas) || 0);
+      return {
+        ...registro,
+        reconhecidas,
+        novasOcorrencias: Math.max(0, registro.quantidade - reconhecidas),
+      };
+    })
+    .filter((registro) => registro.novasOcorrencias >= limite)
+    .sort((a, b) => b.novasOcorrencias - a.novasOcorrencias || a.time.localeCompare(b.time, "pt-BR"));
 }
 
-function configurarAlertaReincidencia() {
+async function carregarContatosReconhecidos() {
+  try {
+    const resposta = await fetch(`dados/alertas-nao-escalados.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!resposta.ok) return {};
+    const dados = await resposta.json();
+    return dados.contatos || {};
+  } catch (erro) {
+    console.warn("Não foi possível carregar os contatos já registrados:", erro);
+    return {};
+  }
+}
+
+async function configurarAlertaReincidencia() {
   const dialogo = document.getElementById("alerta-reincidencia-nao-escalados");
   const mensagens = document.getElementById("mensagens-alerta-reincidencia");
   const fechar = document.getElementById("fechar-alerta-reincidencia");
   const confirmar = document.getElementById("confirmar-alerta-reincidencia");
   if (!dialogo || !mensagens) return;
 
-  const reincidentes = reincidentesSemEscalar(estadoDestaques.campeonatos);
+  const contatosReconhecidos = await carregarContatosReconhecidos();
+  const reincidentes = reincidentesSemEscalar(estadoDestaques.campeonatos, contatosReconhecidos);
   if (reincidentes.length === 0) return;
   mensagens.replaceChildren(...reincidentes.map((registro) => {
     const mensagem = document.createElement("p");
     mensagem.textContent = `${registro.cartoleiro.toUpperCase()}, ENTRE EM CONTATO POIS SEU TIME ${registro.time.toUpperCase()} FICOU 5 VEZES OU MAIS SEM ESCALAR.`;
     const detalhe = document.createElement("small");
-    detalhe.textContent = `Série ${registro.serie} · ${registro.quantidade} ocorrências`;
+    detalhe.textContent = `Série ${registro.serie} · ${registro.novasOcorrencias} nova(s) ocorrência(s) · ${registro.quantidade} no total`;
     const item = document.createElement("article");
     item.append(mensagem, detalhe);
     return item;
@@ -211,7 +246,7 @@ async function carregarDestaques() {
       if (statusRodadaGeral(numero) === "concluída") ultimaConcluida = numero;
     }
     renderizarRodada(ultimaConcluida);
-    configurarAlertaReincidencia();
+    await configurarAlertaReincidencia();
   } catch (erro) {
     definirTexto("status-destaques", "Não foi possível carregar os dados dos campeonatos.");
     console.error("Erro ao carregar os melhores da rodada:", erro);
