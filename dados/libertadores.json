@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-29T02:41:10.316952+00:00",
+  "atualizadoEm": "2026-10-29T08:56:45.996392+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2770,7 +2770,7 @@
           "time2": "MitaMiita - IC",
           "ida": {
             "time1": 40.47,
-            "time2": 40.07,
+            "time2": 41.57,
             "status": "parcial"
           },
           "volta": {
@@ -2780,7 +2780,7 @@
           },
           "agregado": {
             "time1": 40.47,
-            "time2": 40.07
+            "time2": 41.57
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2791,7 +2791,7 @@
           "time2": "EMERSON:)",
           "ida": {
             "time1": 18.1,
-            "time2": 26.9,
+            "time2": 26.4,
             "status": "parcial"
           },
           "volta": {
@@ -2801,7 +2801,7 @@
           },
           "agregado": {
             "time1": 18.1,
-            "time2": 26.9
+            "time2": 26.4
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2826,7 +2826,7 @@
   "cartola": {
     "rodadaAtual": 33,
     "mercadoFechado": true,
-    "bolaRolando": true,
+    "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
