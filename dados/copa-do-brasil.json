@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-29T08:56:37.478643+00:00",
+  "atualizadoEm": "2026-10-29T15:56:39.925472+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1837,13 +1837,13 @@
           },
           "volta": {
             "rodadaCartola": 33,
-            "time1": 28.67,
-            "time2": 36.37,
+            "time1": 28.75,
+            "time2": 36.45,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 100.96,
-            "time2": 120.23
+            "time1": 101.04,
+            "time2": 120.31
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1861,12 +1861,12 @@
           "volta": {
             "rodadaCartola": 33,
             "time1": 25.7,
-            "time2": 36.37,
+            "time2": 36.45,
             "status": "parcial"
           },
           "agregado": {
             "time1": 121.53,
-            "time2": 113.62
+            "time2": 113.7
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1883,12 +1883,12 @@
           },
           "volta": {
             "rodadaCartola": 33,
-            "time1": 33.07,
+            "time1": 33.15,
             "time2": 27.3,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 108.05,
+            "time1": 108.13,
             "time2": 124.58
           },
           "vencedor": null,
@@ -1906,13 +1906,13 @@
           },
           "volta": {
             "rodadaCartola": 33,
-            "time1": 41.67,
-            "time2": 40.97,
+            "time1": 41.75,
+            "time2": 41.05,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 125.42,
-            "time2": 125.33
+            "time1": 125.5,
+            "time2": 125.41
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
