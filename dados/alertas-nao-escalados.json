@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-10-29T16:29:15.512144+00:00",
+  "atualizadoEm": "2026-10-29T16:41:06.109516+00:00",
   "contatos": {
     "E|vermeiras fc": {
       "serie": "E",
@@ -15,6 +15,13 @@
       "cartoleiro": "Irakitan Villa",
       "ocorrenciasReconhecidas": 7,
       "contatoRegistradoEm": "2026-10-29T16:29:15.512144+00:00"
+    },
+    "E|calabresa c/ catupiry": {
+      "serie": "E",
+      "time": "Calabresa c/ catupiry",
+      "cartoleiro": "Erick Braz",
+      "ocorrenciasReconhecidas": 5,
+      "contatoRegistradoEm": "2026-10-29T16:41:06.109516+00:00"
     }
   }
 }
