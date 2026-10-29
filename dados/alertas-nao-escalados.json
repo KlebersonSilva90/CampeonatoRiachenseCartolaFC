@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-10-27T15:10:37.720318+00:00",
+  "atualizadoEm": "2026-10-29T16:29:15.512144+00:00",
   "contatos": {
     "E|vermeiras fc": {
       "serie": "E",
@@ -8,6 +8,13 @@
       "cartoleiro": "Wesley",
       "ocorrenciasReconhecidas": 9,
       "contatoRegistradoEm": "2026-10-27T15:10:37.720318+00:00"
+    },
+    "C|patativa celeste fc": {
+      "serie": "C",
+      "time": "Patativa Celeste FC",
+      "cartoleiro": "Irakitan Villa",
+      "ocorrenciasReconhecidas": 7,
+      "contatoRegistradoEm": "2026-10-29T16:29:15.512144+00:00"
     }
   }
 }
