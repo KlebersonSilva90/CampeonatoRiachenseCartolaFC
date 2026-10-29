@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-10-28T23:25:46.200582+00:00",
+  "atualizadoEm": "2026-10-29T02:41:01.809189+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1837,13 +1837,13 @@
           },
           "volta": {
             "rodadaCartola": 33,
-            "time1": 20.15,
-            "time2": 32.25,
+            "time1": 28.67,
+            "time2": 36.37,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 92.44,
-            "time2": 116.11
+            "time1": 100.96,
+            "time2": 120.23
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1860,13 +1860,13 @@
           },
           "volta": {
             "rodadaCartola": 33,
-            "time1": 14.7,
-            "time2": 26.65,
+            "time1": 25.7,
+            "time2": 34.87,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 110.53,
-            "time2": 103.9
+            "time1": 121.53,
+            "time2": 112.12
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1883,13 +1883,13 @@
           },
           "volta": {
             "rodadaCartola": 33,
-            "time1": 26.75,
-            "time2": 27.5,
+            "time1": 31.57,
+            "time2": 27.3,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 101.73,
-            "time2": 124.78
+            "time1": 106.55,
+            "time2": 124.58
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -1906,13 +1906,13 @@
           },
           "volta": {
             "rodadaCartola": 33,
-            "time1": 27.95,
-            "time2": 36.85,
+            "time1": 40.17,
+            "time2": 40.97,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 111.7,
-            "time2": 121.21
+            "time1": 123.92,
+            "time2": 125.33
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
