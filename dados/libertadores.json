@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-29T20:56:12.778016+00:00",
+  "atualizadoEm": "2026-10-30T00:40:21.015834+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2769,8 +2769,8 @@
           "time1": "kaio paredão FC 01",
           "time2": "MitaMiita - IC",
           "ida": {
-            "time1": 40.41,
-            "time2": 41.51,
+            "time1": 59.51,
+            "time2": 71.61,
             "status": "parcial"
           },
           "volta": {
@@ -2779,8 +2779,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 40.41,
-            "time2": 41.51
+            "time1": 59.51,
+            "time2": 71.61
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2790,8 +2790,8 @@
           "time1": "Arsenal PE 87",
           "time2": "EMERSON:)",
           "ida": {
-            "time1": 18.1,
-            "time2": 26.4,
+            "time1": 52.46,
+            "time2": 52.91,
             "status": "parcial"
           },
           "volta": {
@@ -2800,8 +2800,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 18.1,
-            "time2": 26.4
+            "time1": 52.46,
+            "time2": 52.91
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2826,7 +2826,7 @@
   "cartola": {
     "rodadaAtual": 33,
     "mercadoFechado": true,
-    "bolaRolando": false,
+    "bolaRolando": true,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
