@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-10-31T01:53:52.349584+00:00",
+  "atualizadoEm": "2026-10-31T08:05:13.481457+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2769,9 +2769,9 @@
           "time1": "kaio paredão FC 01",
           "time2": "MitaMiita - IC",
           "ida": {
-            "time1": 98.01,
+            "time1": 102.71,
             "time2": 79.61,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "time1": 0,
@@ -2779,7 +2779,7 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 98.01,
+            "time1": 102.71,
             "time2": 79.61
           },
           "vencedor": null,
@@ -2792,7 +2792,7 @@
           "ida": {
             "time1": 108.92,
             "time2": 78.67,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
             "time1": 0,
@@ -2824,8 +2824,8 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 33,
-    "mercadoFechado": true,
+    "rodadaAtual": 34,
+    "mercadoFechado": false,
     "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
