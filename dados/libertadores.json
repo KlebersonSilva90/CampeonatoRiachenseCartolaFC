@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-11-04T21:59:47.418412+00:00",
+  "atualizadoEm": "2026-11-05T02:14:28.611656+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2774,13 +2774,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 4.7,
-            "time2": 4.7,
+            "time1": 72.2,
+            "time2": 74.8,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 107.41,
-            "time2": 84.31
+            "time1": 174.91,
+            "time2": 154.41
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2795,13 +2795,13 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 4.7,
-            "time2": 0.0,
+            "time1": 70.6,
+            "time2": 61.25,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 113.62,
-            "time2": 78.67
+            "time1": 179.52,
+            "time2": 139.92
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2826,7 +2826,7 @@
   "cartola": {
     "rodadaAtual": 34,
     "mercadoFechado": true,
-    "bolaRolando": false,
+    "bolaRolando": true,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
