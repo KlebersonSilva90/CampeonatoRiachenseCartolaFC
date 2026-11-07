@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-11-07T02:37:21.642142+00:00",
+  "atualizadoEm": "2026-11-07T09:15:02.368690+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2771,20 +2771,20 @@
           "ida": {
             "time1": 102.71,
             "time2": 79.61,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
-            "time1": 0,
-            "time2": 0,
-            "status": "aguardando"
+            "time1": 93.9,
+            "time2": 94.3,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 102.71,
-            "time2": 79.61
+            "time1": 196.61,
+            "time2": 173.91
           },
-          "vencedor": null,
+          "vencedor": "kaio paredão FC 01",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         },
         {
           "time1": "Arsenal PE 87",
@@ -2792,20 +2792,20 @@
           "ida": {
             "time1": 108.92,
             "time2": 78.67,
-            "status": "parcial"
+            "status": "concluida"
           },
           "volta": {
-            "time1": 0,
-            "time2": 0,
-            "status": "aguardando"
+            "time1": 96.5,
+            "time2": 113.15,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 108.92,
-            "time2": 78.67
+            "time1": 205.42,
+            "time2": 191.82
           },
-          "vencedor": null,
+          "vencedor": "Arsenal PE 87",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         }
       ]
     },
@@ -2824,7 +2824,7 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 34,
+    "rodadaAtual": 35,
     "mercadoFechado": false,
     "bolaRolando": false,
     "rodadasGrupos": {
