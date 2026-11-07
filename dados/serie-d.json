@@ -1,7 +1,7 @@
 {
   "serie": "D",
   "fonte": "Serie D2.xlsm",
-  "atualizadoEm": "2026-10-31T14:37:01",
+  "atualizadoEm": "2026-11-07T14:26:10",
   "regraResultado": {
     "vitoriaDiferencaMinima": 5,
     "pontosVitoria": 3,
@@ -12,261 +12,261 @@
       "posicao": 1,
       "time": "kaio paredão FC 06 Regularidade",
       "pontos": 35,
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 11,
       "empates": 2,
-      "derrotas": 1,
-      "pontosMarcados": 1324.45,
-      "pontosSofridos": 907,
-      "saldo": 417.45,
-      "media": 94.6
+      "derrotas": 2,
+      "pontosMarcados": 1419.65,
+      "pontosSofridos": 1011.35,
+      "saldo": 408.3,
+      "media": 94.64
     },
     {
       "posicao": 2,
       "time": "Coquinho bebidas 1 Ligas",
-      "pontos": 31,
-      "jogos": 14,
-      "vitorias": 10,
+      "pontos": 34,
+      "jogos": 15,
+      "vitorias": 11,
       "empates": 1,
       "derrotas": 3,
-      "pontosMarcados": 1354.28,
-      "pontosSofridos": 829.11,
-      "saldo": 525.17,
-      "media": 96.73
+      "pontosMarcados": 1472.41,
+      "pontosSofridos": 929,
+      "saldo": 543.41,
+      "media": 98.16
     },
     {
       "posicao": 3,
       "time": "Paris Saint GermainCF",
-      "pontos": 31,
-      "jogos": 14,
-      "vitorias": 10,
+      "pontos": 34,
+      "jogos": 15,
+      "vitorias": 11,
       "empates": 1,
       "derrotas": 3,
-      "pontosMarcados": 1249.8,
-      "pontosSofridos": 1091.8,
-      "saldo": 158.0,
-      "media": 89.27
+      "pontosMarcados": 1354.15,
+      "pontosSofridos": 1187,
+      "saldo": 167.15,
+      "media": 90.28
     },
     {
       "posicao": 4,
       "time": "Óia o gato",
-      "pontos": 29,
-      "jogos": 14,
-      "vitorias": 9,
+      "pontos": 32,
+      "jogos": 15,
+      "vitorias": 10,
       "empates": 2,
       "derrotas": 3,
-      "pontosMarcados": 1280.22,
-      "pontosSofridos": 1026.48,
-      "saldo": 253.74,
-      "media": 91.44
+      "pontosMarcados": 1389.17,
+      "pontosSofridos": 1123.87,
+      "saldo": 265.3,
+      "media": 92.61
     },
     {
       "posicao": 5,
-      "time": "família fc palmeiras",
-      "pontos": 27,
-      "jogos": 14,
-      "vitorias": 8,
+      "time": "Alex Antenas FC",
+      "pontos": 30,
+      "jogos": 15,
+      "vitorias": 9,
       "empates": 3,
+      "derrotas": 3,
+      "pontosMarcados": 1308.43,
+      "pontosSofridos": 1164.81,
+      "saldo": 143.62,
+      "media": 87.23
+    },
+    {
+      "posicao": 6,
+      "time": "Dióclecinho FC",
+      "pontos": 28,
+      "jogos": 15,
+      "vitorias": 9,
+      "empates": 1,
+      "derrotas": 5,
+      "pontosMarcados": 1076.36,
+      "pontosSofridos": 1070.35,
+      "saldo": 6.01,
+      "media": 71.76
+    },
+    {
+      "posicao": 7,
+      "time": "família fc palmeiras",
+      "pontos": 28,
+      "jogos": 15,
+      "vitorias": 8,
+      "empates": 4,
       "derrotas": 3,
       "pontosMarcados": 1075.45,
       "pontosSofridos": 920.13,
       "saldo": 155.32,
-      "media": 76.82
-    },
-    {
-      "posicao": 6,
-      "time": "Alex Antenas FC",
-      "pontos": 27,
-      "jogos": 14,
-      "vitorias": 8,
-      "empates": 3,
-      "derrotas": 3,
-      "pontosMarcados": 1193.68,
-      "pontosSofridos": 1071.44,
-      "saldo": 122.24,
-      "media": 85.26
-    },
-    {
-      "posicao": 7,
-      "time": "Bayern11",
-      "pontos": 25,
-      "jogos": 14,
-      "vitorias": 8,
-      "empates": 1,
-      "derrotas": 5,
-      "pontosMarcados": 1126.87,
-      "pontosSofridos": 981.9,
-      "saldo": 144.97,
-      "media": 80.49
+      "media": 71.7
     },
     {
       "posicao": 8,
-      "time": "Dióclecinho FC",
-      "pontos": 25,
-      "jogos": 14,
+      "time": "JIQUIRIFC",
+      "pontos": 26,
+      "jogos": 15,
       "vitorias": 8,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 5,
-      "pontosMarcados": 960.31,
-      "pontosSofridos": 992.99,
-      "saldo": -32.68,
-      "media": 68.59
+      "pontosMarcados": 1135.46,
+      "pontosSofridos": 1047.35,
+      "saldo": 88.11,
+      "media": 75.7
     },
     {
       "posicao": 9,
-      "time": "JIQUIRIFC",
-      "pontos": 23,
-      "jogos": 14,
-      "vitorias": 7,
-      "empates": 2,
-      "derrotas": 5,
-      "pontosMarcados": 1026.22,
-      "pontosSofridos": 970.76,
-      "saldo": 55.46,
-      "media": 73.3
+      "time": "Bayern11",
+      "pontos": 25,
+      "jogos": 15,
+      "vitorias": 8,
+      "empates": 1,
+      "derrotas": 6,
+      "pontosMarcados": 1195.19,
+      "pontosSofridos": 1095.19,
+      "saldo": 100,
+      "media": 79.68
     },
     {
       "posicao": 10,
       "time": "maior do nordeste S C R",
-      "pontos": 22,
-      "jogos": 14,
+      "pontos": 23,
+      "jogos": 15,
       "vitorias": 7,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 6,
       "pontosMarcados": 1023.15,
       "pontosSofridos": 817.37,
       "saldo": 205.78,
-      "media": 73.08
+      "media": 68.21
     },
     {
       "posicao": 11,
       "time": "inferCoral fc",
       "pontos": 21,
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 6,
       "empates": 3,
-      "derrotas": 5,
-      "pontosMarcados": 1052.32,
-      "pontosSofridos": 943.13,
-      "saldo": 109.19,
-      "media": 75.17
+      "derrotas": 6,
+      "pontosMarcados": 1131.67,
+      "pontosSofridos": 1037.23,
+      "saldo": 94.44,
+      "media": 75.44
     },
     {
       "posicao": 12,
-      "time": "Tabajara 1912 SFC 1912",
+      "time": "SE Palmeiras Riachense",
       "pontos": 19,
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 6,
       "empates": 1,
-      "derrotas": 7,
-      "pontosMarcados": 829.52,
-      "pontosSofridos": 967.61,
-      "saldo": -138.09,
-      "media": 59.25
+      "derrotas": 8,
+      "pontosMarcados": 1126.61,
+      "pontosSofridos": 1229.53,
+      "saldo": -102.92,
+      "media": 75.11
     },
     {
       "posicao": 13,
-      "time": "SE Palmeiras Riachense",
-      "pontos": 16,
-      "jogos": 14,
-      "vitorias": 5,
+      "time": "Tabajara 1912 SFC 1912",
+      "pontos": 19,
+      "jogos": 15,
+      "vitorias": 6,
       "empates": 1,
       "derrotas": 8,
-      "pontosMarcados": 1013.32,
-      "pontosSofridos": 1161.21,
-      "saldo": -147.89,
-      "media": 72.38
+      "pontosMarcados": 922.89,
+      "pontosSofridos": 1082.36,
+      "saldo": -159.47,
+      "media": 61.53
     },
     {
       "posicao": 14,
       "time": "Corinthians up city",
-      "pontos": 16,
-      "jogos": 14,
-      "vitorias": 4,
+      "pontos": 19,
+      "jogos": 15,
+      "vitorias": 5,
       "empates": 4,
       "derrotas": 6,
-      "pontosMarcados": 1056.99,
-      "pontosSofridos": 1090.18,
-      "saldo": -33.19,
-      "media": 75.5
+      "pontosMarcados": 1151.09,
+      "pontosSofridos": 1169.53,
+      "saldo": -18.44,
+      "media": 76.74
     },
     {
       "posicao": 15,
-      "time": "THUNDER BRANCO",
-      "pontos": 12,
-      "jogos": 14,
+      "time": "Go_Flash",
+      "pontos": 13,
+      "jogos": 15,
       "vitorias": 4,
-      "empates": 0,
+      "empates": 1,
       "derrotas": 10,
-      "pontosMarcados": 847.49,
-      "pontosSofridos": 1067.87,
-      "saldo": -220.38,
-      "media": 60.54
+      "pontosMarcados": 859.99,
+      "pontosSofridos": 1132.4,
+      "saldo": -272.41,
+      "media": 57.33
     },
     {
       "posicao": 16,
-      "time": "REVISILVA",
-      "pontos": 11,
-      "jogos": 14,
-      "vitorias": 3,
-      "empates": 2,
-      "derrotas": 9,
-      "pontosMarcados": 966.1,
-      "pontosSofridos": 1098.26,
-      "saldo": -132.16,
-      "media": 69.01
+      "time": "THUNDER BRANCO",
+      "pontos": 12,
+      "jogos": 15,
+      "vitorias": 4,
+      "empates": 0,
+      "derrotas": 11,
+      "pontosMarcados": 924.08,
+      "pontosSofridos": 1177.11,
+      "saldo": -253.03,
+      "media": 61.61
     },
     {
       "posicao": 17,
-      "time": "Go_Flash",
-      "pontos": 10,
-      "jogos": 14,
+      "time": "REVISILVA",
+      "pontos": 11,
+      "jogos": 15,
       "vitorias": 3,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 10,
-      "pontosMarcados": 750.4,
-      "pontosSofridos": 1028.17,
-      "saldo": -277.77,
-      "media": 53.6
+      "pontosMarcados": 1065.99,
+      "pontosSofridos": 1216.39,
+      "saldo": -150.4,
+      "media": 71.07
     },
     {
       "posicao": 18,
       "time": "Elite Coral Futebol Clube",
       "pontos": 8,
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 2,
       "empates": 2,
-      "derrotas": 10,
-      "pontosMarcados": 802.97,
-      "pontosSofridos": 1085.19,
-      "saldo": -282.22,
-      "media": 57.36
+      "derrotas": 11,
+      "pontosMarcados": 900.36,
+      "pontosSofridos": 1194.14,
+      "saldo": -293.78,
+      "media": 60.02
     },
     {
       "posicao": 19,
       "time": "Fc-Villa-do-Rato-Fc",
       "pontos": 8,
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 1,
       "empates": 5,
-      "derrotas": 8,
-      "pontosMarcados": 802.25,
-      "pontosSofridos": 1014.58,
-      "saldo": -212.33,
-      "media": 57.3
+      "derrotas": 9,
+      "pontosMarcados": 879.61,
+      "pontosSofridos": 1130.63,
+      "saldo": -251.02,
+      "media": 58.64
     },
     {
       "posicao": 20,
       "time": "Chambá EC",
       "pontos": 6,
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 2,
       "empates": 0,
-      "derrotas": 12,
-      "pontosMarcados": 493.66,
-      "pontosSofridos": 1164.27,
-      "saldo": -670.61,
-      "media": 35.26
+      "derrotas": 13,
+      "pontosMarcados": 597.89,
+      "pontosSofridos": 1273.86,
+      "saldo": -675.97,
+      "media": 39.86
     }
   ],
   "rodadas": [
@@ -2587,15 +2587,15 @@
           "mandante": {
             "cartoleiro": "Jandson Ricardo",
             "time": "Dióclecinho FC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 116.05,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Thiago",
             "time": "Fc-Villa-do-Rato-Fc",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 77.36,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2603,15 +2603,15 @@
           "mandante": {
             "cartoleiro": "Gerson Firmino",
             "time": "Chambá EC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 104.23,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Tiago",
             "time": "Go_Flash",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 109.59,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2619,15 +2619,15 @@
           "mandante": {
             "cartoleiro": "PAULO DA SILVA",
             "time": "THUNDER BRANCO",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 76.59,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Robson Moura",
             "time": "JIQUIRIFC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 109.24,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2635,31 +2635,31 @@
           "mandante": {
             "cartoleiro": "Diego",
             "time": "família fc palmeiras",
-            "pontuacao": null,
-            "resultado": null,
-            "naoEscalou": false
+            "pontuacao": 0,
+            "resultado": "E",
+            "naoEscalou": true
           },
           "visitante": {
             "cartoleiro": "Cleysson Marques",
             "time": "maior do nordeste S C R",
-            "pontuacao": null,
-            "resultado": null,
-            "naoEscalou": false
+            "pontuacao": 0,
+            "resultado": "E",
+            "naoEscalou": true
           }
         },
         {
           "mandante": {
             "cartoleiro": "du sfc 1912",
             "time": "Tabajara 1912 SFC 1912",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 93.37,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Alex Aldir",
             "time": "Alex Antenas FC",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 114.75,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2667,15 +2667,15 @@
           "mandante": {
             "cartoleiro": "William Ferreira",
             "time": "Elite Coral Futebol Clube",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 97.39,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Severino Anderson",
             "time": "Óia o gato",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 108.95,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2683,15 +2683,15 @@
           "mandante": {
             "cartoleiro": "Ribeiro JR",
             "time": "Paris Saint GermainCF",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 104.35,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Kaio Henrique",
             "time": "kaio paredão FC 06 Regularidade",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 95.2,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2699,15 +2699,15 @@
           "mandante": {
             "cartoleiro": "Natan Silva",
             "time": "Bayern11",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 68.32,
+            "resultado": "D",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Gabriel Silvestre",
             "time": "SE Palmeiras Riachense",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 113.29,
+            "resultado": "V",
             "naoEscalou": false
           }
         },
@@ -2715,15 +2715,15 @@
           "mandante": {
             "cartoleiro": "Coquinho",
             "time": "Coquinho bebidas 1 Ligas",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 118.13,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Renato",
             "time": "REVISILVA",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 99.89,
+            "resultado": "D",
             "naoEscalou": false
           }
         },
@@ -2731,15 +2731,15 @@
           "mandante": {
             "cartoleiro": "Lindomar Miranda",
             "time": "Corinthians up city",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 94.1,
+            "resultado": "V",
             "naoEscalou": false
           },
           "visitante": {
             "cartoleiro": "Mateus Lima",
             "time": "inferCoral fc",
-            "pontuacao": null,
-            "resultado": null,
+            "pontuacao": 79.35,
+            "resultado": "D",
             "naoEscalou": false
           }
         }

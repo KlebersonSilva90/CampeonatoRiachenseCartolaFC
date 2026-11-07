@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-11-07T09:14:56.169596+00:00",
+  "atualizadoEm": "2026-11-07T17:30:41.281431+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1928,7 +1928,54 @@
         35
       ],
       "quantidadeEsperada": 2,
-      "partidas": []
+      "partidas": [
+        {
+          "time1": "SC Tello",
+          "time2": "Coquinho bebidas",
+          "ida": {
+            "rodadaCartola": 34,
+            "time1": 98.05,
+            "time2": 123.9,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 35,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        },
+        {
+          "time1": "Vaqueiro Sport club",
+          "time2": "Óia o rato!",
+          "ida": {
+            "rodadaCartola": 34,
+            "time1": 96.45,
+            "time2": 111.3,
+            "status": "concluida"
+          },
+          "volta": {
+            "rodadaCartola": 35,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "em-andamento"
+        }
+      ]
     },
     {
       "id": "final",
