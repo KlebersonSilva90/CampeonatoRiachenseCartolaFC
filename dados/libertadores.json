@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-11-19T00:59:54.822737+00:00",
+  "atualizadoEm": "2026-11-19T08:39:19.361856+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2824,8 +2824,8 @@
           "time1": "kaio paredão FC 01",
           "time2": "Arsenal PE 87",
           "ida": {
-            "time1": 55.38,
-            "time2": 39.78,
+            "time1": 62.94,
+            "time2": 51.94,
             "status": "parcial"
           },
           "volta": {
@@ -2834,8 +2834,8 @@
             "status": "aguardando"
           },
           "agregado": {
-            "time1": 55.38,
-            "time2": 39.78
+            "time1": 62.94,
+            "time2": 51.94
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2848,7 +2848,7 @@
   "cartola": {
     "rodadaAtual": 35,
     "mercadoFechado": true,
-    "bolaRolando": true,
+    "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
