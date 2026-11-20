@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-11-19T23:51:46.355707+00:00",
+  "atualizadoEm": "2026-11-20T06:06:49.702221+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2825,8 +2825,8 @@
           "time2": "Arsenal PE 87",
           "ida": {
             "time1": 62.94,
-            "time2": 51.94,
-            "status": "parcial"
+            "time2": 52.84,
+            "status": "concluida"
           },
           "volta": {
             "time1": 0,
@@ -2835,7 +2835,7 @@
           },
           "agregado": {
             "time1": 62.94,
-            "time2": 51.94
+            "time2": 52.84
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
@@ -2846,9 +2846,9 @@
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 35,
-    "mercadoFechado": true,
-    "bolaRolando": true,
+    "rodadaAtual": 36,
+    "mercadoFechado": false,
+    "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
       "2": 24,
