@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-11-20T18:58:25.442210+00:00",
+  "atualizadoEm": "2026-11-20T19:06:24.464442+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1985,7 +1985,31 @@
         37
       ],
       "quantidadeEsperada": 1,
-      "partidas": []
+      "partidas": [
+        {
+          "time1": "Coquinho bebidas",
+          "time2": "Óia o rato!",
+          "ida": {
+            "rodadaCartola": 36,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "volta": {
+            "rodadaCartola": 37,
+            "time1": null,
+            "time2": null,
+            "status": "aguardando"
+          },
+          "agregado": {
+            "time1": null,
+            "time2": null
+          },
+          "vencedor": null,
+          "empatadoNoAgregado": false,
+          "status": "agendado"
+        }
+      ]
     }
   ],
   "avisos": [],
