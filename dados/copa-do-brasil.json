@@ -1,7 +1,7 @@
 {
   "competicao": "Copa do Brasil",
   "fonte": "Copa do Brasil.xlsx",
-  "atualizadoEm": "2026-11-20T19:06:24.464442+00:00",
+  "atualizadoEm": "2026-11-21T23:14:16.627665+00:00",
   "regulamento": {
     "participantes": 64,
     "mataMata": "ida-e-volta",
@@ -1991,9 +1991,9 @@
           "time2": "Óia o rato!",
           "ida": {
             "rodadaCartola": 36,
-            "time1": null,
-            "time2": null,
-            "status": "aguardando"
+            "time1": 26.5,
+            "time2": 21.5,
+            "status": "parcial"
           },
           "volta": {
             "rodadaCartola": 37,
@@ -2007,7 +2007,7 @@
           },
           "vencedor": null,
           "empatadoNoAgregado": false,
-          "status": "agendado"
+          "status": "em-andamento"
         }
       ]
     }
@@ -2015,7 +2015,7 @@
   "avisos": [],
   "cartola": {
     "rodadaAtual": 36,
-    "mercadoFechado": false,
+    "mercadoFechado": true,
     "bolaRolando": false
   }
 }
