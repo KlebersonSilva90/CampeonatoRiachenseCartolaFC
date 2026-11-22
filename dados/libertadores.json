@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-11-22T03:17:34.053430+00:00",
+  "atualizadoEm": "2026-11-22T11:41:24.773772+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2829,12 +2829,12 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 59.25,
+            "time1": 59.17,
             "time2": 27.39,
             "status": "parcial"
           },
           "agregado": {
-            "time1": 122.19,
+            "time1": 122.11,
             "time2": 80.23
           },
           "vencedor": null,
