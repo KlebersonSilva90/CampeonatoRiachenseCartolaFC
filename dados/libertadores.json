@@ -1,7 +1,7 @@
 {
   "competicao": "Libertadores",
   "fonte": "LIBERTADORES.xlsm",
-  "atualizadoEm": "2026-11-24T04:03:03.257936+00:00",
+  "atualizadoEm": "2026-11-24T14:47:04.052269+00:00",
   "regulamento": {
     "grupos": 8,
     "timesPorGrupo": 4,
@@ -2829,25 +2829,25 @@
             "status": "concluida"
           },
           "volta": {
-            "time1": 87.61,
-            "time2": 58.83,
-            "status": "parcial"
+            "time1": 88.51,
+            "time2": 59.63,
+            "status": "concluida"
           },
           "agregado": {
-            "time1": 150.55,
-            "time2": 111.67
+            "time1": 151.45,
+            "time2": 112.47
           },
-          "vencedor": null,
+          "vencedor": "kaio paredão FC 01",
           "empatadoNoAgregado": false,
-          "status": "em-andamento"
+          "status": "concluido"
         }
       ]
     }
   ],
   "avisos": [],
   "cartola": {
-    "rodadaAtual": 36,
-    "mercadoFechado": true,
+    "rodadaAtual": 37,
+    "mercadoFechado": false,
     "bolaRolando": false,
     "rodadasGrupos": {
       "1": 23,
